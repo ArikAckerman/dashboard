@@ -1,0 +1,352 @@
+Country;Year;Age;Sex;Rate
+Afghanistan;2018;15-24;female;0.5625
+Afghanistan;2018;15+;female;0.9725
+Afghanistan;2018;25-64;female;0.9939
+Afghanistan;2018;65+;female;0.993
+Albania;2018;15-24;female;0.9987
+Albania;2018;15+;female;0.992
+Albania;2018;25-64;female;0.9943
+Albania;2018;65+;female;0.5467
+Algeria;2018;15-24;female;0.8241
+Algeria;2018;15+;female;0.9978
+Algeria;2018;25-64;female;0.783
+Algeria;2018;65+;female;0.9953
+Argentina;2018;15-24;female;0.8437
+Argentina;2018;15+;female;0.9652
+Argentina;2018;25-64;female;0.9993
+Argentina;2018;65+;female;0.9145
+Aruba;2018;15-24;female;0.8783
+Aruba;2018;15+;female;0.9017
+Aruba;2018;25-64;female;0.9975
+Aruba;2018;65+;female;0.9995
+Azerbaijan;2018;15-24;female;0.8808
+Azerbaijan;2018;15+;female;0.9981
+Azerbaijan;2018;25-64;female;0.8068
+Azerbaijan;2018;65+;female;0.9956
+Bahrain;2018;15-24;female;0.9939
+Bahrain;2018;15+;female;0.9897
+Bahrain;2018;25-64;female;0.962
+Bahrain;2018;65+;female;0.812
+Bangladesh;2018;15-24;female;0.9898
+Bangladesh;2018;15+;female;0.9938
+Bangladesh;2018;25-64;female;0.9887
+Bangladesh;2018;65+;female;0.997
+Belarus;2018;15-24;female;0.9944
+Belarus;2018;15+;female;0.9944
+Belarus;2018;25-64;female;0.9785
+Belarus;2018;65+;female;0.996
+Benin;2018;15-24;female;0.9994
+Benin;2018;15+;female;0.9974
+Benin;2018;25-64;female;0.984
+Benin;2018;65+;female;0.8465
+Bhutan;2018;15-24;female;0.9773
+Bhutan;2018;15+;female;0.8995
+Bhutan;2018;25-64;female;0.9917
+Bhutan;2018;65+;female;0.9835
+Bolivia (Plurinational State of);2018;15-24;female;0.6542
+Bolivia (Plurinational State of);2018;15+;female;0.9759
+Bolivia (Plurinational State of);2018;25-64;female;0.996
+Bolivia (Plurinational State of);2018;65+;female;0.9998
+Brazil;2018;15-24;female;0.9983
+Brazil;2018;15+;female;0.6095
+Brazil;2018;25-64;female;0.9898
+Brazil;2018;65+;female;0.6179
+Brunei Darussalam;2018;15-24;female;0.8772
+Brunei Darussalam;2018;15+;female;0.9978
+Brunei Darussalam;2018;25-64;female;0.7824
+Brunei Darussalam;2018;65+;female;0.9934
+Burkina Faso;2018;15-24;female;0.5842
+Burkina Faso;2018;15+;female;0.9249
+Burkina Faso;2018;25-64;female;0.5634
+Burkina Faso;2018;65+;female;0.8814
+Cabo Verde;2018;15-24;female;0.9934
+Cabo Verde;2018;15+;female;0.9299
+Cabo Verde;2018;25-64;female;0.9908
+Cabo Verde;2018;65+;female;0.9992
+Cameroon;2018;15-24;female;0.8759
+Cameroon;2018;15+;female;0.9969
+Cameroon;2018;25-64;female;0.8172
+Cameroon;2018;65+;female;0.9906
+Central African Republic;2018;15-24;female;0.9925
+Central African Republic;2018;15+;female;0.9923
+Central African Republic;2018;25-64;female;0.9411
+Central African Republic;2018;65+;female;0.9975
+China;2018;15-24;female;0.9836
+China;2018;15+;female;0.9929
+China;2018;25-64;female;0.9773
+China;2018;65+;female;0.9963
+Colombia;2018;15-24;female;0.9942
+Colombia;2018;15+;female;0.9884
+Colombia;2018;25-64;female;0.9771
+Colombia;2018;65+;female;0.9856
+Comoros;2018;15-24;female;0.9992
+Comoros;2018;15+;female;0.9969
+Comoros;2018;25-64;female;0.9888
+Comoros;2018;65+;female;0.8246
+Congo;2018;15-24;female;0.9516
+Congo;2018;15+;female;0.8883
+Congo;2018;25-64;female;0.986
+Congo;2018;65+;female;0.9846
+Costa Rica;2018;15-24;female;0.2981
+Costa Rica;2018;15+;female;0.7532
+Costa Rica;2018;25-64;female;0.9781
+Costa Rica;2018;65+;female;0.9495
+C?te d'Ivoire;2018;15-24;female;0.9973
+C?te d'Ivoire;2018;15+;female;0.9323
+C?te d'Ivoire;2018;25-64;female;0.9343
+C?te d'Ivoire;2018;65+;female;0.3269
+Cuba;2018;15-24;female;0.7159
+Cuba;2018;15+;female;0.9516
+Cuba;2018;25-64;female;0.5296
+Cuba;2018;65+;female;0.9792
+Democratic Republic of the Congo;2018;15-24;female;0.7343
+Democratic Republic of the Congo;2018;15+;female;0.8721
+Democratic Republic of the Congo;2018;25-64;female;0.9916
+Democratic Republic of the Congo;2018;65+;female;0.8342
+Dominican Republic;2018;15-24;female;0.8153
+Dominican Republic;2018;15+;female;0.6579
+Dominican Republic;2018;25-64;female;0.9959
+Dominican Republic;2018;65+;female;0.9897
+Ecuador;2018;15-24;female;0.7819
+Ecuador;2018;15+;female;0.995
+Ecuador;2018;25-64;female;0.7238
+Ecuador;2018;65+;female;0.9599
+Egypt;2018;15-24;female;0.9461
+Egypt;2018;15+;female;0.9827
+Egypt;2018;25-64;female;0.9144
+Egypt;2018;65+;female;0.748
+Eritrea;2018;15-24;female;0.9269
+Eritrea;2018;15+;female;0.9574
+Eritrea;2018;25-64;female;0.9353
+Eritrea;2018;65+;female;0.9507
+Gabon;2018;15-24;female;0.986
+Gabon;2018;15+;female;0.9925
+Gabon;2018;25-64;female;0.8952
+Gabon;2018;65+;female;0.9635
+Ghana;2018;15-24;female;0.9592
+Ghana;2018;15+;female;0.9797
+Ghana;2018;25-64;female;0.9271
+Ghana;2018;65+;female;0.6421
+Guatemala;2018;15-24;female;0.7375
+Guatemala;2018;15+;female;0.7084
+Guatemala;2018;25-64;female;0.9901
+Guatemala;2018;65+;female;0.936
+Honduras;2018;15-24;female;0.5548
+Honduras;2018;15+;female;0.8742
+Honduras;2018;25-64;female;0.978
+Honduras;2018;65+;female;0.9876
+India;2018;15-24;female;0.9979
+India;2018;15+;female;0.4236
+India;2018;25-64;female;0.9301
+India;2018;65+;female;0.5007
+Indonesia;2018;15-24;female;0.8263
+Indonesia;2018;15+;female;0.9847
+Indonesia;2018;25-64;female;0.6464
+Indonesia;2018;65+;female;0.978
+Iran (Islamic Republic of);2018;15-24;female;0.4717
+Iran (Islamic Republic of);2018;15+;female;0.7904
+Iran (Islamic Republic of);2018;25-64;female;0.5014
+Iran (Islamic Republic of);2018;65+;female;0.8585
+Iraq;2018;15-24;female;0.9823
+Iraq;2018;15+;female;0.8237
+Iraq;2018;25-64;female;0.9606
+Iraq;2018;65+;female;0.9935
+Italy;2018;15-24;female;0.8499
+Italy;2018;15+;female;0.9968
+Italy;2018;25-64;female;0.7728
+Italy;2018;65+;female;0.9301
+Jordan;2018;15-24;female;0.9623
+Jordan;2018;15+;female;0.9945
+Jordan;2018;25-64;female;0.9163
+Jordan;2018;65+;female;0.9507
+Kenya;2018;15-24;female;0.9699
+Kenya;2018;15+;female;0.9866
+Kenya;2018;25-64;female;0.9451
+Kenya;2018;65+;female;0.9735
+Kuwait;2018;15-24;female;0.9911
+Kuwait;2018;15+;female;0.9896
+Kuwait;2018;25-64;female;0.9616
+Kuwait;2018;65+;female;0.9541
+Kyrgyzstan;2018;15-24;female;0.9885
+Kyrgyzstan;2018;15+;female;0.9893
+Kyrgyzstan;2018;25-64;female;0.9607
+Kyrgyzstan;2018;65+;female;0.7187
+Lebanon;2018;15-24;female;0.9153
+Lebanon;2018;15+;female;0.8266
+Lebanon;2018;25-64;female;0.9837
+Lebanon;2018;65+;female;0.9646
+Madagascar;2018;15-24;female;0.1433
+Madagascar;2018;15+;female;0.764
+Madagascar;2018;25-64;female;0.9851
+Madagascar;2018;65+;female;0.9625
+Mali;2018;15-24;female;0.9984
+Mali;2018;15+;female;0.944
+Mali;2018;25-64;female;0.951
+Mali;2018;65+;female;0.2221
+Malta;2018;15-24;female;0.695
+Malta;2018;15+;female;0.9769
+Malta;2018;25-64;female;0.4414
+Malta;2018;65+;female;0.9837
+Mauritius;2018;15-24;female;0.8814
+Mauritius;2018;15+;female;0.8714
+Mauritius;2018;25-64;female;0.9957
+Mauritius;2018;65+;female;0.8264
+Mexico;2018;15-24;female;0.7956
+Mexico;2018;15+;female;0.6173
+Mexico;2018;25-64;female;0.9977
+Mexico;2018;65+;female;0.9958
+Mongolia;2018;15-24;female;0.7528
+Mongolia;2018;15+;female;0.9978
+Mongolia;2018;25-64;female;0.6972
+Mongolia;2018;65+;female;0.9792
+Montenegro;2018;15-24;female;0.9599
+Montenegro;2018;15+;female;0.9914
+Montenegro;2018;25-64;female;0.9187
+Montenegro;2018;65+;female;0.7255
+Morocco;2018;15-24;female;0.923
+Morocco;2018;15+;female;0.9605
+Morocco;2018;25-64;female;0.95
+Morocco;2018;65+;female;0.9873
+Namibia;2018;15-24;female;0.9889
+Namibia;2018;15+;female;0.9933
+Namibia;2018;25-64;female;0.8966
+Namibia;2018;65+;female;0.9809
+Nepal;2018;15-24;female;0.9529
+Nepal;2018;15+;female;0.9929
+Nepal;2018;25-64;female;0.9331
+Nepal;2018;65+;female;0.5914
+Niger;2018;15-24;female;0.7144
+Niger;2018;15+;female;0.6145
+Niger;2018;25-64;female;0.9924
+Niger;2018;65+;female;0.945
+Nigeria;2018;15-24;female;0.4538
+Nigeria;2018;15+;female;0.8938
+Nigeria;2018;25-64;female;0.9799
+Nigeria;2018;65+;female;0.9903
+Oman;2018;15-24;female;0.9979
+Oman;2018;15+;female;0.3488
+Oman;2018;25-64;female;0.9362
+Oman;2018;65+;female;0.4439
+Pakistan;2018;15-24;female;0.8131
+Pakistan;2018;15+;female;0.9914
+Pakistan;2018;25-64;female;0.6019
+Pakistan;2018;65+;female;0.9807
+Palestine;2018;15-24;female;0.4248
+Palestine;2018;15+;female;0.7464
+Palestine;2018;25-64;female;0.4908
+Palestine;2018;65+;female;0.8538
+Panama;2018;15-24;female;0.984
+Panama;2018;15+;female;0.8074
+Panama;2018;25-64;female;0.9631
+Panama;2018;65+;female;0.9956
+Paraguay;2018;15-24;female;0.8398
+Paraguay;2018;15+;female;0.9975
+Paraguay;2018;25-64;female;0.7543
+Paraguay;2018;65+;female;0.9394
+Peru;2018;15-24;female;0.9703
+Peru;2018;15+;female;0.9954
+Peru;2018;25-64;female;0.9152
+Peru;2018;65+;female;0.9672
+Portugal;2018;15-24;female;0.974
+Portugal;2018;15+;female;0.989
+Portugal;2018;25-64;female;0.9565
+Portugal;2018;65+;female;0.9853
+Republic of Moldova;2018;15-24;female;0.9906
+Republic of Moldova;2018;15+;female;0.9914
+Republic of Moldova;2018;25-64;female;0.9631
+Republic of Moldova;2018;65+;female;0.9679
+Romania;2018;15-24;female;0.9867
+Romania;2018;15+;female;0.9933
+Romania;2018;25-64;female;0.9623
+Romania;2018;65+;female;0.7107
+Rwanda;2018;15-24;female;0.917
+Rwanda;2018;15+;female;0.792
+Rwanda;2018;25-64;female;0.9855
+Rwanda;2018;65+;female;0.9611
+Samoa;2018;15-24;female;0.0347
+Samoa;2018;15+;female;0.1975
+Samoa;2018;25-64;female;0.938
+Samoa;2018;65+;female;0.5569
+San Marino;2018;15-24;female;0.993
+San Marino;2018;15+;female;0.7854
+San Marino;2018;25-64;female;0.7794
+San Marino;2018;65+;female;0.0414
+Sao Tome and Principe;2018;15-24;female;0.2528
+Sao Tome and Principe;2018;15+;female;0.7797
+Sao Tome and Principe;2018;25-64;female;0.0568
+Sao Tome and Principe;2018;65+;female;0.9318
+Serbia;2018;15-24;female;0.8437
+Serbia;2018;15+;female;0.6136
+Serbia;2018;25-64;female;0.9783
+Serbia;2018;65+;female;0.5674
+Seychelles;2018;15-24;female;0.5742
+Seychelles;2018;15+;female;0.3029
+Seychelles;2018;25-64;female;0.9713
+Seychelles;2018;65+;female;0.9733
+Sierra Leone;2018;15-24;female;0.437
+Sierra Leone;2018;15+;female;0.9616
+Sierra Leone;2018;25-64;female;0.4924
+Sierra Leone;2018;65+;female;0.8967
+Singapore;2018;15-24;female;0.7744
+Singapore;2018;15+;female;0.9504
+Singapore;2018;25-64;female;0.9144
+South Sudan;2018;15-24;female;0.5768
+South Sudan;2018;15+;female;0.5487
+South Sudan;2018;25-64;female;0.5721
+South Sudan;2018;65+;female;0.684
+Spain;2018;15-24;female;0.8507
+Spain;2018;15+;female;0.9748
+Spain;2018;25-64;female;0.9802
+Spain;2018;65+;female;0.4034
+Sudan;2018;15-24;female;0.8096
+Sudan;2018;15+;female;0.0639
+Sudan;2018;25-64;female;0.1625
+Sudan;2018;65+;female;0.5229
+Suriname;2018;15-24;female;0.9926
+Suriname;2018;15+;female;0.9732
+Suriname;2018;25-64;female;1
+Suriname;2018;65+;female;0.4322
+Swaziland;2018;15-24;female;0.4686
+Swaziland;2018;15+;female;0.9502
+Swaziland;2018;25-64;female;0.9815
+Swaziland;2018;65+;female;0.9336
+Timor-Leste;2018;15-24;female;0.5307
+Timor-Leste;2018;15+;female;0.1631
+Timor-Leste;2018;25-64;female;0.4012
+Timor-Leste;2018;65+;female;0.903
+Tonga;2018;15-24;female;0.1579
+Tonga;2018;15+;female;0.5452
+Tonga;2018;25-64;female;0.8344
+Tonga;2018;65+;female;0.8781
+Tunisia;2018;15-24;female;0.3084
+Tunisia;2018;15+;female;0.2911
+Tunisia;2018;25-64;female;0.4538
+Tunisia;2018;65+;female;0.4389
+Turkey;2018;15-24;female;0.6497
+Turkey;2018;15+;female;0.6521
+Turkey;2018;25-64;female;0.8461
+Turkey;2018;65+;female;0.3573
+Uganda;2018;15-24;female;0.9646
+Uganda;2018;15+;female;0.888
+Uganda;2018;25-64;female;0.8488
+Uganda;2018;65+;female;0.2674
+Ukraine;2018;15-24;female;0.9336
+Ukraine;2018;15+;female;0.9836
+Ukraine;2018;25-64;female;0.5142
+Ukraine;2018;65+;female;0.415
+Uruguay;2018;15-24;female;0.4011
+Uruguay;2018;15+;female;0.1908
+Uruguay;2018;25-64;female;0.8502
+Uruguay;2018;65+;female;0.9061
+Vanuatu;2018;15-24;female;0.8067
+Vanuatu;2018;15+;female;0.5068
+Vanuatu;2018;25-64;female;0.9976
+Vanuatu;2018;65+;female;0.9898
+Viet Nam;2018;15-24;female;0.0971
+Viet Nam;2018;15+;female;0.9713
+Viet Nam;2018;25-64;female;0.8618
+Viet Nam;2018;65+;female;0.2141
+Zambia;2018;15-24;female;0.697
+Zambia;2018;15+;female;0.6591
+Zambia;2018;25-64;female;0.9729
+Zambia;2018;65+;female;0.9449
