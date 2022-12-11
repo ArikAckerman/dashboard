@@ -1,0 +1,167 @@
+Country;Year;Age;Sex;Rate
+Afghanistan;2012;15-24;female;0.9923
+Afghanistan;2012;15-24;male;0.9902
+Albania;2012;15-24;female;0.5249
+Albania;2012;15-24;male;0.4094
+Algeria;2012;15-24;female;0.9813
+Algeria;2012;15-24;male;0.7158
+Argentina;2012;15-24;female;0.999
+Argentina;2012;15-24;male;0.7666
+Aruba;2012;15-24;female;0.9194
+Aruba;2012;15-24;male;0.9599
+Azerbaijan;2012;15-24;female;0.9878
+Azerbaijan;2012;15-24;male;0.9884
+Bahrain;2012;15-24;female;0.6665
+Bahrain;2012;15-24;male;0.9907
+Bangladesh;2012;15-24;female;0.6447
+Bangladesh;2012;15-24;male;0.9923
+Belarus;2012;15-24;female;0.8349
+Belarus;2012;15-24;male;0.9635
+Benin;2012;15-24;female;0.9674
+Benin;2012;15-24;male;0.9902
+Bhutan;2012;15-24;female;0.9997
+Bhutan;2012;15-24;male;0.9896
+Bolivia (Plurinational State of);2012;15-24;female;0.9969
+Bolivia (Plurinational State of);2012;15-24;male;0.7628
+Brazil;2012;15-24;female;0.5829
+Brazil;2012;15-24;male;0.9787
+Brunei Darussalam;2012;15-24;female;0.9841
+Brunei Darussalam;2012;15-24;male;0.5833
+Burkina Faso;2012;15-24;female;0.8739
+Burkina Faso;2012;15-24;male;0.9883
+Cabo Verde;2012;15-24;female;0.8354
+Cabo Verde;2012;15-24;male;0.99
+Cameroon;2012;15-24;female;0.479
+Cameroon;2012;15-24;male;0.9872
+Central African Republic;2012;15-24;female;0.3979
+Central African Republic;2012;15-24;male;0.9966
+China;2012;15-24;female;0.9934
+China;2012;15-24;male;0.987
+Colombia;2012;15-24;female;0.999
+Colombia;2012;15-24;male;0.985
+Comoros;2012;15-24;female;0.8576
+Comoros;2012;15-24;male;0.9996
+Congo;2012;15-24;female;0.8141
+Congo;2012;15-24;male;0.991
+Costa Rica;2012;15-24;female;0.4802
+Costa Rica;2012;15-24;male;0.9187
+C?te d'Ivoire;2012;15-24;female;0.9684
+C?te d'Ivoire;2012;15-24;male;0.9509
+Cuba;2012;15-24;female;0.9022
+Cuba;2012;15-24;male;0.9095
+Democratic Republic of the Congo;2012;15-24;female;0.7826
+Democratic Republic of the Congo;2012;15-24;male;0.8751
+Dominican Republic;2012;15-24;female;0.8842
+Dominican Republic;2012;15-24;male;0.607
+Ecuador;2012;15-24;female;0.5913
+Ecuador;2012;15-24;male;0.7322
+Egypt;2012;15-24;female;0.9441
+Egypt;2012;15-24;male;0.9359
+Eritrea;2012;15-24;female;0.8544
+Eritrea;2012;15-24;male;0.9373
+Gabon;2012;15-24;female;0.9492
+Gabon;2012;15-24;male;0.7216
+Ghana;2012;15-24;female;0.984
+Ghana;2012;15-24;male;0.9725
+Guatemala;2012;15-24;female;0.6154
+Guatemala;2012;15-24;male;0.3295
+Honduras;2012;15-24;female;0.9047
+Honduras;2012;15-24;male;0.8533
+India;2012;15-24;female;0.5159
+India;2012;15-24;male;0.9971
+Indonesia;2012;15-24;female;0.9206
+Indonesia;2012;15-24;male;0.8485
+Iran (Islamic Republic of);2012;15-24;female;0.9844
+Iran (Islamic Republic of);2012;15-24;male;0.9789
+Iraq;2012;15-24;female;0.9539
+Iraq;2012;15-24;male;0.9734
+Italy;2012;15-24;female;0.9614
+Italy;2012;15-24;male;0.6986
+Jordan;2012;15-24;female;0.9384
+Jordan;2012;15-24;male;0.7245
+Kenya;2012;15-24;female;0.9861
+Kenya;2012;15-24;male;0.9487
+Kuwait;2012;15-24;female;0.8338
+Kuwait;2012;15-24;male;0.981
+Kyrgyzstan;2012;15-24;female;0.9826
+Kyrgyzstan;2012;15-24;male;0.9984
+Lebanon;2012;15-24;female;0.929
+Lebanon;2012;15-24;male;0.9815
+Madagascar;2012;15-24;female;0.3334
+Madagascar;2012;15-24;male;0.7985
+Mali;2012;15-24;female;0.582
+Mali;2012;15-24;male;0.9005
+Malta;2012;15-24;female;0.7835
+Malta;2012;15-24;male;0.989
+Mexico;2012;15-24;female;0.6758
+Mexico;2012;15-24;male;0.7103
+Mongolia;2012;15-24;female;0.9998
+Mongolia;2012;15-24;male;0.1829
+Montenegro;2012;15-24;female;0.9136
+Montenegro;2012;15-24;male;0.9577
+Morocco;2012;15-24;female;0.9532
+Morocco;2012;15-24;male;0.9626
+Namibia;2012;15-24;female;0.9403
+Namibia;2012;15-24;male;0.5283
+Nepal;2012;15-24;female;0.9902
+Nepal;2012;15-24;male;0.9919
+Niger;2012;15-24;female;0.3991
+Niger;2012;15-24;male;0.6149
+Nigeria;2012;15-24;female;0.4243
+Nigeria;2012;15-24;male;0.3889
+Oman;2012;15-24;female;0.8727
+Oman;2012;15-24;male;0.8978
+Pakistan;2012;15-24;female;0.8468
+Pakistan;2012;15-24;male;0.8155
+Palestine;2012;15-24;female;0.9575
+Palestine;2012;15-24;male;0.9477
+Panama;2012;15-24;female;0.9919
+Panama;2012;15-24;male;0.7911
+Paraguay;2012;15-24;female;0.9841
+Paraguay;2012;15-24;male;0.9441
+Peru;2012;15-24;female;0.8412
+Peru;2012;15-24;male;0.99
+Portugal;2012;15-24;female;0.9543
+Portugal;2012;15-24;male;0.6423
+Republic of Moldova;2012;15-24;female;0.9831
+Republic of Moldova;2012;15-24;male;0.6403
+Romania;2012;15-24;female;0.9796
+Romania;2012;15-24;male;0.2718
+Rwanda;2012;15-24;female;0.1494
+Rwanda;2012;15-24;male;0.723
+Samoa;2012;15-24;male;0.7283
+Sao Tome and Principe;2012;15-24;female;0.7304
+Sao Tome and Principe;2012;15-24;male;0.4958
+Serbia;2012;15-24;female;0.9781
+Serbia;2012;15-24;male;0.9919
+Serbia;2012;15-24;male;0.801
+Sierra Leone;2012;15-24;female;0.4937
+Sierra Leone;2012;15-24;male;0.3275
+Singapore;2012;15-24;female;0.0797
+Singapore;2012;15-24;male;0.997
+South Africa;2012;15-24;female;0.7543
+South Africa;2012;15-24;male;0.6326
+Spain;2012;15-24;female;0.6915
+Spain;2012;15-24;male;0.3262
+Suriname;2012;15-24;female;0.6318
+Suriname;2012;15-24;male;0.1788
+Swaziland;2012;15-24;female;0.9199
+Swaziland;2012;15-24;male;0.335
+Tonga;2012;15-24;female;0.1195
+Tonga;2012;15-24;male;0.2428
+Tunisia;2012;15-24;female;0.328
+Tunisia;2012;15-24;male;0.8495
+Turkey;2012;15-24;female;0.7562
+Turkey;2012;15-24;male;0.7461
+Uganda;2012;15-24;female;0.6016
+Uganda;2012;15-24;male;0.6056
+Ukraine;2012;15-24;female;0.7922
+Ukraine;2012;15-24;male;0.8101
+United Republic of Tanzania;2012;15-24;female;0.5839
+United Republic of Tanzania;2012;15-24;male;0.4973
+Uruguay;2012;15-24;female;0.7277
+Uruguay;2012;15-24;male;0.7784
+Viet Nam;2012;15-24;female;0.9328
+Viet Nam;2012;15-24;male;0.7402
+Zambia;2012;15-24;female;0.4117
+Zambia;2012;15-24;male;0.8929
