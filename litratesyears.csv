@@ -1,0 +1,4956 @@
+Country;Year;Age;Gender;Literacy rate
+Afghanistan;2011;15+;female;0.176121
+Afghanistan;2011;15+;male;0.454171
+Afghanistan;2011;15+;total;0.317411
+Afghanistan;2011;15-24;female;0.321132
+Afghanistan;2011;15-24;male;0.618791
+Afghanistan;2011;15-24;total;0.469901
+Afghanistan;2011;25-64;female;0.084128
+Afghanistan;2011;25-64;male;0.377948
+Afghanistan;2011;25-64;total;0.231536
+Afghanistan;2011;65+;female;0.196705
+Afghanistan;2011;65+;total;0.203219
+Afghanistan;2018;15+;female;0.298052
+Afghanistan;2018;15+;male;0.554755
+Afghanistan;2018;15+;total;0.430197
+Afghanistan;2018;15-24;female;0.562548
+Afghanistan;2018;15-24;male;0.740848
+Afghanistan;2018;15-24;total;0.654206
+Afghanistan;2018;25-64;female;0.143314
+Afghanistan;2018;25-64;male;0.45384
+Afghanistan;2018;25-64;total;0.304579
+Afghanistan;2018;65+;female;0.034743
+Afghanistan;2018;65+;male;0.24745
+Afghanistan;2018;65+;total;0.133318
+Bangladesh;2011;15+;female;0.551194
+Bangladesh;2011;15+;male;0.624831
+Bangladesh;2011;15+;total;0.587692
+Bangladesh;2011;15-24;female;0.795445
+Bangladesh;2011;15-24;male;0.764034
+Bangladesh;2011;15-24;total;0.77985
+Bangladesh;2011;25-64;female;0.480653
+Bangladesh;2011;25-64;male;0.585419
+Bangladesh;2011;25-64;total;0.532388
+Bangladesh;2011;65+;female;0.184306
+Bangladesh;2011;65+;male;0.415052
+Bangladesh;2011;65+;total;0.301912
+Bangladesh;2012;15+;female;0.54236
+Bangladesh;2012;15+;male;0.615429
+Bangladesh;2012;15+;total;0.578608
+Bangladesh;2012;15-24;female;0.793692
+Bangladesh;2012;15-24;male;0.762763
+Bangladesh;2012;15-24;total;0.778329
+Bangladesh;2012;25-64;female;0.472205
+Bangladesh;2012;25-64;male;0.574101
+Bangladesh;2012;25-64;total;0.522514
+Bangladesh;2012;65+;female;0.140803
+Bangladesh;2012;65+;male;0.394734
+Bangladesh;2012;65+;total;0.271811
+Bangladesh;2013;15+;female;0.57789
+Bangladesh;2013;15+;male;0.642138
+Bangladesh;2013;15+;total;0.610155
+Bangladesh;2013;15-24;female;0.869258
+Bangladesh;2013;15-24;male;0.840945
+Bangladesh;2013;15-24;total;0.855272
+Bangladesh;2013;25-64;female;0.489249
+Bangladesh;2013;25-64;male;0.585681
+Bangladesh;2013;25-64;total;0.537397
+Bangladesh;2013;65+;female;0.153041
+Bangladesh;2013;65+;male;0.40088
+Bangladesh;2013;65+;total;0.293269
+Bangladesh;2014;15+;female;0.578609
+Bangladesh;2014;15+;male;0.643651
+Bangladesh;2014;15+;total;0.610933
+Bangladesh;2014;15-24;female;0.864807
+Bangladesh;2014;15-24;male;0.846287
+Bangladesh;2014;15-24;total;0.855547
+Bangladesh;2014;25-64;female;0.49888
+Bangladesh;2014;25-64;male;0.587476
+Bangladesh;2014;25-64;total;0.542513
+Bangladesh;2014;65+;female;0.228539
+Bangladesh;2014;65+;male;0.404505
+Bangladesh;2014;65+;total;0.321468
+Bangladesh;2015;15+;female;0.62253
+Bangladesh;2015;15+;male;0.680554
+Bangladesh;2015;15+;total;0.651373
+Bangladesh;2015;15-24;female;0.895351
+Bangladesh;2015;15-24;male;0.86188
+Bangladesh;2015;15-24;total;0.878888
+Bangladesh;2015;25-64;female;0.551857
+Bangladesh;2015;25-64;male;0.636332
+Bangladesh;2015;25-64;total;0.593634
+Bangladesh;2015;65+;female;0.192799
+Bangladesh;2015;65+;male;0.428292
+Bangladesh;2015;65+;total;0.320992
+Bangladesh;2016;15+;female;0.698972
+Bangladesh;2016;15+;male;0.756189
+Bangladesh;2016;15+;total;0.727587
+Bangladesh;2016;15-24;female;0.935353
+Bangladesh;2016;15-24;male;0.909054
+Bangladesh;2016;15-24;total;0.922427
+Bangladesh;2016;25-64;female;0.641507
+Bangladesh;2016;25-64;male;0.720134
+Bangladesh;2016;25-64;total;0.680732
+Bangladesh;2016;65+;female;0.250229
+Bangladesh;2016;65+;male;0.524442
+Bangladesh;2016;65+;total;0.400465
+Bangladesh;2017;15+;female;0.700857
+Bangladesh;2017;15+;male;0.757024
+Bangladesh;2017;15+;total;0.72893
+Bangladesh;2017;15-24;female;0.943778
+Bangladesh;2017;15-24;male;0.915413
+Bangladesh;2017;15-24;total;0.929508
+Bangladesh;2017;25-64;female;0.650146
+Bangladesh;2017;25-64;male;0.720703
+Bangladesh;2017;25-64;total;0.685209
+Bangladesh;2017;65+;female;0.271671
+Bangladesh;2017;65+;male;0.510892
+Bangladesh;2017;65+;total;0.394672
+Bangladesh;2018;15+;female;0.711819
+Bangladesh;2018;15+;male;0.766693
+Bangladesh;2018;15+;total;0.739122
+Bangladesh;2018;15-24;female;0.949126
+Bangladesh;2018;15-24;male;0.918037
+Bangladesh;2018;15-24;total;0.932964
+Bangladesh;2018;25-64;female;0.668216
+Bangladesh;2018;25-64;male;0.728319
+Bangladesh;2018;25-64;total;0.697524
+Bangladesh;2018;65+;female;0.267644
+Bangladesh;2018;65+;male;0.530741
+Bangladesh;2018;65+;total;0.401205
+Bhutan;2012;15+;female;0.480166
+Bhutan;2012;15+;male;0.660031
+Bhutan;2012;15+;total;0.570336
+Bhutan;2012;15-24;female;0.844877
+Bhutan;2012;15-24;male;0.903958
+Bhutan;2012;15-24;total;0.873184
+Bhutan;2012;25-64;female;0.356122
+Bhutan;2012;25-64;male;0.614939
+Bhutan;2012;25-64;total;0.487071
+Bhutan;2012;65+;female;0.038678
+Bhutan;2012;65+;male;0.242808
+Bhutan;2012;65+;total;0.14938
+Bhutan;2017;15+;female;0.570836
+Bhutan;2017;15+;male;0.750199
+Bhutan;2017;15+;total;0.665612
+Bhutan;2017;15-24;female;0.928911
+Bhutan;2017;15-24;male;0.932702
+Bhutan;2017;15-24;total;0.930906
+Bhutan;2017;25-64;female;0.484246
+Bhutan;2017;25-64;male;0.721955
+Bhutan;2017;25-64;total;0.610693
+Bhutan;2017;65+;female;0.094059
+Bhutan;2017;65+;male;0.359683
+Bhutan;2017;65+;total;0.228583
+India;2011;15+;female;0.592773
+India;2011;15+;male;0.788772
+India;2011;15+;total;0.693026
+India;2011;15-24;female;0.818498
+India;2011;15-24;male;0.900448
+India;2011;15-24;total;0.861449
+India;2011;25-64;female;0.539961
+India;2011;25-64;male;0.76474
+India;2011;25-64;total;0.654329
+India;2011;65+;female;0.266963
+India;2011;65+;male;0.571764
+India;2011;65+;total;0.416036
+India;2018;15+;female;0.657908
+India;2018;15+;male;0.823667
+India;2018;15+;total;0.74373
+India;2018;15-24;female;0.901694
+India;2018;15-24;male;0.92993
+India;2018;15-24;total;0.91664
+India;2018;25-64;female;0.617266
+India;2018;25-64;male;0.807389
+India;2018;25-64;total;0.715767
+India;2018;65+;female;0.302864
+India;2018;65+;male;0.616702
+India;2018;65+;total;0.45379
+Iran (Islamic Republic of);2012;15+;female;0.784163
+Iran (Islamic Republic of);2012;15+;male;0.888798
+Iran (Islamic Republic of);2012;15+;total;0.83626
+Iran (Islamic Republic of);2012;15-24;female;0.976618
+Iran (Islamic Republic of);2012;15-24;male;0.983339
+Iran (Islamic Republic of);2012;15-24;total;0.980144
+Iran (Islamic Republic of);2012;25-64;female;0.78347
+Iran (Islamic Republic of);2012;25-64;male;0.901658
+Iran (Islamic Republic of);2012;25-64;total;0.841242
+Iran (Islamic Republic of);2012;65+;female;0.206447
+Iran (Islamic Republic of);2012;65+;male;0.448915
+Iran (Islamic Republic of);2012;65+;total;0.326189
+Iran (Islamic Republic of);2013;15+;female;0.797558
+Iran (Islamic Republic of);2013;15+;male;0.895425
+Iran (Islamic Republic of);2013;15+;total;0.846268
+Iran (Islamic Republic of);2013;15-24;female;0.97438
+Iran (Islamic Republic of);2013;15-24;male;0.98109
+Iran (Islamic Republic of);2013;15-24;total;0.977773
+Iran (Islamic Republic of);2013;25-64;female;0.804168
+Iran (Islamic Republic of);2013;25-64;male;0.912541
+Iran (Islamic Republic of);2013;25-64;total;0.857942
+Iran (Islamic Republic of);2013;65+;female;0.224623
+Iran (Islamic Republic of);2013;65+;male;0.466094
+Iran (Islamic Republic of);2013;65+;total;0.342503
+Iran (Islamic Republic of);2014;15+;female;0.798394
+Iran (Islamic Republic of);2014;15+;male;0.896354
+Iran (Islamic Republic of);2014;15+;total;0.847052
+Iran (Islamic Republic of);2014;15-24;female;0.976782
+Iran (Islamic Republic of);2014;15-24;male;0.981915
+Iran (Islamic Republic of);2014;15-24;total;0.979379
+Iran (Islamic Republic of);2014;25-64;female;0.808439
+Iran (Islamic Republic of);2014;25-64;male;0.914085
+Iran (Islamic Republic of);2014;25-64;total;0.860783
+Iran (Islamic Republic of);2014;65+;female;0.22445
+Iran (Islamic Republic of);2014;65+;male;0.469736
+Iran (Islamic Republic of);2014;65+;total;0.34289
+Iran (Islamic Republic of);2016;15+;female;0.807874
+Iran (Islamic Republic of);2016;15+;male;0.903524
+Iran (Islamic Republic of);2016;15+;total;0.855443
+Iran (Islamic Republic of);2016;15-24;female;0.979251
+Iran (Islamic Republic of);2016;15-24;male;0.98268
+Iran (Islamic Republic of);2016;15-24;total;0.981014
+Iran (Islamic Republic of);2016;25-64;female;0.82598
+Iran (Islamic Republic of);2016;25-64;male;0.922601
+Iran (Islamic Republic of);2016;25-64;total;0.873849
+Iran (Islamic Republic of);2016;65+;female;0.248821
+Iran (Islamic Republic of);2016;65+;male;0.499437
+Iran (Islamic Republic of);2016;65+;total;0.367705
+Kazakhstan;2010;15+;female;0.99739
+Kazakhstan;2010;15+;male;0.998297
+Kazakhstan;2010;15+;total;0.997816
+Kazakhstan;2010;15-24;female;0.998509
+Kazakhstan;2010;15-24;male;0.999401
+Kazakhstan;2010;15-24;total;0.998974
+Kazakhstan;2010;25-64;female;0.997473
+Kazakhstan;2010;25-64;male;0.998329
+Kazakhstan;2010;25-64;total;0.997877
+Kazakhstan;2010;65+;female;0.995213
+Kazakhstan;2010;65+;male;0.994491
+Kazakhstan;2010;65+;total;0.994963
+Kyrgyzstan;2018;15+;female;0.994997
+Kyrgyzstan;2018;15+;male;0.99677
+Kyrgyzstan;2018;15+;total;0.99586
+Kyrgyzstan;2018;15-24;female;0.9981
+Kyrgyzstan;2018;15-24;male;0.9969
+Kyrgyzstan;2018;15-24;total;0.9975
+Kyrgyzstan;2018;25-64;female;0.997839
+Kyrgyzstan;2018;25-64;male;0.997463
+Kyrgyzstan;2018;25-64;total;0.997655
+Kyrgyzstan;2018;65+;female;0.96163
+Kyrgyzstan;2018;65+;male;0.987103
+Kyrgyzstan;2018;65+;total;0.971338
+Maldives;2014;15+;female;0.986917
+Maldives;2014;15+;male;0.985203
+Maldives;2014;15+;total;0.986101
+Maldives;2014;15-24;female;0.994396
+Maldives;2014;15-24;male;0.990813
+Maldives;2014;15-24;total;0.992684
+Maldives;2014;25-64;female;0.990134
+Maldives;2014;25-64;male;0.989056
+Maldives;2014;25-64;total;0.989628
+Maldives;2014;65+;female;0.921363
+Maldives;2014;65+;male;0.933176
+Maldives;2014;65+;total;0.927572
+Maldives;2016;15+;female;0.981147
+Maldives;2016;15+;male;0.972989
+Maldives;2016;15+;total;0.97735
+Maldives;2016;15-24;female;0.990886
+Maldives;2016;15-24;male;0.983912
+Maldives;2016;15-24;total;0.987537
+Maldives;2016;25-64;female;0.985775
+Maldives;2016;25-64;male;0.976376
+Maldives;2016;25-64;total;0.981524
+Maldives;2016;65+;female;0.890926
+Maldives;2016;65+;male;0.912063
+Maldives;2016;65+;total;0.902311
+Nepal;2011;15+;female;0.488376
+Nepal;2011;15+;male;0.717084
+Nepal;2011;15+;total;0.596273
+Nepal;2011;15-24;female;0.802068
+Nepal;2011;15-24;male;0.89884
+Nepal;2011;15-24;total;0.847572
+Nepal;2011;25-64;female;0.384967
+Nepal;2011;25-64;male;0.676449
+Nepal;2011;25-64;total;0.521677
+Nepal;2011;65+;female;0.060255
+Nepal;2011;65+;male;0.35635
+Nepal;2011;65+;total;0.207841
+Nepal;2018;15+;female;0.597244
+Nepal;2018;15+;male;0.785913
+Nepal;2018;15+;total;0.679084
+Nepal;2018;15-24;female;0.908835
+Nepal;2018;15-24;male;0.940343
+Nepal;2018;15-24;total;0.923938
+Nepal;2018;25-64;female;0.513455
+Nepal;2018;25-64;male;0.744449
+Nepal;2018;25-64;total;0.607133
+Nepal;2018;65+;female;0.086525
+Nepal;2018;65+;male;0.415031
+Nepal;2018;65+;total;0.236292
+Pakistan;2010;15+;female;0.410155
+Pakistan;2010;15+;male;0.689006
+Pakistan;2010;15+;total;0.553752
+Pakistan;2010;15-24;female;0.622984
+Pakistan;2010;15-24;male;0.795041
+Pakistan;2010;15-24;total;0.712596
+Pakistan;2010;25-64;female;0.309894
+Pakistan;2010;25-64;male;0.661051
+Pakistan;2010;25-64;total;0.486841
+Pakistan;2010;65+;female;0.237553
+Pakistan;2010;65+;male;0.357752
+Pakistan;2010;65+;total;0.24852
+Pakistan;2011;15+;female;0.419754
+Pakistan;2011;15+;male;0.669911
+Pakistan;2011;15+;total;0.54738
+Pakistan;2011;15-24;female;0.631368
+Pakistan;2011;15-24;male;0.780424
+Pakistan;2011;15-24;total;0.707693
+Pakistan;2011;25-64;female;0.319116
+Pakistan;2011;25-64;male;0.641112
+Pakistan;2011;25-64;total;0.480275
+Pakistan;2011;65+;female;0.098837
+Pakistan;2011;65+;male;0.337253
+Pakistan;2011;65+;total;0.239759
+Pakistan;2012;15+;female;0.430719
+Pakistan;2012;15+;male;0.698582
+Pakistan;2012;15+;total;0.567643
+Pakistan;2012;15-24;female;0.644741
+Pakistan;2012;15-24;male;0.802883
+Pakistan;2012;15-24;total;0.725834
+Pakistan;2012;25-64;female;0.326676
+Pakistan;2012;25-64;male;0.670696
+Pakistan;2012;25-64;total;0.499534
+Pakistan;2012;65+;female;0.094867
+Pakistan;2012;65+;male;0.368047
+Pakistan;2012;65+;total;0.255025
+Pakistan;2013;15+;female;0.419749
+Pakistan;2013;15+;male;0.686293
+Pakistan;2013;15+;total;0.55595
+Pakistan;2013;15-24;female;0.63438
+Pakistan;2013;15-24;male;0.794038
+Pakistan;2013;15-24;total;0.716362
+Pakistan;2013;25-64;female;0.317022
+Pakistan;2013;25-64;male;0.657854
+Pakistan;2013;25-64;total;0.487948
+Pakistan;2013;65+;female;0.091318
+Pakistan;2013;65+;male;0.353146
+Pakistan;2013;65+;total;0.24508
+Pakistan;2014;15+;female;0.442834
+Pakistan;2014;15+;male;0.690668
+Pakistan;2014;15+;total;0.569772
+Pakistan;2014;15-24;female;0.655478
+Pakistan;2014;15-24;male;0.79766
+Pakistan;2014;15-24;total;0.727954
+Pakistan;2014;25-64;female;0.337722
+Pakistan;2014;25-64;male;0.662458
+Pakistan;2014;25-64;total;0.50177
+Pakistan;2014;65+;female;0.099626
+Pakistan;2014;65+;male;0.357052
+Pakistan;2014;65+;total;0.252932
+Pakistan;2017;15+;female;0.464677
+Pakistan;2017;15+;male;0.71116
+Pakistan;2017;15+;total;0.591321
+Pakistan;2017;15-24;female;0.675371
+Pakistan;2017;15-24;male;0.812635
+Pakistan;2017;15-24;total;0.745264
+Pakistan;2017;25-64;female;0.357359
+Pakistan;2017;25-64;male;0.683868
+Pakistan;2017;25-64;total;0.523393
+Pakistan;2017;65+;female;0.106768
+Pakistan;2017;65+;male;0.381439
+Pakistan;2017;65+;total;0.270648
+Sri Lanka;2010;15+;female;0.899587
+Sri Lanka;2010;15+;male;0.925785
+Sri Lanka;2010;15+;total;0.911814
+Sri Lanka;2010;15-24;female;0.98589
+Sri Lanka;2010;15-24;male;0.976865
+Sri Lanka;2010;15-24;total;0.981579
+Sri Lanka;2010;25-64;female;0.907614
+Sri Lanka;2010;25-64;male;0.921323
+Sri Lanka;2010;25-64;total;0.914008
+Sri Lanka;2010;65+;female;0.697949
+Sri Lanka;2010;65+;male;0.851976
+Sri Lanka;2010;65+;total;0.766959
+Sri Lanka;2016;15+;female;0.914861
+Sri Lanka;2016;15+;male;0.934559
+Sri Lanka;2016;15+;total;0.923869
+Sri Lanka;2016;15-24;female;0.989449
+Sri Lanka;2016;15-24;male;0.984112
+Sri Lanka;2016;15-24;total;0.98689
+Sri Lanka;2016;25-64;female;0.927312
+Sri Lanka;2016;25-64;male;0.93351
+Sri Lanka;2016;25-64;total;0.930127
+Sri Lanka;2016;65+;female;0.763102
+Sri Lanka;2016;65+;male;0.868301
+Sri Lanka;2016;65+;total;0.8097
+Sri Lanka;2017;15+;female;0.909707
+Sri Lanka;2017;15+;male;0.929806
+Sri Lanka;2017;15+;total;0.918958
+Sri Lanka;2017;15-24;female;0.991478
+Sri Lanka;2017;15-24;male;0.985451
+Sri Lanka;2017;15-24;total;0.988565
+Sri Lanka;2017;25-64;female;0.921398
+Sri Lanka;2017;25-64;male;0.926704
+Sri Lanka;2017;25-64;total;0.923825
+Sri Lanka;2017;65+;female;0.754445
+Sri Lanka;2017;65+;male;0.864462
+Sri Lanka;2017;65+;total;0.803213
+Tajikistan;2014;15+;female;0.997
+Tajikistan;2014;15+;male;0.9982
+Tajikistan;2014;15+;total;0.998
+Tajikistan;2014;15-24;female;0.999
+Tajikistan;2014;15-24;male;0.9986
+Tajikistan;2014;15-24;total;0.999
+Tajikistan;2014;25-64;female;0.998
+Tajikistan;2014;25-64;male;0.9985
+Tajikistan;2014;25-64;total;0.998
+Tajikistan;2014;65+;female;0.971
+Tajikistan;2014;65+;male;0.992
+Tajikistan;2014;65+;total;0.981
+Turkmenistan;2014;15+;female;0.996
+Turkmenistan;2014;15+;male;0.9975
+Turkmenistan;2014;15+;total;0.997
+Turkmenistan;2014;15-24;female;0.999
+Turkmenistan;2014;15-24;male;0.9977
+Turkmenistan;2014;15-24;total;0.998
+Turkmenistan;2014;25-64;female;0.998
+Turkmenistan;2014;25-64;male;0.9981
+Turkmenistan;2014;25-64;total;0.998
+Turkmenistan;2014;65+;female;0.968
+Turkmenistan;2014;65+;male;0.9887
+Turkmenistan;2014;65+;total;0.976
+Uzbekistan;2013;15+;female;0.999959
+Uzbekistan;2013;15+;male;0.999938
+Uzbekistan;2013;15+;total;0.999949
+Uzbekistan;2013;15-24;female;1
+Uzbekistan;2013;15-24;male;1
+Uzbekistan;2013;15-24;total;1
+Uzbekistan;2013;25-64;female;1
+Uzbekistan;2013;25-64;male;1
+Uzbekistan;2013;25-64;total;1
+Uzbekistan;2013;65+;female;0.999347
+Uzbekistan;2013;65+;male;0.998772
+Uzbekistan;2013;65+;total;0.999095
+Uzbekistan;2014;15+;female;0.99976
+Uzbekistan;2014;15+;male;0.999852
+Uzbekistan;2014;15+;total;0.999806
+Uzbekistan;2014;15-24;female;1
+Uzbekistan;2014;15-24;male;1
+Uzbekistan;2014;15-24;total;1
+Uzbekistan;2014;25-64;female;1
+Uzbekistan;2014;25-64;male;1
+Uzbekistan;2014;25-64;total;1
+Uzbekistan;2014;65+;female;0.996215
+Uzbekistan;2014;65+;male;0.997067
+Uzbekistan;2014;65+;total;0.996589
+Uzbekistan;2015;15+;female;0.999758
+Uzbekistan;2015;15+;male;0.99992
+Uzbekistan;2015;15+;total;0.999838
+Uzbekistan;2015;15-24;female;1
+Uzbekistan;2015;15-24;male;1
+Uzbekistan;2015;15-24;total;1
+Uzbekistan;2015;25-64;female;1
+Uzbekistan;2015;25-64;male;1
+Uzbekistan;2015;25-64;total;1
+Uzbekistan;2015;65+;female;0.996261
+Uzbekistan;2015;65+;male;0.99846
+Uzbekistan;2015;65+;total;0.997227
+Uzbekistan;2016;15+;female;0.999784
+Uzbekistan;2016;15+;male;0.999949
+Uzbekistan;2016;15+;total;0.999866
+Uzbekistan;2016;15-24;female;1
+Uzbekistan;2016;15-24;male;1
+Uzbekistan;2016;15-24;total;1
+Uzbekistan;2016;25-64;female;1
+Uzbekistan;2016;25-64;male;1
+Uzbekistan;2016;25-64;total;1
+Uzbekistan;2016;65+;female;0.996698
+Uzbekistan;2016;65+;male;0.999018
+Uzbekistan;2016;65+;total;0.997719
+Brunei Darussalam;2011;15+;female;0.946525
+Brunei Darussalam;2011;15+;male;0.974282
+Brunei Darussalam;2011;15+;total;0.960856
+Brunei Darussalam;2011;15-24;female;0.995461
+Brunei Darussalam;2011;15-24;male;0.991999
+Brunei Darussalam;2011;15-24;total;0.993668
+Brunei Darussalam;2011;25-64;female;0.965837
+Brunei Darussalam;2011;25-64;male;0.978395
+Brunei Darussalam;2011;25-64;total;0.972341
+Brunei Darussalam;2011;65+;female;0.437552
+Brunei Darussalam;2011;65+;male;0.808186
+Brunei Darussalam;2011;65+;total;0.616455
+Brunei Darussalam;2018;15+;female;0.963013
+Brunei Darussalam;2018;15+;male;0.980536
+Brunei Darussalam;2018;15+;total;0.972141
+Brunei Darussalam;2018;15-24;female;0.997897
+Brunei Darussalam;2018;15-24;male;0.996352
+Brunei Darussalam;2018;15-24;total;0.997089
+Brunei Darussalam;2018;25-64;female;0.980621
+Brunei Darussalam;2018;25-64;male;0.982233
+Brunei Darussalam;2018;25-64;total;0.981465
+Brunei Darussalam;2018;65+;female;0.667702
+Brunei Darussalam;2018;65+;male;0.903043
+Brunei Darussalam;2018;65+;total;0.78219
+Cambodia;2014;15+;female;0.717818
+Cambodia;2014;15+;male;0.848142
+Cambodia;2014;15+;total;0.780551
+Cambodia;2014;15-24;female;0.903723
+Cambodia;2014;15-24;male;0.899246
+Cambodia;2014;15-24;total;0.901419
+Cambodia;2014;25-64;female;0.681652
+Cambodia;2014;25-64;male;0.830425
+Cambodia;2014;25-64;total;0.751906
+Cambodia;2014;65+;female;0.284138
+Cambodia;2014;65+;male;0.730549
+Cambodia;2014;65+;total;0.465681
+Cambodia;2015;15+;female;0.750339
+Cambodia;2015;15+;male;0.865324
+Cambodia;2015;15+;total;0.805265
+Cambodia;2015;15-24;female;0.925733
+Cambodia;2015;15-24;male;0.918641
+Cambodia;2015;15-24;total;0.922124
+Cambodia;2015;25-64;female;0.719151
+Cambodia;2015;25-64;male;0.846512
+Cambodia;2015;25-64;total;0.779083
+Cambodia;2015;65+;female;0.368588
+Cambodia;2015;65+;male;0.768903
+Cambodia;2015;65+;total;0.530784
+China;2010;15+;female;0.927112
+China;2010;15+;male;0.974795
+China;2010;15+;total;0.951245
+China;2010;15-24;female;0.99593
+China;2010;15-24;male;0.996896
+China;2010;15-24;total;0.996423
+China;2010;25-64;female;0.956095
+China;2010;25-64;male;0.98499
+China;2010;25-64;total;0.970799
+China;2010;65+;female;0.626432
+China;2010;65+;male;0.86061
+China;2010;65+;total;0.739075
+China;2018;15+;female;0.951593
+China;2018;15+;male;0.984665
+China;2018;15+;total;0.968409
+China;2018;15-24;female;0.997834
+China;2018;15-24;male;0.997838
+China;2018;15-24;total;0.997836
+China;2018;25-64;female;0.976921
+China;2018;25-64;male;0.99144
+China;2018;25-64;total;0.984337
+China;2018;65+;female;0.779691
+China;2018;65+;male;0.92829
+China;2018;65+;total;0.849544
+China, Macao Special Administrative Region;2011;15+;female;0.937319
+China, Macao Special Administrative Region;2011;15+;male;0.977513
+China, Macao Special Administrative Region;2011;15+;total;0.9564
+China, Macao Special Administrative Region;2011;15-24;female;0.996901
+China, Macao Special Administrative Region;2011;15-24;male;0.99655
+China, Macao Special Administrative Region;2011;15-24;total;0.996729
+China, Macao Special Administrative Region;2011;25-64;female;0.962194
+China, Macao Special Administrative Region;2011;25-64;male;0.982197
+China, Macao Special Administrative Region;2011;25-64;total;0.971671
+China, Macao Special Administrative Region;2011;65+;female;0.597322
+China, Macao Special Administrative Region;2011;65+;male;0.884744
+China, Macao Special Administrative Region;2011;65+;total;0.726304
+China, Macao Special Administrative Region;2016;15+;female;0.950326
+China, Macao Special Administrative Region;2016;15+;male;0.981859
+China, Macao Special Administrative Region;2016;15+;total;0.965385
+China, Macao Special Administrative Region;2016;15-24;female;0.998662
+China, Macao Special Administrative Region;2016;15-24;male;0.997269
+China, Macao Special Administrative Region;2016;15-24;total;0.997987
+China, Macao Special Administrative Region;2016;25-64;female;0.972818
+China, Macao Special Administrative Region;2016;25-64;male;0.988202
+China, Macao Special Administrative Region;2016;25-64;total;0.980151
+China, Macao Special Administrative Region;2016;65+;female;0.720624
+China, Macao Special Administrative Region;2016;65+;male;0.913267
+China, Macao Special Administrative Region;2016;65+;total;0.812
+Indonesia;2011;15+;female;0.900687
+Indonesia;2011;15+;male;0.955911
+Indonesia;2011;15+;total;0.928119
+Indonesia;2011;15-24;female;0.987518
+Indonesia;2011;15-24;male;0.988038
+Indonesia;2011;15-24;total;0.98778
+Indonesia;2011;25-64;female;0.913436
+Indonesia;2011;25-64;male;0.959739
+Indonesia;2011;25-64;total;0.936547
+Indonesia;2011;65+;female;0.521084
+Indonesia;2011;65+;male;0.792678
+Indonesia;2011;65+;total;0.643285
+Indonesia;2014;15+;female;0.934509
+Indonesia;2014;15+;male;0.96791
+Indonesia;2014;15+;total;0.951162
+Indonesia;2014;15-24;female;0.996788
+Indonesia;2014;15-24;male;0.996816
+Indonesia;2014;15-24;total;0.996802
+Indonesia;2014;25-64;female;0.94322
+Indonesia;2014;25-64;male;0.976121
+Indonesia;2014;25-64;total;0.959686
+Indonesia;2014;65+;female;0.677996
+Indonesia;2014;65+;male;0.768086
+Indonesia;2014;65+;total;0.718103
+Indonesia;2015;15+;female;0.933357
+Indonesia;2015;15+;male;0.971065
+Indonesia;2015;15+;total;0.952179
+Indonesia;2015;15-24;female;0.99637
+Indonesia;2015;15-24;male;0.997018
+Indonesia;2015;15-24;total;0.996701
+Indonesia;2015;25-64;female;0.952653
+Indonesia;2015;25-64;male;0.976845
+Indonesia;2015;25-64;total;0.964762
+Indonesia;2015;65+;female;0.588592
+Indonesia;2015;65+;male;0.817456
+Indonesia;2015;65+;total;0.691722
+Indonesia;2016;15+;female;0.935869
+Indonesia;2016;15+;male;0.971744
+Indonesia;2016;15+;total;0.95377
+Indonesia;2016;15-24;female;0.996535
+Indonesia;2016;15-24;male;0.996835
+Indonesia;2016;15-24;total;0.996688
+Indonesia;2016;25-64;female;0.955716
+Indonesia;2016;25-64;male;0.978213
+Indonesia;2016;25-64;total;0.966964
+Indonesia;2016;65+;female;0.602016
+Indonesia;2016;65+;male;0.819473
+Indonesia;2016;65+;total;0.700551
+Indonesia;2018;15+;female;0.939922
+Indonesia;2018;15+;male;0.973313
+Indonesia;2018;15+;total;0.956586
+Indonesia;2018;15-24;female;0.996963
+Indonesia;2018;15-24;male;0.997175
+Indonesia;2018;15-24;total;0.997071
+Indonesia;2018;25-64;female;0.956563
+Indonesia;2018;25-64;male;0.978711
+Indonesia;2018;25-64;total;0.967635
+Indonesia;2018;65+;female;0.655905
+Indonesia;2018;65+;male;0.846067
+Indonesia;2018;65+;total;0.743425
+Lao People's Democratic Republic;2011;15+;female;0.497231
+Lao People's Democratic Republic;2011;15+;male;0.673586
+Lao People's Democratic Republic;2011;15+;total;0.582879
+Lao People's Democratic Republic;2011;15-24;female;0.670538
+Lao People's Democratic Republic;2011;15-24;male;0.772727
+Lao People's Democratic Republic;2011;15-24;total;0.720562
+Lao People's Democratic Republic;2011;25-64;female;0.461173
+Lao People's Democratic Republic;2011;25-64;male;0.654806
+Lao People's Democratic Republic;2011;25-64;total;0.555552
+Lao People's Democratic Republic;2011;65+;female;0.184111
+Lao People's Democratic Republic;2011;65+;male;0.450291
+Lao People's Democratic Republic;2011;65+;total;0.30554
+Lao People's Democratic Republic;2015;15+;female;0.79391
+Lao People's Democratic Republic;2015;15+;male;0.899613
+Lao People's Democratic Republic;2015;15+;total;0.84661
+Lao People's Democratic Republic;2015;15-24;female;0.905011
+Lao People's Democratic Republic;2015;15-24;male;0.944044
+Lao People's Democratic Republic;2015;15-24;total;0.924626
+Lao People's Democratic Republic;2015;25-64;female;0.776987
+Lao People's Democratic Republic;2015;25-64;male;0.891946
+Lao People's Democratic Republic;2015;25-64;total;0.834475
+Lao People's Democratic Republic;2015;65+;female;0.446643
+Lao People's Democratic Republic;2015;65+;male;0.746493
+Lao People's Democratic Republic;2015;65+;total;0.585713
+Malaysia;2010;15+;female;0.907477
+Malaysia;2010;15+;male;0.954338
+Malaysia;2010;15+;total;0.931179
+Malaysia;2010;15-24;female;0.984583
+Malaysia;2010;15-24;male;0.98381
+Malaysia;2010;15-24;total;0.984187
+Malaysia;2010;25-64;female;0.928214
+Malaysia;2010;25-64;male;0.961853
+Malaysia;2010;25-64;total;0.945268
+Malaysia;2010;65+;female;0.439898
+Malaysia;2010;65+;male;0.74844
+Malaysia;2010;65+;total;0.584736
+Malaysia;2016;15+;female;0.910684
+Malaysia;2016;15+;male;0.96297
+Malaysia;2016;15+;total;0.937347
+Malaysia;2016;15-24;female;0.978576
+Malaysia;2016;15-24;male;0.973907
+Malaysia;2016;15-24;total;0.976145
+Malaysia;2016;25-64;female;0.954042
+Malaysia;2016;25-64;male;0.971917
+Malaysia;2016;25-64;total;0.963296
+Malaysia;2016;65+;female;0.47839
+Malaysia;2016;65+;male;0.841603
+Malaysia;2016;65+;total;0.631217
+Mongolia;2010;15+;female;0.983366
+Mongolia;2010;15+;male;0.981747
+Mongolia;2010;15+;total;0.98257
+Mongolia;2010;15-24;female;0.989087
+Mongolia;2010;15-24;male;0.980218
+Mongolia;2010;15-24;total;0.984603
+Mongolia;2010;25-64;female;0.986159
+Mongolia;2010;25-64;male;0.983003
+Mongolia;2010;25-64;total;0.984608
+Mongolia;2010;65+;female;0.926812
+Mongolia;2010;65+;male;0.973564
+Mongolia;2010;65+;total;0.946444
+Mongolia;2018;15+;female;0.986489
+Mongolia;2018;15+;male;0.98186
+Mongolia;2018;15+;total;0.984231
+Mongolia;2018;15-24;female;0.9908
+Mongolia;2018;15-24;male;0.9819
+Mongolia;2018;15-24;total;0.9863
+Mongolia;2018;25-64;female;0.987193
+Mongolia;2018;25-64;male;0.98173
+Mongolia;2018;25-64;total;0.984522
+Mongolia;2018;65+;female;0.965756
+Mongolia;2018;65+;male;0.983635
+Mongolia;2018;65+;total;0.973194
+Myanmar;2016;15+;female;0.71847
+Myanmar;2016;15+;male;0.800116
+Myanmar;2016;15+;total;0.755512
+Myanmar;2016;15-24;female;0.844138
+Myanmar;2016;15-24;male;0.851197
+Myanmar;2016;15-24;total;0.847512
+Myanmar;2016;25-64;female;0.716807
+Myanmar;2016;25-64;male;0.796443
+Myanmar;2016;25-64;total;0.752732
+Myanmar;2016;65+;female;0.492043
+Myanmar;2016;65+;male;0.705771
+Myanmar;2016;65+;total;0.581954
+Philippines;2013;15+;female;0.967874
+Philippines;2013;15+;male;0.960083
+Philippines;2013;15+;total;0.96398
+Philippines;2013;15-24;female;0.988154
+Philippines;2013;15-24;male;0.974254
+Philippines;2013;15-24;total;0.981084
+Philippines;2013;25-64;female;0.967058
+Philippines;2013;25-64;male;0.958497
+Philippines;2013;25-64;total;0.962752
+Philippines;2013;65+;female;0.898687
+Philippines;2013;65+;male;0.905144
+Philippines;2013;65+;total;0.901464
+Philippines;2015;15+;female;0.982418
+Philippines;2015;15+;male;0.981233
+Philippines;2015;15+;total;0.981826
+Philippines;2015;15-24;female;0.992667
+Philippines;2015;15-24;male;0.989042
+Philippines;2015;15-24;total;0.990826
+Philippines;2015;25-64;female;0.98315
+Philippines;2015;25-64;male;0.980929
+Philippines;2015;25-64;total;0.982029
+Philippines;2015;65+;female;0.94116
+Philippines;2015;65+;male;0.945993
+Philippines;2015;65+;total;0.943187
+Singapore;2010;15+;female;0.937748
+Singapore;2010;15+;male;0.980371
+Singapore;2010;15+;total;0.958573
+Singapore;2010;15-24;female;0.997667
+Singapore;2010;15-24;male;0.997379
+Singapore;2010;15-24;total;0.997518
+Singapore;2010;25-64;female;0.975226
+Singapore;2010;25-64;male;0.985979
+Singapore;2010;25-64;total;0.980492
+Singapore;2010;65+;female;0.637068
+Singapore;2010;65+;male;0.909911
+Singapore;2010;65+;total;0.757237
+Singapore;2011;15+;female;0.940684
+Singapore;2011;15+;male;0.983928
+Singapore;2011;15+;total;0.961861
+Singapore;2011;15-24;female;0.998806
+Singapore;2011;15-24;male;0.998937
+Singapore;2011;15-24;total;0.998872
+Singapore;2011;25-64;female;0.987104
+Singapore;2011;25-64;male;0.987104
+Singapore;2011;25-64;total;0.973569
+Singapore;2012;15+;female;0.943596
+Singapore;2012;15+;male;0.984695
+Singapore;2012;15+;total;0.963698
+Singapore;2012;15-24;female;0.99893
+Singapore;2012;15-24;male;0.998969
+Singapore;2012;15-24;total;0.998949
+Singapore;2012;25-64;female;0.962553
+Singapore;2012;25-64;male;0.987779
+Singapore;2012;25-64;total;0.974829
+Singapore;2013;15+;female;0.94642
+Singapore;2013;15+;male;0.985425
+Singapore;2013;15+;total;0.965481
+Singapore;2013;15-24;female;0.99901
+Singapore;2013;15-24;male;0.998963
+Singapore;2013;15-24;total;0.998986
+Singapore;2013;25-64;female;0.964447
+Singapore;2013;25-64;male;0.988488
+Singapore;2013;25-64;total;0.976131
+Singapore;2014;15+;female;0.949113
+Singapore;2014;15+;male;0.98609
+Singapore;2014;15+;total;0.967167
+Singapore;2014;15-24;female;0.999039
+Singapore;2014;15-24;male;0.998972
+Singapore;2014;15-24;total;0.999005
+Singapore;2014;25-64;female;0.966393
+Singapore;2014;25-64;male;0.989157
+Singapore;2014;25-64;total;0.977435
+Singapore;2015;15+;female;0.951907
+Singapore;2015;15+;male;0.985596
+Singapore;2015;15+;total;0.968255
+Singapore;2015;15-24;female;0.998381
+Singapore;2015;15-24;male;0.997352
+Singapore;2015;15-24;total;0.997849
+Singapore;2015;25-64;female;0.985262
+Singapore;2015;25-64;male;0.990153
+Singapore;2015;25-64;total;0.98764
+Singapore;2015;65+;female;0.75522
+Singapore;2015;65+;male;0.946257
+Singapore;2015;65+;total;0.840471
+Singapore;2016;15+;female;0.954479
+Singapore;2016;15+;male;0.987345
+Singapore;2016;15+;total;0.970496
+Singapore;2016;15-24;female;0.999405
+Singapore;2016;15-24;male;0.999132
+Singapore;2016;15-24;total;0.999266
+Singapore;2016;25-64;female;0.970182
+Singapore;2016;25-64;male;0.990437
+Singapore;2016;25-64;total;0.979973
+Singapore;2017;15+;female;0.956895
+Singapore;2017;15+;male;0.987969
+Singapore;2017;15+;total;0.972023
+Singapore;2017;15-24;female;0.999401
+Singapore;2017;15-24;male;0.999212
+Singapore;2017;15-24;total;0.999304
+Singapore;2017;25-64;female;0.95006
+Singapore;2017;25-64;male;0.985943
+Singapore;2017;25-64;total;0.967379
+Singapore;2018;15+;female;0.959194
+Singapore;2018;15+;male;0.988509
+Singapore;2018;15+;total;0.973449
+Singapore;2018;15-24;female;0.999424
+Singapore;2018;15-24;male;0.999174
+Singapore;2018;15-24;total;0.999296
+Singapore;2018;25-64;female;0.952948
+Singapore;2018;25-64;male;0.986652
+Singapore;2018;25-64;total;0.969201
+Thailand;2010;15+;female;0.964271
+Thailand;2010;15+;male;0.96435
+Thailand;2010;15+;total;0.964309
+Thailand;2010;15-24;female;0.96552
+Thailand;2010;15-24;male;0.966426
+Thailand;2010;15-24;total;0.965976
+Thailand;2010;25-64;female;0.971214
+Thailand;2010;25-64;male;0.966597
+Thailand;2010;25-64;total;0.968967
+Thailand;2010;65+;female;0.920109
+Thailand;2010;65+;male;0.944013
+Thailand;2010;65+;total;0.930676
+Thailand;2013;15+;female;0.922492
+Thailand;2013;15+;male;0.952513
+Thailand;2013;15+;total;0.937021
+Thailand;2013;15-24;female;0.986549
+Thailand;2013;15-24;male;0.979778
+Thailand;2013;15-24;total;0.983139
+Thailand;2013;25-64;female;0.941872
+Thailand;2013;25-64;male;0.962494
+Thailand;2013;25-64;total;0.951918
+Thailand;2013;65+;female;0.726363
+Thailand;2013;65+;male;0.836529
+Thailand;2013;65+;total;0.776253
+Thailand;2015;15+;female;0.911919
+Thailand;2015;15+;male;0.946591
+Thailand;2015;15+;total;0.928683
+Thailand;2015;15-24;female;0.98293
+Thailand;2015;15-24;male;0.980029
+Thailand;2015;15-24;total;0.981466
+Thailand;2015;25-64;female;0.939021
+Thailand;2015;25-64;male;0.957703
+Thailand;2015;25-64;total;0.948096
+Thailand;2015;65+;female;0.732731
+Thailand;2015;65+;male;0.853905
+Thailand;2015;65+;total;0.78731
+Timor-Leste;2010;15+;female;0.52959
+Timor-Leste;2010;15+;male;0.635918
+Timor-Leste;2010;15+;total;0.58309
+Timor-Leste;2010;15-24;female;0.785684
+Timor-Leste;2010;15-24;male;0.804898
+Timor-Leste;2010;15-24;total;0.795287
+Timor-Leste;2010;25-64;female;0.443584
+Timor-Leste;2010;25-64;male;0.605671
+Timor-Leste;2010;25-64;total;0.525641
+Timor-Leste;2010;65+;female;0.077059
+Timor-Leste;2010;65+;male;0.147081
+Timor-Leste;2010;65+;total;0.111716
+Timor-Leste;2018;15+;female;0.642109
+Timor-Leste;2018;15+;male;0.718687
+Timor-Leste;2018;15+;total;0.680668
+Timor-Leste;2018;15-24;female;0.846505
+Timor-Leste;2018;15-24;male;0.824585
+Timor-Leste;2018;15-24;total;0.83539
+Timor-Leste;2018;25-64;female;0.591366
+Timor-Leste;2018;25-64;male;0.710729
+Timor-Leste;2018;25-64;total;0.65176
+Timor-Leste;2018;65+;female;0.095002
+Timor-Leste;2018;65+;male;0.214103
+Timor-Leste;2018;65+;total;0.15037
+Viet Nam;2018;15+;female;0.935967
+Viet Nam;2018;15+;male;0.964568
+Viet Nam;2018;15+;total;0.950004
+Viet Nam;2018;15-24;female;0.983531
+Viet Nam;2018;15-24;male;0.984601
+Viet Nam;2018;15-24;total;0.984081
+Viet Nam;2018;25-64;female;0.945026
+Viet Nam;2018;25-64;male;0.961063
+Viet Nam;2018;25-64;total;0.953012
+Viet Nam;2018;65+;female;0.803119
+Viet Nam;2018;65+;male;0.944948
+Viet Nam;2018;65+;total;0.85843
+Albania;2011;15+;female;0.956915
+Albania;2011;15+;male;0.980082
+Albania;2011;15+;total;0.968453
+Albania;2011;15-24;female;0.988562
+Albania;2011;15-24;male;0.987314
+Albania;2011;15-24;total;0.987912
+Albania;2011;25-64;female;0.985291
+Albania;2011;25-64;male;0.986961
+Albania;2011;25-64;total;0.986116
+Albania;2011;65+;female;0.793275
+Albania;2011;65+;male;0.937897
+Albania;2011;65+;total;0.86296
+Albania;2012;15+;female;0.961361
+Albania;2012;15+;male;0.983526
+Albania;2012;15+;total;0.97247
+Albania;2012;15-24;female;0.990202
+Albania;2012;15-24;male;0.99376
+Albania;2012;15-24;total;0.992314
+Albania;2012;25-64;female;0.988197
+Albania;2012;25-64;male;0.990154
+Albania;2012;25-64;total;0.989171
+Albania;2012;65+;female;0.838871
+Albania;2012;65+;male;0.919906
+Albania;2012;65+;total;0.869123
+Albania;2018;15+;female;0.977611
+Albania;2018;15+;male;0.985136
+Albania;2018;15+;total;0.981412
+Albania;2018;15-24;female;0.9963
+Albania;2018;15-24;male;0.9905
+Albania;2018;15-24;total;0.9933
+Albania;2018;25-64;female;0.988454
+Albania;2018;25-64;male;0.992121
+Albania;2018;25-64;total;0.990313
+Albania;2018;65+;female;0.918164
+Albania;2018;65+;male;0.950183
+Albania;2018;65+;total;0.933564
+Belarus;2018;15+;female;0.997252
+Belarus;2018;15+;male;0.99794
+Belarus;2018;15+;total;0.997566
+Belarus;2018;15-24;female;0.9987
+Belarus;2018;15-24;male;0.9983
+Belarus;2018;15-24;total;0.9985
+Belarus;2018;25-64;female;0.998433
+Belarus;2018;25-64;male;0.997947
+Belarus;2018;25-64;total;0.9982
+Belarus;2018;65+;female;0.99296
+Belarus;2018;65+;male;0.997498
+Belarus;2018;65+;total;0.994439
+Bosnia and Herzegovina;2011;15+;female;0.968037
+Bosnia and Herzegovina;2011;15+;male;0.995413
+Bosnia and Herzegovina;2011;15+;total;0.98142
+Bosnia and Herzegovina;2011;15-24;female;0.991504
+Bosnia and Herzegovina;2011;15-24;male;0.997513
+Bosnia and Herzegovina;2011;15-24;total;0.994623
+Bosnia and Herzegovina;2011;25-64;female;0.973673
+Bosnia and Herzegovina;2011;25-64;male;0.995461
+Bosnia and Herzegovina;2011;25-64;total;0.9845
+Bosnia and Herzegovina;2011;65+;female;0.917431
+Bosnia and Herzegovina;2011;65+;male;0.991246
+Bosnia and Herzegovina;2011;65+;total;0.947382
+Bosnia and Herzegovina;2013;15+;female;0.949105
+Bosnia and Herzegovina;2013;15+;male;0.991763
+Bosnia and Herzegovina;2013;15+;total;0.969918
+Bosnia and Herzegovina;2013;15-24;female;0.996675
+Bosnia and Herzegovina;2013;15-24;male;0.996577
+Bosnia and Herzegovina;2013;15-24;total;0.996624
+Bosnia and Herzegovina;2013;25-64;female;0.98584
+Bosnia and Herzegovina;2013;25-64;male;0.99502
+Bosnia and Herzegovina;2013;25-64;total;0.990418
+Bosnia and Herzegovina;2013;65+;female;0.781076
+Bosnia and Herzegovina;2013;65+;male;0.970253
+Bosnia and Herzegovina;2013;65+;total;0.860394
+Bulgaria;2011;15+;female;0.979839
+Bulgaria;2011;15+;male;0.987472
+Bulgaria;2011;15+;total;0.983525
+Bulgaria;2011;15-24;female;0.976511
+Bulgaria;2011;15-24;male;0.980669
+Bulgaria;2011;15-24;total;0.978651
+Bulgaria;2011;25-64;female;0.985326
+Bulgaria;2011;25-64;male;0.989208
+Bulgaria;2011;25-64;total;0.987271
+Bulgaria;2011;65+;female;0.96746
+Bulgaria;2011;65+;male;0.986413
+Bulgaria;2011;65+;total;0.975173
+Croatia;2011;15+;female;0.986659
+Croatia;2011;15+;male;0.996297
+Croatia;2011;15+;total;0.991254
+Croatia;2011;15-24;female;0.997357
+Croatia;2011;15-24;male;0.99712
+Croatia;2011;15-24;total;0.997236
+Croatia;2011;25-64;female;0.995887
+Croatia;2011;25-64;male;0.996995
+Croatia;2011;25-64;total;0.996438
+Croatia;2011;65+;female;0.957167
+Croatia;2011;65+;male;0.992806
+Croatia;2011;65+;total;0.971082
+Estonia;2011;15+;female;0.999095
+Estonia;2011;15+;male;0.99859
+Estonia;2011;15+;total;0.998858
+Estonia;2011;15-24;female;0.99959
+Estonia;2011;15-24;male;0.999392
+Estonia;2011;15-24;total;0.999489
+Estonia;2011;25-64;female;0.998954
+Estonia;2011;25-64;male;0.998326
+Estonia;2011;25-64;total;0.998656
+Estonia;2011;65+;female;0.996729
+Estonia;2011;65+;male;0.998002
+Estonia;2011;65+;total;0.997204
+Greece;2011;15+;female;0.965021
+Greece;2011;15+;male;0.982822
+Greece;2011;15+;total;0.973687
+Greece;2011;15-24;female;0.98907
+Greece;2011;15-24;male;0.987291
+Greece;2011;15-24;total;0.988149
+Greece;2011;25-64;female;0.988885
+Greece;2011;25-64;male;0.987024
+Greece;2011;25-64;total;0.987961
+Greece;2011;65+;female;0.892253
+Greece;2011;65+;male;0.966464
+Greece;2011;65+;total;0.925035
+Hungary;2014;15+;female;0.991
+Hungary;2014;15+;male;0.9916
+Hungary;2014;15+;total;0.991
+Hungary;2014;15-24;female;0.99
+Hungary;2014;15-24;male;0.9869
+Hungary;2014;15-24;total;0.988
+Hungary;2014;25-64;female;0.992
+Hungary;2014;25-64;male;0.992
+Hungary;2014;25-64;total;0.992
+Hungary;2014;65+;female;0.989
+Hungary;2014;65+;male;0.9942
+Hungary;2014;65+;total;0.991
+Italy;2011;15+;female;0.985796
+Italy;2011;15+;male;0.99141
+Italy;2011;15+;total;0.988483
+Italy;2011;15-24;female;0.998687
+Italy;2011;15-24;male;0.99851
+Italy;2011;15-24;total;0.998596
+Italy;2011;25-64;female;0.994608
+Italy;2011;25-64;male;0.994705
+Italy;2011;25-64;total;0.994656
+Italy;2011;65+;female;0.960024
+Italy;2011;65+;male;0.977168
+Italy;2011;65+;total;0.967298
+Italy;2018;15+;female;0.989719
+Italy;2018;15+;male;0.993535
+Italy;2018;15+;total;0.991558
+Italy;2018;15-24;female;0.9995
+Italy;2018;15-24;male;0.9992
+Italy;2018;15-24;total;0.9993
+Italy;2018;25-64;female;0.995808
+Italy;2018;25-64;male;0.995645
+Italy;2018;25-64;total;0.995727
+Italy;2018;65+;female;0.97327
+Italy;2018;65+;male;0.984912
+Italy;2018;65+;total;0.978319
+Latvia;2011;15+;female;0.999079
+Latvia;2011;15+;male;0.998811
+Latvia;2011;15+;total;0.998959
+Latvia;2011;15-24;female;0.998701
+Latvia;2011;15-24;male;0.998022
+Latvia;2011;15-24;total;0.998354
+Latvia;2011;25-64;female;0.999132
+Latvia;2011;25-64;male;0.998893
+Latvia;2011;25-64;total;0.999018
+Latvia;2011;65+;female;0.999157
+Latvia;2011;65+;male;0.999358
+Latvia;2011;65+;total;0.999222
+Lithuania;2011;15+;female;0.998332
+Lithuania;2011;15+;male;0.997942
+Lithuania;2011;15+;total;0.998156
+Lithuania;2011;15-24;female;0.998666
+Lithuania;2011;15-24;male;0.998455
+Lithuania;2011;15-24;total;0.998558
+Lithuania;2011;25-64;female;0.998354
+Lithuania;2011;25-64;male;0.997717
+Lithuania;2011;25-64;total;0.998052
+Lithuania;2011;65+;female;0.998088
+Lithuania;2011;65+;male;0.99826
+Lithuania;2011;65+;total;0.998146
+Malta;2011;15+;female;0.9479
+Malta;2011;15+;male;0.917927
+Malta;2011;15+;total;0.933074
+Malta;2011;15-24;female;0.993866
+Malta;2011;15-24;male;0.98404
+Malta;2011;15-24;total;0.988819
+Malta;2011;25-64;female;0.967498
+Malta;2011;25-64;male;0.917032
+Malta;2011;25-64;total;0.941901
+Malta;2011;65+;female;0.85724
+Malta;2011;65+;male;0.858011
+Malta;2011;65+;total;0.857577
+Malta;2018;15+;female;0.959887
+Malta;2018;15+;male;0.9301
+Malta;2018;15+;total;0.945032
+Malta;2018;15-24;female;0.995609
+Malta;2018;15-24;male;0.99057
+Malta;2018;15-24;total;0.993007
+Malta;2018;25-64;female;0.979163
+Malta;2018;25-64;male;0.939446
+Malta;2018;25-64;total;0.958829
+Malta;2018;65+;female;0.896726
+Malta;2018;65+;male;0.864476
+Malta;2018;65+;total;0.882095
+Montenegro;2011;15+;female;0.975005
+Montenegro;2011;15+;male;0.994312
+Montenegro;2011;15+;total;0.984422
+Montenegro;2011;15-24;female;0.990526
+Montenegro;2011;15-24;male;0.993608
+Montenegro;2011;15-24;total;0.992118
+Montenegro;2011;25-64;female;0.990513
+Montenegro;2011;25-64;male;0.995778
+Montenegro;2011;25-64;total;0.993121
+Montenegro;2011;65+;female;0.903354
+Montenegro;2011;65+;male;0.988029
+Montenegro;2011;65+;total;0.939284
+Montenegro;2018;15+;female;0.982714
+Montenegro;2018;15+;male;0.994505
+Montenegro;2018;15+;total;0.988472
+Montenegro;2018;15-24;female;0.9897
+Montenegro;2018;15-24;male;0.9923
+Montenegro;2018;15-24;total;0.9911
+Montenegro;2018;25-64;female;0.991394
+Montenegro;2018;25-64;male;0.995423
+Montenegro;2018;25-64;total;0.993401
+Montenegro;2018;65+;female;0.950433
+Montenegro;2018;65+;male;0.993048
+Montenegro;2018;65+;total;0.96853
+Portugal;2011;15+;female;0.928608
+Portugal;2011;15+;male;0.962856
+Portugal;2011;15+;total;0.944771
+Portugal;2011;15-24;female;0.994796
+Portugal;2011;15-24;male;0.993918
+Portugal;2011;15-24;total;0.994351
+Portugal;2011;25-64;female;0.983538
+Portugal;2011;25-64;male;0.982969
+Portugal;2011;25-64;total;0.983263
+Portugal;2011;65+;female;0.754773
+Portugal;2011;65+;male;0.874103
+Portugal;2011;65+;total;0.804779
+Portugal;2018;15+;female;0.950725
+Portugal;2018;15+;male;0.973536
+Portugal;2018;15+;total;0.961376
+Portugal;2018;15-24;female;0.997016
+Portugal;2018;15-24;male;0.996266
+Portugal;2018;15-24;total;0.996639
+Portugal;2018;25-64;female;0.987342
+Portugal;2018;25-64;male;0.985301
+Portugal;2018;25-64;total;0.986364
+Portugal;2018;65+;female;0.850749
+Portugal;2018;65+;male;0.927467
+Portugal;2018;65+;total;0.882953
+Republic of Moldova;2012;15+;female;0.989243
+Republic of Moldova;2012;15+;male;0.993736
+Republic of Moldova;2012;15+;total;0.991383
+Republic of Moldova;2012;15-24;female;0.995858
+Republic of Moldova;2012;15-24;male;0.993378
+Republic of Moldova;2012;15-24;total;0.994562
+Republic of Moldova;2012;25-64;female;0.996955
+Republic of Moldova;2012;25-64;male;0.995367
+Republic of Moldova;2012;25-64;total;0.996192
+Republic of Moldova;2012;65+;female;0.943942
+Republic of Moldova;2012;65+;male;0.982642
+Republic of Moldova;2012;65+;total;0.958439
+Republic of Moldova;2014;15+;female;0.991404
+Republic of Moldova;2014;15+;male;0.99602
+Republic of Moldova;2014;15+;total;0.993599
+Republic of Moldova;2014;15-24;female;0.998155
+Republic of Moldova;2014;15-24;male;0.998067
+Republic of Moldova;2014;15-24;total;0.99811
+Republic of Moldova;2014;25-64;female;0.996717
+Republic of Moldova;2014;25-64;male;0.996585
+Republic of Moldova;2014;25-64;total;0.996653
+Republic of Moldova;2014;65+;female;0.96142
+Republic of Moldova;2014;65+;male;0.988346
+Republic of Moldova;2014;65+;total;0.971457
+Romania;2011;15+;female;0.982052
+Romania;2011;15+;male;0.990343
+Romania;2011;15+;total;0.986043
+Romania;2011;15-24;female;0.989762
+Romania;2011;15-24;male;0.990141
+Romania;2011;15-24;total;0.989957
+Romania;2011;25-64;female;0.989348
+Romania;2011;25-64;male;0.991532
+Romania;2011;25-64;total;0.990433
+Romania;2011;65+;female;0.956078
+Romania;2011;65+;male;0.985472
+Romania;2011;65+;total;0.967907
+Romania;2018;15+;female;0.985998
+Romania;2018;15+;male;0.99108
+Romania;2018;15+;total;0.988445
+Romania;2018;15-24;female;0.994397
+Romania;2018;15-24;male;0.994194
+Romania;2018;15-24;total;0.994292
+Romania;2018;25-64;female;0.988915
+Romania;2018;25-64;male;0.990624
+Romania;2018;25-64;total;0.989772
+Romania;2018;65+;female;0.974767
+Romania;2018;65+;male;0.990518
+Romania;2018;65+;total;0.981077
+Russian Federation;2010;15+;female;0.996478
+Russian Federation;2010;15+;male;0.997283
+Russian Federation;2010;15+;total;0.996843
+Russian Federation;2010;15-24;female;0.99758
+Russian Federation;2010;15-24;male;0.996628
+Russian Federation;2010;15-24;total;0.997096
+Russian Federation;2010;25-64;female;0.99819
+Russian Federation;2010;25-64;male;0.997702
+Russian Federation;2010;25-64;total;0.99796
+Russian Federation;2010;65+;female;0.989672
+Russian Federation;2010;65+;male;0.995657
+Russian Federation;2010;65+;total;0.991544
+Russian Federation;2018;15+;female;0.997341
+Russian Federation;2018;15+;male;0.997252
+Russian Federation;2018;15+;total;0.997301
+Russian Federation;2018;15-24;female;0.997491
+Russian Federation;2018;15-24;male;0.9965
+Russian Federation;2018;15-24;total;0.996985
+Russian Federation;2018;25-64;female;0.997998
+Russian Federation;2018;25-64;male;0.997328
+Russian Federation;2018;25-64;total;0.99768
+Russian Federation;2018;65+;female;0.995242
+Russian Federation;2018;65+;male;0.997576
+Russian Federation;2018;65+;total;0.996009
+San Marino;2018;15+;female;0.999019
+San Marino;2018;15+;male;0.999321
+San Marino;2018;15+;total;0.999164
+San Marino;2018;15-24;female;1
+San Marino;2018;15-24;male;1
+San Marino;2018;15-24;total;1
+San Marino;2018;25-64;female;0.999785
+San Marino;2018;25-64;male;0.99977
+San Marino;2018;25-64;total;0.999778
+San Marino;2018;65+;female;0.996516
+San Marino;2018;65+;male;0.997564
+San Marino;2018;65+;total;0.996992
+Serbia;2011;15+;female;0.967491
+Serbia;2011;15+;male;0.992646
+Serbia;2011;15+;total;0.979624
+Serbia;2011;15-24;female;0.992699
+Serbia;2011;15-24;male;0.993454
+Serbia;2011;15-24;total;0.993087
+Serbia;2011;25-64;female;0.990784
+Serbia;2011;25-64;male;0.994591
+Serbia;2011;25-64;total;0.992667
+Serbia;2011;65+;female;0.886971
+Serbia;2011;65+;male;0.984558
+Serbia;2011;65+;total;0.928109
+Serbia;2016;15+;female;0.982283
+Serbia;2016;15+;male;0.994997
+Serbia;2016;15+;total;0.988415
+Serbia;2016;15-24;female;0.997247
+Serbia;2016;15-24;male;0.997152
+Serbia;2016;15-24;total;0.997198
+Serbia;2016;25-64;female;0.993939
+Serbia;2016;25-64;male;0.995127
+Serbia;2016;25-64;total;0.994528
+Serbia;2016;65+;female;0.94524
+Serbia;2016;65+;male;0.993083
+Serbia;2016;65+;total;0.965576
+Serbia;2018;15+;female;0.975482
+Serbia;2018;15+;male;0.990763
+Serbia;2018;15+;total;0.982892
+Serbia;2018;15-24;female;0.9818
+Serbia;2018;15-24;male;0.9841
+Serbia;2018;15-24;total;0.983
+Serbia;2018;25-64;female;0.991282
+Serbia;2018;25-64;male;0.992608
+Serbia;2018;25-64;total;0.99194
+Serbia;2018;65+;female;0.930894
+Serbia;2018;65+;male;0.989774
+Serbia;2018;65+;total;0.956255
+Slovenia;2014;15+;female;0.996
+Slovenia;2014;15+;male;0.9969
+Slovenia;2014;15+;total;0.997
+Slovenia;2014;15-24;female;0.999
+Slovenia;2014;15-24;male;0.9979
+Slovenia;2014;15-24;total;0.998
+Slovenia;2014;25-64;female;0.997
+Slovenia;2014;25-64;male;0.9973
+Slovenia;2014;25-64;total;0.997
+Slovenia;2014;65+;female;0.992
+Slovenia;2014;65+;male;0.994
+Slovenia;2014;65+;total;0.993
+Spain;2010;15+;female;0.970045
+Spain;2010;15+;male;0.985257
+Spain;2010;15+;total;0.977489
+Spain;2010;15-24;female;0.996864
+Spain;2010;15-24;male;0.995068
+Spain;2010;15-24;total;0.995946
+Spain;2010;25-64;female;0.988145
+Spain;2010;25-64;male;0.990736
+Spain;2010;25-64;total;0.989449
+Spain;2010;65+;female;0.90253
+Spain;2010;65+;male;0.956332
+Spain;2010;65+;total;0.925591
+Spain;2011;15+;female;0.970656
+Spain;2011;15+;male;0.985362
+Spain;2011;15+;total;0.977838
+Spain;2011;15-24;female;0.99746
+Spain;2011;15-24;male;0.996547
+Spain;2011;15-24;total;0.996994
+Spain;2011;25-64;female;0.987869
+Spain;2011;25-64;male;0.990854
+Spain;2011;25-64;total;0.989368
+Spain;2011;65+;female;0.90712
+Spain;2011;65+;male;0.956284
+Spain;2011;65+;total;0.928224
+Spain;2012;15+;female;0.97218
+Spain;2012;15+;male;0.986065
+Spain;2012;15+;total;0.978945
+Spain;2012;15-24;female;0.997057
+Spain;2012;15-24;male;0.996411
+Spain;2012;15-24;total;0.996728
+Spain;2012;25-64;female;0.989155
+Spain;2012;25-64;male;0.990933
+Spain;2012;25-64;total;0.990046
+Spain;2012;65+;female;0.911717
+Spain;2012;65+;male;0.960847
+Spain;2012;65+;total;0.932841
+Spain;2013;15+;female;0.974405
+Spain;2013;15+;male;0.987488
+Spain;2013;15+;total;0.980791
+Spain;2013;15-24;female;0.996429
+Spain;2013;15-24;male;0.996946
+Spain;2013;15-24;total;0.996693
+Spain;2013;25-64;female;0.990392
+Spain;2013;25-64;male;0.992122
+Spain;2013;25-64;total;0.991259
+Spain;2013;65+;female;0.91829
+Spain;2013;65+;male;0.964155
+Spain;2013;65+;total;0.93818
+Spain;2014;15+;female;0.974874
+Spain;2014;15+;male;0.987313
+Spain;2014;15+;total;0.980937
+Spain;2014;15-24;female;0.996868
+Spain;2014;15-24;male;0.997573
+Spain;2014;15-24;total;0.997228
+Spain;2014;25-64;female;0.990483
+Spain;2014;25-64;male;0.991984
+Spain;2014;25-64;total;0.991234
+Spain;2014;65+;female;0.921298
+Spain;2014;65+;male;0.964167
+Spain;2014;65+;total;0.939937
+Spain;2015;15+;female;0.975471
+Spain;2015;15+;male;0.987709
+Spain;2015;15+;total;0.981433
+Spain;2015;15-24;female;0.996942
+Spain;2015;15-24;male;0.996188
+Spain;2015;15-24;total;0.996557
+Spain;2015;25-64;female;0.990951
+Spain;2015;25-64;male;0.992256
+Spain;2015;25-64;total;0.991604
+Spain;2015;65+;female;0.923382
+Spain;2015;65+;male;0.966519
+Spain;2015;65+;total;0.942174
+Spain;2016;15+;female;0.976954
+Spain;2016;15+;male;0.98836
+Spain;2016;15+;total;0.982505
+Spain;2016;15-24;female;0.996061
+Spain;2016;15-24;male;0.996376
+Spain;2016;15-24;total;0.996222
+Spain;2016;25-64;female;0.991382
+Spain;2016;25-64;male;0.992777
+Spain;2016;25-64;total;0.992078
+Spain;2016;65+;female;0.929626
+Spain;2016;65+;male;0.968391
+Spain;2016;65+;total;0.946558
+Spain;2018;15+;female;0.979738
+Spain;2018;15+;male;0.989254
+Spain;2018;15+;total;0.984365
+Spain;2018;15-24;female;0.997439
+Spain;2018;15-24;male;0.996885
+Spain;2018;15-24;total;0.997156
+Spain;2018;25-64;female;0.992877
+Spain;2018;25-64;male;0.993295
+Spain;2018;25-64;total;0.993085
+Spain;2018;65+;female;0.937326
+Spain;2018;65+;male;0.971316
+Spain;2018;65+;total;0.952229
+The former Yugoslav Republic of Macedonia;2014;15+;female;0.967
+The former Yugoslav Republic of Macedonia;2014;15+;male;0.9881
+The former Yugoslav Republic of Macedonia;2014;15+;total;0.978
+The former Yugoslav Republic of Macedonia;2014;15-24;female;0.985
+The former Yugoslav Republic of Macedonia;2014;15-24;male;0.9876
+The former Yugoslav Republic of Macedonia;2014;15-24;total;0.986
+The former Yugoslav Republic of Macedonia;2014;25-64;female;0.981
+The former Yugoslav Republic of Macedonia;2014;25-64;male;0.991
+The former Yugoslav Republic of Macedonia;2014;25-64;total;0.986
+The former Yugoslav Republic of Macedonia;2014;65+;female;0.89
+The former Yugoslav Republic of Macedonia;2014;65+;male;0.973
+The former Yugoslav Republic of Macedonia;2014;65+;total;0.926
+Ukraine;2012;15+;female;0.999582
+Ukraine;2012;15+;male;0.999939
+Ukraine;2012;15+;total;0.999744
+Ukraine;2012;15-24;female;0.999827
+Ukraine;2012;15-24;male;0.999571
+Ukraine;2012;15-24;total;0.999698
+Ukraine;2012;25-64;female;0.999646
+Ukraine;2012;25-64;male;0.999999
+Ukraine;2012;25-64;total;0.99981
+Ukraine;2012;65+;female;0.999268
+Ukraine;2012;65+;male;1
+Ukraine;2012;65+;total;0.999528
+Antigua and Barbuda;2011;15+;female;0.9942
+Antigua and Barbuda;2011;15+;male;0.984
+Antigua and Barbuda;2011;15+;total;0.9895
+Antigua and Barbuda;2015;15+;female;0.9942
+Antigua and Barbuda;2015;15+;male;0.984
+Antigua and Barbuda;2015;15+;total;0.9895
+Argentina;2010;15+;female;0.989281
+Argentina;2010;15+;male;0.989853
+Argentina;2010;15+;total;0.98955
+Argentina;2010;15-24;female;0.995887
+Argentina;2010;15-24;male;0.990122
+Argentina;2010;15-24;total;0.992986
+Argentina;2010;25-64;female;0.991539
+Argentina;2010;25-64;male;0.991634
+Argentina;2010;25-64;total;0.991584
+Argentina;2010;65+;female;0.971488
+Argentina;2010;65+;male;0.979807
+Argentina;2010;65+;total;0.974829
+Argentina;2011;15+;female;0.989998
+Argentina;2011;15+;male;0.992283
+Argentina;2011;15+;total;0.991083
+Argentina;2011;15-24;female;0.997115
+Argentina;2011;15-24;male;0.995453
+Argentina;2011;15-24;total;0.996282
+Argentina;2011;25-64;female;0.993012
+Argentina;2011;25-64;male;0.992747
+Argentina;2011;25-64;total;0.992884
+Argentina;2011;65+;female;0.968618
+Argentina;2011;65+;male;0.983448
+Argentina;2011;65+;total;0.974574
+Argentina;2012;15+;female;0.991
+Argentina;2012;15+;male;0.991111
+Argentina;2012;15+;total;0.991052
+Argentina;2012;15-24;female;0.996143
+Argentina;2012;15-24;male;0.991445
+Argentina;2012;15-24;total;0.993759
+Argentina;2012;25-64;female;0.992074
+Argentina;2012;25-64;male;0.991628
+Argentina;2012;25-64;total;0.991862
+Argentina;2012;65+;female;0.980078
+Argentina;2012;65+;male;0.987605
+Argentina;2012;65+;total;0.983048
+Argentina;2013;15+;female;0.990912
+Argentina;2013;15+;male;0.99156
+Argentina;2013;15+;total;0.99122
+Argentina;2013;15-24;female;0.995981
+Argentina;2013;15-24;male;0.995103
+Argentina;2013;15-24;total;0.995513
+Argentina;2013;25-64;female;0.993875
+Argentina;2013;25-64;male;0.992031
+Argentina;2013;25-64;total;0.993006
+Argentina;2013;65+;female;0.973206
+Argentina;2013;65+;male;0.981527
+Argentina;2013;65+;total;0.97649
+Argentina;2014;15+;female;0.989328
+Argentina;2014;15+;male;0.990613
+Argentina;2014;15+;total;0.989939
+Argentina;2014;15-24;female;0.994024
+Argentina;2014;15-24;male;0.991959
+Argentina;2014;15-24;total;0.992967
+Argentina;2014;25-64;female;0.992176
+Argentina;2014;25-64;male;0.991963
+Argentina;2014;25-64;total;0.992075
+Argentina;2014;65+;female;0.971185
+Argentina;2014;65+;male;0.980577
+Argentina;2014;65+;total;0.975039
+Argentina;2015;15+;female;0.992088
+Argentina;2015;15+;male;0.991483
+Argentina;2015;15+;total;0.9918
+Argentina;2015;15-24;female;0.996435
+Argentina;2015;15-24;male;0.994834
+Argentina;2015;15-24;total;0.995597
+Argentina;2015;25-64;female;0.993382
+Argentina;2015;25-64;male;0.992216
+Argentina;2015;25-64;total;0.992829
+Argentina;2015;65+;female;0.981455
+Argentina;2015;65+;male;0.98087
+Argentina;2015;65+;total;0.981216
+Argentina;2016;15+;female;0.991431
+Argentina;2016;15+;male;0.99105
+Argentina;2016;15+;total;0.99125
+Argentina;2016;15-24;female;0.996289
+Argentina;2016;15-24;male;0.993845
+Argentina;2016;15-24;total;0.995027
+Argentina;2016;25-64;female;0.994314
+Argentina;2016;25-64;male;0.991493
+Argentina;2016;25-64;total;0.992968
+Argentina;2016;65+;female;0.976189
+Argentina;2016;65+;male;0.984186
+Argentina;2016;65+;total;0.979448
+Argentina;2018;15+;female;0.99062
+Argentina;2018;15+;male;0.989377
+Argentina;2018;15+;total;0.990039
+Argentina;2018;15-24;female;0.997577
+Argentina;2018;15-24;male;0.992418
+Argentina;2018;15-24;total;0.995055
+Argentina;2018;25-64;female;0.994102
+Argentina;2018;25-64;male;0.990246
+Argentina;2018;25-64;total;0.992273
+Argentina;2018;65+;female;0.971777
+Argentina;2018;65+;male;0.98147
+Argentina;2018;65+;total;0.975835
+Aruba;2010;15+;female;0.967198
+Aruba;2010;15+;male;0.969405
+Aruba;2010;15+;total;0.968226
+Aruba;2010;15-24;female;0.993231
+Aruba;2010;15-24;male;0.989657
+Aruba;2010;15-24;total;0.991384
+Aruba;2010;25-64;female;0.979745
+Aruba;2010;25-64;male;0.975467
+Aruba;2010;25-64;total;0.977763
+Aruba;2010;65+;female;0.878025
+Aruba;2010;65+;male;0.903248
+Aruba;2010;65+;total;0.888624
+Aruba;2018;15+;female;0.978127
+Aruba;2018;15+;male;0.978001
+Aruba;2018;15+;total;0.978074
+Aruba;2018;15-24;female;0.9939
+Aruba;2018;15-24;male;0.996
+Aruba;2018;15-24;total;0.995
+Aruba;2018;25-64;female;0.985088
+Aruba;2018;25-64;male;0.979867
+Aruba;2018;25-64;total;0.982646
+Aruba;2018;65+;female;0.938028
+Aruba;2018;65+;male;0.947229
+Aruba;2018;65+;total;0.941965
+Barbados;2014;15+;female;0.996
+Barbados;2014;15+;male;0.996
+Barbados;2014;15+;total;0.996
+Barbados;2014;15-24;female;0.999
+Barbados;2014;15-24;male;0.9992
+Barbados;2014;15-24;total;0.999
+Barbados;2014;25-64;female;0.997
+Barbados;2014;25-64;male;0.997
+Barbados;2014;25-64;total;0.997
+Barbados;2014;65+;female;0.985
+Barbados;2014;65+;male;0.986
+Barbados;2014;65+;total;0.985
+Bolivia (Plurinational State of);2011;15+;female;0.880802
+Bolivia (Plurinational State of);2011;15+;male;0.966011
+Bolivia (Plurinational State of);2011;15+;total;0.922262
+Bolivia (Plurinational State of);2011;15-24;female;0.98772
+Bolivia (Plurinational State of);2011;15-24;male;0.992466
+Bolivia (Plurinational State of);2011;15-24;total;0.990075
+Bolivia (Plurinational State of);2011;25-64;female;0.882135
+Bolivia (Plurinational State of);2011;25-64;male;0.97304
+Bolivia (Plurinational State of);2011;25-64;total;0.92618
+Bolivia (Plurinational State of);2011;65+;female;0.536904
+Bolivia (Plurinational State of);2011;65+;male;0.822353
+Bolivia (Plurinational State of);2011;65+;total;0.670866
+Bolivia (Plurinational State of);2012;15+;female;0.918733
+Bolivia (Plurinational State of);2012;15+;male;0.971071
+Bolivia (Plurinational State of);2012;15+;total;0.944606
+Bolivia (Plurinational State of);2012;15-24;female;0.988286
+Bolivia (Plurinational State of);2012;15-24;male;0.991625
+Bolivia (Plurinational State of);2012;15-24;total;0.989959
+Bolivia (Plurinational State of);2012;25-64;female;0.933337
+Bolivia (Plurinational State of);2012;25-64;male;0.977192
+Bolivia (Plurinational State of);2012;25-64;total;0.955104
+Bolivia (Plurinational State of);2012;65+;female;0.614259
+Bolivia (Plurinational State of);2012;65+;male;0.851533
+Bolivia (Plurinational State of);2012;65+;total;0.723037
+Bolivia (Plurinational State of);2015;15+;female;0.885829
+Bolivia (Plurinational State of);2015;15+;male;0.965228
+Bolivia (Plurinational State of);2015;15+;total;0.924551
+Bolivia (Plurinational State of);2015;15-24;female;0.994042
+Bolivia (Plurinational State of);2015;15-24;male;0.99394
+Bolivia (Plurinational State of);2015;15-24;total;0.993992
+Bolivia (Plurinational State of);2015;25-64;female;0.895731
+Bolivia (Plurinational State of);2015;25-64;male;0.973792
+Bolivia (Plurinational State of);2015;25-64;total;0.933758
+Bolivia (Plurinational State of);2015;65+;female;0.540122
+Bolivia (Plurinational State of);2015;65+;male;0.825782
+Bolivia (Plurinational State of);2015;65+;total;0.674734
+Brazil;2010;15+;female;0.906817
+Brazil;2010;15+;male;0.900562
+Brazil;2010;15+;total;0.903792
+Brazil;2010;15-24;female;0.983187
+Brazil;2010;15-24;male;0.967162
+Brazil;2010;15-24;total;0.975141
+Brazil;2010;25-64;female;0.914735
+Brazil;2010;25-64;male;0.899343
+Brazil;2010;25-64;total;0.907281
+Brazil;2010;65+;female;0.693929
+Brazil;2010;65+;male;0.72267
+Brazil;2010;65+;total;0.70641
+Brazil;2011;15+;female;0.916332
+Brazil;2011;15+;male;0.91169
+Brazil;2011;15+;total;0.914112
+Brazil;2011;15-24;female;0.990732
+Brazil;2011;15-24;male;0.9791
+Brazil;2011;15-24;total;0.984869
+Brazil;2011;25-64;female;0.929585
+Brazil;2011;25-64;male;0.913606
+Brazil;2011;25-64;total;0.921964
+Brazil;2011;65+;female;0.706476
+Brazil;2011;65+;male;0.736901
+Brazil;2011;65+;total;0.719623
+Brazil;2012;15+;female;0.916249
+Brazil;2012;15+;male;0.910257
+Brazil;2012;15+;total;0.913379
+Brazil;2012;15-24;female;0.990208
+Brazil;2012;15-24;male;0.982274
+Brazil;2012;15-24;total;0.986197
+Brazil;2012;25-64;female;0.928997
+Brazil;2012;25-64;male;0.911648
+Brazil;2012;25-64;total;0.920706
+Brazil;2012;65+;female;0.72034
+Brazil;2012;65+;male;0.738652
+Brazil;2012;65+;total;0.728294
+Brazil;2013;15+;female;0.91765
+Brazil;2013;15+;male;0.91178
+Brazil;2013;15+;total;0.914842
+Brazil;2013;15-24;female;0.992297
+Brazil;2013;15-24;male;0.98252
+Brazil;2013;15-24;total;0.987367
+Brazil;2013;25-64;female;0.932361
+Brazil;2013;25-64;male;0.915713
+Brazil;2013;25-64;total;0.924419
+Brazil;2013;65+;female;0.714867
+Brazil;2013;65+;male;0.734069
+Brazil;2013;65+;total;0.723247
+Brazil;2014;15+;female;0.920605
+Brazil;2014;15+;male;0.913668
+Brazil;2014;15+;total;0.917294
+Brazil;2014;15-24;female;0.992503
+Brazil;2014;15-24;male;0.98447
+Brazil;2014;15-24;total;0.988457
+Brazil;2014;25-64;female;0.936182
+Brazil;2014;25-64;male;0.917431
+Brazil;2014;25-64;total;0.927241
+Brazil;2014;65+;female;0.728153
+Brazil;2014;65+;male;0.745131
+Brazil;2014;65+;total;0.735506
+Brazil;2015;15+;female;0.923438
+Brazil;2015;15+;male;0.917252
+Brazil;2015;15+;total;0.920479
+Brazil;2015;15-24;female;0.993467
+Brazil;2015;15-24;male;0.985959
+Brazil;2015;15-24;total;0.989638
+Brazil;2015;25-64;female;0.940941
+Brazil;2015;25-64;male;0.923296
+Brazil;2015;25-64;total;0.932534
+Brazil;2015;65+;female;0.736558
+Brazil;2015;65+;male;0.750411
+Brazil;2015;65+;total;0.742602
+Brazil;2016;15+;female;0.930212
+Brazil;2016;15+;male;0.925752
+Brazil;2016;15+;total;0.928084
+Brazil;2016;15-24;female;0.994553
+Brazil;2016;15-24;male;0.987794
+Brazil;2016;15-24;total;0.99111
+Brazil;2016;25-64;female;0.946518
+Brazil;2016;25-64;male;0.931156
+Brazil;2016;25-64;total;0.939201
+Brazil;2016;65+;female;0.760023
+Brazil;2016;65+;male;0.773319
+Brazil;2016;65+;total;0.765713
+Brazil;2017;15+;female;0.932437
+Brazil;2017;15+;male;0.928915
+Brazil;2017;15+;total;0.930758
+Brazil;2017;15-24;female;0.994813
+Brazil;2017;15-24;male;0.988413
+Brazil;2017;15-24;total;0.991554
+Brazil;2017;25-64;female;0.94803
+Brazil;2017;25-64;male;0.933708
+Brazil;2017;25-64;total;0.941215
+Brazil;2017;65+;female;0.770139
+Brazil;2017;65+;male;0.787781
+Brazil;2017;65+;total;0.77772
+Brazil;2018;15+;female;0.934251
+Brazil;2018;15+;male;0.93009
+Brazil;2018;15+;total;0.932275
+Brazil;2018;15-24;female;0.994315
+Brazil;2018;15-24;male;0.989836
+Brazil;2018;15-24;total;0.992042
+Brazil;2018;25-64;female;0.951028
+Brazil;2018;25-64;male;0.936217
+Brazil;2018;25-64;total;0.94401
+Brazil;2018;65+;female;0.779381
+Brazil;2018;65+;male;0.793373
+Brazil;2018;65+;total;0.785432
+Chile;2011;15+;female;0.965307
+Chile;2011;15+;male;0.968988
+Chile;2011;15+;total;0.96703
+Chile;2011;15-24;female;0.996054
+Chile;2011;15-24;male;0.992144
+Chile;2011;15-24;total;0.994082
+Chile;2011;25-64;female;0.975069
+Chile;2011;25-64;male;0.973656
+Chile;2011;25-64;total;0.974412
+Chile;2011;65+;female;0.882689
+Chile;2011;65+;male;0.901337
+Chile;2011;65+;total;0.89056
+Chile;2013;15+;female;0.961618
+Chile;2013;15+;male;0.96388
+Chile;2013;15+;total;0.962671
+Chile;2013;15-24;female;0.990869
+Chile;2013;15-24;male;0.990098
+Chile;2013;15-24;total;0.990483
+Chile;2013;25-64;female;0.972169
+Chile;2013;25-64;male;0.969293
+Chile;2013;25-64;total;0.970835
+Chile;2013;65+;female;0.884725
+Chile;2013;65+;male;0.894565
+Chile;2013;65+;total;0.888876
+Chile;2015;15+;female;0.96744
+Chile;2015;15+;male;0.970247
+Chile;2015;15+;total;0.968741
+Chile;2015;15-24;female;0.994406
+Chile;2015;15-24;male;0.992675
+Chile;2015;15-24;total;0.993539
+Chile;2015;25-64;female;0.979776
+Chile;2015;25-64;male;0.975954
+Chile;2015;25-64;total;0.97801
+Chile;2015;65+;female;0.891132
+Chile;2015;65+;male;0.910514
+Chile;2015;65+;total;0.899311
+Chile;2017;15+;female;0.96334
+Chile;2017;15+;male;0.964806
+Chile;2017;15+;total;0.964023
+Chile;2017;15-24;female;0.990116
+Chile;2017;15-24;male;0.990058
+Chile;2017;15-24;total;0.990087
+Chile;2017;25-64;female;0.97355
+Chile;2017;25-64;male;0.971037
+Chile;2017;25-64;total;0.972383
+Chile;2017;65+;female;0.902231
+Chile;2017;65+;male;0.90618
+Chile;2017;65+;total;0.903911
+Colombia;2010;15+;female;0.934868
+Colombia;2010;15+;male;0.932502
+Colombia;2010;15+;total;0.933723
+Colombia;2010;15-24;female;0.985172
+Colombia;2010;15-24;male;0.976827
+Colombia;2010;15-24;total;0.980984
+Colombia;2010;25-64;female;0.944008
+Colombia;2010;25-64;male;0.936362
+Colombia;2010;25-64;total;0.94033
+Colombia;2010;65+;female;0.753516
+Colombia;2010;65+;male;0.774405
+Colombia;2010;65+;total;0.76301
+Colombia;2011;15+;female;0.936671
+Colombia;2011;15+;male;0.934883
+Colombia;2011;15+;total;0.935805
+Colombia;2011;15-24;female;0.987243
+Colombia;2011;15-24;male;0.977605
+Colombia;2011;15-24;total;0.982394
+Colombia;2011;25-64;female;0.943765
+Colombia;2011;25-64;male;0.937978
+Colombia;2011;25-64;total;0.940982
+Colombia;2011;65+;female;0.772455
+Colombia;2011;65+;male;0.791866
+Colombia;2011;65+;total;0.781319
+Colombia;2014;15+;female;0.944847
+Colombia;2014;15+;male;0.938674
+Colombia;2014;15+;total;0.941863
+Colombia;2014;15-24;female;0.989729
+Colombia;2014;15-24;male;0.981067
+Colombia;2014;15-24;total;0.98541
+Colombia;2014;25-64;female;0.953839
+Colombia;2014;25-64;male;0.942919
+Colombia;2014;25-64;total;0.948568
+Colombia;2014;65+;female;0.796046
+Colombia;2014;65+;male;0.801762
+Colombia;2014;65+;total;0.798633
+Colombia;2015;15+;female;0.944158
+Colombia;2015;15+;male;0.940632
+Colombia;2015;15+;total;0.942451
+Colombia;2015;15-24;female;0.989153
+Colombia;2015;15-24;male;0.981552
+Colombia;2015;15-24;total;0.985347
+Colombia;2015;25-64;female;0.953262
+Colombia;2015;25-64;male;0.945459
+Colombia;2015;25-64;total;0.949491
+Colombia;2015;65+;female;0.798986
+Colombia;2015;65+;male;0.807387
+Colombia;2015;65+;total;0.802794
+Colombia;2016;15+;female;0.948902
+Colombia;2016;15+;male;0.944023
+Colombia;2016;15+;total;0.946539
+Colombia;2016;15-24;female;0.990253
+Colombia;2016;15-24;male;0.98312
+Colombia;2016;15-24;total;0.986683
+Colombia;2016;25-64;female;0.958638
+Colombia;2016;25-64;male;0.949974
+Colombia;2016;25-64;total;0.954444
+Colombia;2016;65+;female;0.814384
+Colombia;2016;65+;male;0.814111
+Colombia;2016;65+;total;0.81426
+Colombia;2018;15+;female;0.953189
+Colombia;2018;15+;male;0.948518
+Colombia;2018;15+;total;0.950925
+Colombia;2018;15-24;female;0.990696
+Colombia;2018;15-24;male;0.986338
+Colombia;2018;15-24;total;0.988517
+Colombia;2018;25-64;female;0.962966
+Colombia;2018;25-64;male;0.953248
+Colombia;2018;25-64;total;0.958249
+Colombia;2018;65+;female;0.832138
+Colombia;2018;65+;male;0.834424
+Colombia;2018;65+;total;0.833165
+Costa Rica;2011;15+;female;0.975004
+Costa Rica;2011;15+;male;0.973063
+Costa Rica;2011;15+;total;0.974066
+Costa Rica;2011;15-24;female;0.992581
+Costa Rica;2011;15-24;male;0.990077
+Costa Rica;2011;15-24;total;0.991337
+Costa Rica;2011;25-64;female;0.979109
+Costa Rica;2011;25-64;male;0.976354
+Costa Rica;2011;25-64;total;0.977784
+Costa Rica;2011;65+;female;0.904885
+Costa Rica;2011;65+;male;0.902437
+Costa Rica;2011;65+;total;0.903748
+Costa Rica;2018;15+;female;0.979244
+Costa Rica;2018;15+;male;0.978024
+Costa Rica;2018;15+;total;0.978638
+Costa Rica;2018;15-24;female;0.9953
+Costa Rica;2018;15-24;male;0.9934
+Costa Rica;2018;15-24;total;0.9943
+Costa Rica;2018;25-64;female;0.983696
+Costa Rica;2018;25-64;male;0.98067
+Costa Rica;2018;25-64;total;0.982187
+Costa Rica;2018;65+;female;0.931787
+Costa Rica;2018;65+;male;0.934246
+Costa Rica;2018;65+;total;0.932929
+Cuba;2012;15+;female;0.997999
+Cuba;2012;15+;male;0.997061
+Cuba;2012;15+;total;0.997525
+Cuba;2012;15-24;female;0.998952
+Cuba;2012;15-24;male;0.998553
+Cuba;2012;15-24;total;0.998747
+Cuba;2012;25-64;female;0.99767
+Cuba;2012;25-64;male;0.997365
+Cuba;2012;25-64;total;0.997518
+Cuba;2012;65+;female;0.99173
+Cuba;2012;65+;male;0.991539
+Cuba;2012;65+;total;0.99164
+Dominican Republic;2010;15+;female;0.896973
+Dominican Republic;2010;15+;male;0.89377
+Dominican Republic;2010;15+;total;0.895387
+Dominican Republic;2010;15-24;female;0.978835
+Dominican Republic;2010;15-24;male;0.957753
+Dominican Republic;2010;15-24;total;0.968058
+Dominican Republic;2010;25-64;female;0.897964
+Dominican Republic;2010;25-64;male;0.890231
+Dominican Republic;2010;25-64;total;0.894179
+Dominican Republic;2010;65+;female;0.673746
+Dominican Republic;2010;65+;male;0.726916
+Dominican Republic;2010;65+;total;0.699519
+Dominican Republic;2011;15+;female;0.902256
+Dominican Republic;2011;15+;male;0.89985
+Dominican Republic;2011;15+;total;0.901064
+Dominican Republic;2011;15-24;female;0.980538
+Dominican Republic;2011;15-24;male;0.960919
+Dominican Republic;2011;15-24;total;0.970421
+Dominican Republic;2011;25-64;female;0.903638
+Dominican Republic;2011;25-64;male;0.893962
+Dominican Republic;2011;25-64;total;0.898903
+Dominican Republic;2011;65+;female;0.695955
+Dominican Republic;2011;65+;male;0.75465
+Dominican Republic;2011;65+;total;0.723917
+Dominican Republic;2012;15+;female;0.902242
+Dominican Republic;2012;15+;male;0.900848
+Dominican Republic;2012;15+;total;0.901552
+Dominican Republic;2012;15-24;female;0.977692
+Dominican Republic;2012;15-24;male;0.963219
+Dominican Republic;2012;15-24;total;0.970239
+Dominican Republic;2012;25-64;female;0.902989
+Dominican Republic;2012;25-64;male;0.897823
+Dominican Republic;2012;25-64;total;0.900463
+Dominican Republic;2012;65+;female;0.715785
+Dominican Republic;2012;65+;male;0.746139
+Dominican Republic;2012;65+;total;0.730357
+Dominican Republic;2013;15+;female;0.912505
+Dominican Republic;2013;15+;male;0.904581
+Dominican Republic;2013;15+;total;0.908582
+Dominican Republic;2013;15-24;female;0.982525
+Dominican Republic;2013;15-24;male;0.967627
+Dominican Republic;2013;15-24;total;0.974724
+Dominican Republic;2013;25-64;female;0.913308
+Dominican Republic;2013;25-64;male;0.896543
+Dominican Republic;2013;25-64;total;0.905159
+Dominican Republic;2013;65+;female;0.747887
+Dominican Republic;2013;65+;male;0.776458
+Dominican Republic;2013;65+;total;0.761469
+Dominican Republic;2014;15+;female;0.921478
+Dominican Republic;2014;15+;male;0.913716
+Dominican Republic;2014;15+;total;0.917638
+Dominican Republic;2014;15-24;female;0.980448
+Dominican Republic;2014;15-24;male;0.973536
+Dominican Republic;2014;15-24;total;0.976885
+Dominican Republic;2014;25-64;female;0.92566
+Dominican Republic;2014;25-64;male;0.907059
+Dominican Republic;2014;25-64;total;0.916537
+Dominican Republic;2014;65+;female;0.776144
+Dominican Republic;2014;65+;male;0.801411
+Dominican Republic;2014;65+;total;0.788039
+Dominican Republic;2015;15+;female;0.923211
+Dominican Republic;2015;15+;male;0.916507
+Dominican Republic;2015;15+;total;0.919912
+Dominican Republic;2015;15-24;female;0.98031
+Dominican Republic;2015;15-24;male;0.972254
+Dominican Republic;2015;15-24;total;0.976141
+Dominican Republic;2015;25-64;female;0.929819
+Dominican Republic;2015;25-64;male;0.912663
+Dominican Republic;2015;25-64;total;0.921492
+Dominican Republic;2015;65+;female;0.771582
+Dominican Republic;2015;65+;male;0.797917
+Dominican Republic;2015;65+;total;0.783942
+Dominican Republic;2016;15+;female;0.937641
+Dominican Republic;2016;15+;male;0.937936
+Dominican Republic;2016;15+;total;0.937785
+Dominican Republic;2016;15-24;female;0.988674
+Dominican Republic;2016;15-24;male;0.988126
+Dominican Republic;2016;15-24;total;0.988394
+Dominican Republic;2016;25-64;female;0.946992
+Dominican Republic;2016;25-64;male;0.936826
+Dominican Republic;2016;25-64;total;0.942116
+Dominican Republic;2016;65+;female;0.780072
+Dominican Republic;2016;65+;male;0.818835
+Dominican Republic;2016;65+;total;0.798216
+Ecuador;2010;15+;female;0.904701
+Ecuador;2010;15+;male;0.933169
+Ecuador;2010;15+;total;0.91854
+Ecuador;2010;15-24;female;0.988541
+Ecuador;2010;15-24;male;0.984689
+Ecuador;2010;15-24;total;0.986527
+Ecuador;2010;25-64;female;0.924454
+Ecuador;2010;25-64;male;0.944046
+Ecuador;2010;25-64;total;0.933733
+Ecuador;2010;65+;female;0.666308
+Ecuador;2010;65+;male;0.77004
+Ecuador;2010;65+;total;0.715073
+Ecuador;2011;15+;female;0.902208
+Ecuador;2011;15+;male;0.930525
+Ecuador;2011;15+;total;0.915869
+Ecuador;2011;15-24;female;0.988053
+Ecuador;2011;15-24;male;0.985865
+Ecuador;2011;15-24;total;0.986948
+Ecuador;2011;25-64;female;0.925967
+Ecuador;2011;25-64;male;0.947037
+Ecuador;2011;25-64;total;0.935971
+Ecuador;2011;65+;female;0.649307
+Ecuador;2011;65+;male;0.750273
+Ecuador;2011;65+;total;0.697282
+Ecuador;2012;15+;female;0.909517
+Ecuador;2012;15+;male;0.932542
+Ecuador;2012;15+;total;0.920647
+Ecuador;2012;15-24;female;0.988945
+Ecuador;2012;15-24;male;0.987732
+Ecuador;2012;15-24;total;0.988316
+Ecuador;2012;25-64;female;0.933321
+Ecuador;2012;25-64;male;0.947626
+Ecuador;2012;25-64;total;0.940079
+Ecuador;2012;65+;female;0.695783
+Ecuador;2012;65+;male;0.772593
+Ecuador;2012;65+;total;0.731967
+Ecuador;2013;15+;female;0.922181
+Ecuador;2013;15+;male;0.944257
+Ecuador;2013;15+;total;0.932946
+Ecuador;2013;15-24;female;0.986325
+Ecuador;2013;15-24;male;0.985794
+Ecuador;2013;15-24;total;0.986046
+Ecuador;2013;25-64;female;0.940453
+Ecuador;2013;25-64;male;0.953612
+Ecuador;2013;25-64;total;0.946688
+Ecuador;2013;65+;female;0.697174
+Ecuador;2013;65+;male;0.796778
+Ecuador;2013;65+;total;0.744976
+Ecuador;2014;15+;female;0.932539
+Ecuador;2014;15+;male;0.952572
+Ecuador;2014;15+;total;0.942226
+Ecuador;2014;15-24;female;0.991869
+Ecuador;2014;15-24;male;0.990107
+Ecuador;2014;15-24;total;0.990978
+Ecuador;2014;25-64;female;0.94737
+Ecuador;2014;25-64;male;0.960201
+Ecuador;2014;25-64;total;0.953457
+Ecuador;2014;65+;female;0.722344
+Ecuador;2014;65+;male;0.821974
+Ecuador;2014;65+;total;0.770332
+Ecuador;2015;15+;female;0.932566
+Ecuador;2015;15+;male;0.957262
+Ecuador;2015;15+;total;0.944557
+Ecuador;2015;15-24;female;0.989123
+Ecuador;2015;15-24;male;0.993372
+Ecuador;2015;15-24;total;0.991262
+Ecuador;2015;25-64;female;0.947725
+Ecuador;2015;25-64;male;0.963891
+Ecuador;2015;25-64;total;0.95546
+Ecuador;2015;65+;female;0.725628
+Ecuador;2015;65+;male;0.835921
+Ecuador;2015;65+;total;0.778913
+Ecuador;2016;15+;female;0.933145
+Ecuador;2016;15+;male;0.95445
+Ecuador;2016;15+;total;0.943502
+Ecuador;2016;15-24;female;0.991369
+Ecuador;2016;15-24;male;0.989792
+Ecuador;2016;15-24;total;0.990571
+Ecuador;2016;25-64;female;0.947963
+Ecuador;2016;25-64;male;0.962262
+Ecuador;2016;25-64;total;0.954801
+Ecuador;2016;65+;female;0.726472
+Ecuador;2016;65+;male;0.829853
+Ecuador;2016;65+;total;0.776576
+Ecuador;2017;15+;female;0.920867
+Ecuador;2017;15+;male;0.937791
+Ecuador;2017;15+;total;0.928298
+Ecuador;2017;15-24;female;0.994024
+Ecuador;2017;15-24;male;0.991098
+Ecuador;2017;15-24;total;0.992551
+Ecuador;2017;25-64;female;0.940497
+Ecuador;2017;25-64;male;0.947269
+Ecuador;2017;25-64;total;0.943324
+Ecuador;2017;65+;female;0.696821
+Ecuador;2017;65+;male;0.773008
+Ecuador;2017;65+;total;0.729916
+El Salvador;2010;15+;female;0.82308
+El Salvador;2010;15+;male;0.870997
+El Salvador;2010;15+;total;0.844927
+El Salvador;2010;15-24;female;0.963857
+El Salvador;2010;15-24;male;0.95669
+El Salvador;2010;15-24;total;0.960345
+El Salvador;2010;25-64;female;0.815043
+El Salvador;2010;25-64;male;0.868196
+El Salvador;2010;25-64;total;0.838552
+El Salvador;2010;65+;female;0.523977
+El Salvador;2010;65+;male;0.628786
+El Salvador;2010;65+;total;0.569803
+El Salvador;2011;15+;female;0.830156
+El Salvador;2011;15+;male;0.883917
+El Salvador;2011;15+;total;0.85494
+El Salvador;2011;15-24;female;0.969459
+El Salvador;2011;15-24;male;0.961506
+El Salvador;2011;15-24;total;0.965451
+El Salvador;2011;25-64;female;0.826724
+El Salvador;2011;25-64;male;0.880924
+El Salvador;2011;25-64;total;0.85085
+El Salvador;2011;65+;female;0.50929
+El Salvador;2011;65+;male;0.646394
+El Salvador;2011;65+;total;0.56822
+El Salvador;2013;15+;female;0.846704
+El Salvador;2013;15+;male;0.89235
+El Salvador;2013;15+;total;0.867676
+El Salvador;2013;15-24;female;0.975002
+El Salvador;2013;15-24;male;0.96947
+El Salvador;2013;15-24;total;0.972242
+El Salvador;2013;25-64;female;0.841929
+El Salvador;2013;25-64;male;0.891709
+El Salvador;2013;25-64;total;0.863984
+El Salvador;2013;65+;female;0.561929
+El Salvador;2013;65+;male;0.66203
+El Salvador;2013;65+;total;0.606295
+El Salvador;2015;15+;female;0.862171
+El Salvador;2015;15+;male;0.900099
+El Salvador;2015;15+;total;0.879699
+El Salvador;2015;15-24;female;0.984337
+El Salvador;2015;15-24;male;0.97462
+El Salvador;2015;15-24;total;0.979493
+El Salvador;2015;25-64;female;0.860941
+El Salvador;2015;25-64;male;0.899831
+El Salvador;2015;25-64;total;0.878372
+El Salvador;2015;65+;female;0.604522
+El Salvador;2015;65+;male;0.702453
+El Salvador;2015;65+;total;0.648162
+El Salvador;2016;15+;female;0.863264
+El Salvador;2016;15+;male;0.902993
+El Salvador;2016;15+;total;0.881418
+El Salvador;2016;15-24;female;0.982787
+El Salvador;2016;15-24;male;0.977232
+El Salvador;2016;15-24;total;0.980086
+El Salvador;2016;25-64;female;0.862783
+El Salvador;2016;25-64;male;0.900624
+El Salvador;2016;25-64;total;0.879748
+El Salvador;2016;65+;female;0.611056
+El Salvador;2016;65+;male;0.7183
+El Salvador;2016;65+;total;0.657334
+El Salvador;2017;15+;female;0.866736
+El Salvador;2017;15+;male;0.906314
+El Salvador;2017;15+;total;0.884827
+El Salvador;2017;15-24;female;0.981496
+El Salvador;2017;15-24;male;0.977997
+El Salvador;2017;15-24;total;0.979805
+El Salvador;2017;25-64;female;0.871213
+El Salvador;2017;25-64;male;0.90636
+El Salvador;2017;25-64;total;0.887071
+El Salvador;2017;65+;female;0.612319
+El Salvador;2017;65+;male;0.723228
+El Salvador;2017;65+;total;0.659684
+Grenada;2014;15+;female;0.986
+Grenada;2014;15+;male;0.9858
+Grenada;2014;15+;total;0.986
+Grenada;2014;15-24;female;0.995
+Grenada;2014;15-24;male;0.9895
+Grenada;2014;15-24;total;0.992
+Grenada;2014;25-64;female;0.986
+Grenada;2014;25-64;male;0.9865
+Grenada;2014;25-64;total;0.986
+Grenada;2014;65+;female;0.96
+Grenada;2014;65+;male;0.9658
+Grenada;2014;65+;total;0.962
+Guadeloupe;2014;15+;female;0.964
+Guadeloupe;2014;15+;male;0.9553
+Guadeloupe;2014;15+;total;0.96
+Guadeloupe;2014;15-24;female;0.999
+Guadeloupe;2014;15-24;male;0.9982
+Guadeloupe;2014;15-24;total;0.998
+Guadeloupe;2014;25-64;female;0.983
+Guadeloupe;2014;25-64;male;0.9714
+Guadeloupe;2014;25-64;total;0.978
+Guadeloupe;2014;65+;female;0.842
+Guadeloupe;2014;65+;male;0.8114
+Guadeloupe;2014;65+;total;0.829
+Guatemala;2012;15+;female;0.72428
+Guatemala;2012;15+;male;0.848487
+Guatemala;2012;15+;total;0.782649
+Guatemala;2012;15-24;female;0.919424
+Guatemala;2012;15-24;male;0.954664
+Guatemala;2012;15-24;total;0.936535
+Guatemala;2012;25-64;female;0.679966
+Guatemala;2012;25-64;male;0.833428
+Guatemala;2012;25-64;total;0.750612
+Guatemala;2012;65+;female;0.30871
+Guatemala;2012;65+;male;0.536278
+Guatemala;2012;65+;total;0.417243
+Guatemala;2013;15+;female;0.721276
+Guatemala;2013;15+;male;0.827207
+Guatemala;2013;15+;total;0.770387
+Guatemala;2013;15-24;female;0.897704
+Guatemala;2013;15-24;male;0.941823
+Guatemala;2013;15-24;total;0.918519
+Guatemala;2013;25-64;female;0.670188
+Guatemala;2013;25-64;male;0.798624
+Guatemala;2013;25-64;total;0.729486
+Guatemala;2013;65+;female;0.387503
+Guatemala;2013;65+;male;0.537296
+Guatemala;2013;65+;total;0.453943
+Guatemala;2014;15+;female;0.763707
+Guatemala;2014;15+;male;0.867562
+Guatemala;2014;15+;total;0.812859
+Guatemala;2014;15-24;female;0.932693
+Guatemala;2014;15-24;male;0.954819
+Guatemala;2014;15-24;total;0.943543
+Guatemala;2014;25-64;female;0.724823
+Guatemala;2014;25-64;male;0.856449
+Guatemala;2014;25-64;total;0.785522
+Guatemala;2014;65+;female;0.406613
+Guatemala;2014;65+;male;0.609036
+Guatemala;2014;65+;total;0.50711
+Guyana;2014;15+;female;0.850346
+Guyana;2014;15+;male;0.863144
+Guyana;2014;15+;total;0.856397
+Guyana;2014;15-24;female;0.97037
+Guyana;2014;15-24;male;0.963319
+Guyana;2014;15-24;total;0.966897
+Guyana;2014;25-64;female;0.85554
+Guyana;2014;25-64;male;0.858303
+Guyana;2014;25-64;total;0.856837
+Guyana;2014;65+;female;0.468212
+Guyana;2014;65+;male;0.538491
+Guyana;2014;65+;total;0.498913
+Haiti;2016;15+;female;0.583005
+Haiti;2016;15+;male;0.652777
+Haiti;2016;15+;total;0.616914
+Haiti;2016;15-24;female;0.826348
+Haiti;2016;15-24;male;0.833535
+Haiti;2016;15-24;total;0.829943
+Haiti;2016;25-64;female;0.529283
+Haiti;2016;25-64;male;0.610067
+Haiti;2016;25-64;total;0.568397
+Haiti;2016;65+;female;0.102378
+Haiti;2016;65+;male;0.204632
+Haiti;2016;65+;total;0.147636
+Honduras;2010;15+;female;0.84725
+Honduras;2010;15+;male;0.84789
+Honduras;2010;15+;total;0.847554
+Honduras;2010;15-24;female;0.958775
+Honduras;2010;15-24;male;0.94448
+Honduras;2010;15-24;total;0.951507
+Honduras;2010;25-64;female;0.842311
+Honduras;2010;25-64;male;0.835649
+Honduras;2010;25-64;total;0.839291
+Honduras;2010;65+;female;0.496909
+Honduras;2010;65+;male;0.536767
+Honduras;2010;65+;total;0.515729
+Honduras;2011;15+;female;0.849303
+Honduras;2011;15+;male;0.853413
+Honduras;2011;15+;total;0.851233
+Honduras;2011;15-24;female;0.96926
+Honduras;2011;15-24;male;0.949315
+Honduras;2011;15-24;total;0.95925
+Honduras;2011;25-64;female;0.844492
+Honduras;2011;25-64;male;0.84565
+Honduras;2011;25-64;total;0.845016
+Honduras;2011;65+;female;0.464534
+Honduras;2011;65+;male;0.499726
+Honduras;2011;65+;total;0.480516
+Honduras;2012;15+;female;0.850515
+Honduras;2012;15+;male;0.856962
+Honduras;2012;15+;total;0.853556
+Honduras;2012;15-24;female;0.959872
+Honduras;2012;15-24;male;0.940028
+Honduras;2012;15-24;total;0.94981
+Honduras;2012;25-64;female;0.848308
+Honduras;2012;25-64;male;0.846784
+Honduras;2012;25-64;total;0.847615
+Honduras;2012;65+;female;0.538847
+Honduras;2012;65+;male;0.601641
+Honduras;2012;65+;total;0.566962
+Honduras;2013;15+;female;0.852847
+Honduras;2013;15+;male;0.856684
+Honduras;2013;15+;total;0.854644
+Honduras;2013;15-24;female;0.962986
+Honduras;2013;15-24;male;0.938507
+Honduras;2013;15-24;total;0.950665
+Honduras;2013;25-64;female;0.848858
+Honduras;2013;25-64;male;0.851946
+Honduras;2013;25-64;total;0.850245
+Honduras;2013;65+;female;0.546453
+Honduras;2013;65+;male;0.598911
+Honduras;2013;65+;total;0.570936
+Honduras;2014;15+;female;0.87026
+Honduras;2014;15+;male;0.87396
+Honduras;2014;15+;total;0.871975
+Honduras;2014;15-24;female;0.962923
+Honduras;2014;15-24;male;0.950474
+Honduras;2014;15-24;total;0.956771
+Honduras;2014;25-64;female;0.868921
+Honduras;2014;25-64;male;0.866041
+Honduras;2014;25-64;total;0.867629
+Honduras;2014;65+;female;0.569399
+Honduras;2014;65+;male;0.620475
+Honduras;2014;65+;total;0.592414
+Honduras;2015;15+;female;0.878937
+Honduras;2015;15+;male;0.879221
+Honduras;2015;15+;total;0.879068
+Honduras;2015;15-24;female;0.969996
+Honduras;2015;15-24;male;0.949933
+Honduras;2015;15-24;total;0.960075
+Honduras;2015;25-64;female;0.879567
+Honduras;2015;25-64;male;0.872199
+Honduras;2015;25-64;total;0.876291
+Honduras;2015;65+;female;0.562205
+Honduras;2015;65+;male;0.647786
+Honduras;2015;65+;total;0.601865
+Honduras;2016;15+;female;0.889349
+Honduras;2016;15+;male;0.890489
+Honduras;2016;15+;total;0.889875
+Honduras;2016;15-24;female;0.972456
+Honduras;2016;15-24;male;0.949452
+Honduras;2016;15-24;total;0.961265
+Honduras;2016;25-64;female;0.888756
+Honduras;2016;25-64;male;0.886949
+Honduras;2016;25-64;total;0.887944
+Honduras;2016;65+;female;0.634366
+Honduras;2016;65+;male;0.69791
+Honduras;2016;65+;total;0.662833
+Honduras;2018;15+;female;0.872656
+Honduras;2018;15+;male;0.871376
+Honduras;2018;15+;total;0.872052
+Honduras;2018;15-24;female;0.981851
+Honduras;2018;15-24;male;0.94892
+Honduras;2018;15-24;total;0.965158
+Honduras;2018;25-64;female;0.875381
+Honduras;2018;25-64;male;0.866733
+Honduras;2018;25-64;total;0.871423
+Honduras;2018;65+;female;0.58204
+Honduras;2018;65+;male;0.652104
+Honduras;2018;65+;total;0.613583
+Jamaica;2014;15+;female;0.927
+Jamaica;2014;15+;male;0.8344
+Jamaica;2014;15+;total;0.881
+Jamaica;2014;15-24;female;0.988
+Jamaica;2014;15-24;male;0.9386
+Jamaica;2014;15-24;total;0.963
+Jamaica;2014;25-64;female;0.944
+Jamaica;2014;25-64;male;0.8317
+Jamaica;2014;25-64;total;0.889
+Jamaica;2014;65+;female;0.72
+Jamaica;2014;65+;male;0.6044
+Jamaica;2014;65+;total;0.666
+Martinique;2014;15+;female;0.961
+Martinique;2014;15+;male;0.9796
+Martinique;2014;15+;total;0.969
+Martinique;2014;15-24;female;0.997
+Martinique;2014;15-24;male;0.9988
+Martinique;2014;15-24;total;0.998
+Martinique;2014;25-64;female;0.981
+Martinique;2014;25-64;male;0.9895
+Martinique;2014;25-64;total;0.985
+Martinique;2014;65+;female;0.856
+Martinique;2014;65+;male;0.9144
+Martinique;2014;65+;total;0.881
+Mexico;2010;15+;female;0.918534
+Mexico;2010;15+;male;0.943839
+Mexico;2010;15+;total;0.930689
+Mexico;2010;15-24;female;0.984921
+Mexico;2010;15-24;male;0.983756
+Mexico;2010;15-24;total;0.984345
+Mexico;2010;25-64;female;0.926667
+Mexico;2010;25-64;male;0.950338
+Mexico;2010;25-64;total;0.937959
+Mexico;2010;65+;female;0.671783
+Mexico;2010;65+;male;0.765724
+Mexico;2010;65+;total;0.715219
+Mexico;2011;15+;female;0.923383
+Mexico;2011;15+;male;0.947828
+Mexico;2011;15+;total;0.9352
+Mexico;2011;15-24;female;0.985067
+Mexico;2011;15-24;male;0.984166
+Mexico;2011;15-24;total;0.984618
+Mexico;2011;25-64;female;0.932561
+Mexico;2011;25-64;male;0.955179
+Mexico;2011;25-64;total;0.943457
+Mexico;2011;65+;female;0.68556
+Mexico;2011;65+;male;0.766056
+Mexico;2011;65+;total;0.721951
+Mexico;2012;15+;female;0.931792
+Mexico;2012;15+;male;0.953916
+Mexico;2012;15+;total;0.942284
+Mexico;2012;15-24;female;0.990296
+Mexico;2012;15-24;male;0.987204
+Mexico;2012;15-24;total;0.988754
+Mexico;2012;25-64;female;0.94384
+Mexico;2012;25-64;male;0.962405
+Mexico;2012;25-64;total;0.95253
+Mexico;2012;65+;female;0.718245
+Mexico;2012;65+;male;0.801761
+Mexico;2012;65+;total;0.755898
+Mexico;2013;15+;female;0.929039
+Mexico;2013;15+;male;0.951121
+Mexico;2013;15+;total;0.939629
+Mexico;2013;15-24;female;0.986019
+Mexico;2013;15-24;male;0.985268
+Mexico;2013;15-24;total;0.985645
+Mexico;2013;25-64;female;0.937023
+Mexico;2013;25-64;male;0.957219
+Mexico;2013;25-64;total;0.946617
+Mexico;2013;65+;female;0.727408
+Mexico;2013;65+;male;0.803755
+Mexico;2013;65+;total;0.7625
+Mexico;2014;15+;female;0.935913
+Mexico;2014;15+;male;0.956205
+Mexico;2014;15+;total;0.945559
+Mexico;2014;15-24;female;0.990795
+Mexico;2014;15-24;male;0.989222
+Mexico;2014;15-24;total;0.99
+Mexico;2014;25-64;female;0.948293
+Mexico;2014;25-64;male;0.964364
+Mexico;2014;25-64;total;0.955805
+Mexico;2014;65+;female;0.741645
+Mexico;2014;65+;male;0.816261
+Mexico;2014;65+;total;0.775554
+Mexico;2015;15+;female;0.934855
+Mexico;2015;15+;male;0.955493
+Mexico;2015;15+;total;0.944723
+Mexico;2015;15-24;female;0.99015
+Mexico;2015;15-24;male;0.988735
+Mexico;2015;15-24;total;0.989447
+Mexico;2015;25-64;female;0.945789
+Mexico;2015;25-64;male;0.962505
+Mexico;2015;25-64;total;0.953707
+Mexico;2015;65+;female;0.731412
+Mexico;2015;65+;male;0.815787
+Mexico;2015;65+;total;0.770315
+Mexico;2016;15+;female;0.939685
+Mexico;2016;15+;male;0.958448
+Mexico;2016;15+;total;0.948596
+Mexico;2016;15-24;female;0.992072
+Mexico;2016;15-24;male;0.990259
+Mexico;2016;15-24;total;0.991162
+Mexico;2016;25-64;female;0.952893
+Mexico;2016;25-64;male;0.966257
+Mexico;2016;25-64;total;0.959149
+Mexico;2016;65+;female;0.753625
+Mexico;2016;65+;male;0.830944
+Mexico;2016;65+;total;0.788851
+Mexico;2017;15+;female;0.941658
+Mexico;2017;15+;male;0.958724
+Mexico;2017;15+;total;0.949728
+Mexico;2017;15-24;female;0.991684
+Mexico;2017;15-24;male;0.990813
+Mexico;2017;15-24;total;0.991247
+Mexico;2017;25-64;female;0.956102
+Mexico;2017;25-64;male;0.966509
+Mexico;2017;25-64;total;0.960958
+Mexico;2017;65+;female;0.762063
+Mexico;2017;65+;male;0.833238
+Mexico;2017;65+;total;0.793914
+Mexico;2018;15+;female;0.946081
+Mexico;2018;15+;male;0.962329
+Mexico;2018;15+;total;0.953799
+Mexico;2018;15-24;female;0.993885
+Mexico;2018;15-24;male;0.992486
+Mexico;2018;15-24;total;0.993185
+Mexico;2018;25-64;female;0.959874
+Mexico;2018;25-64;male;0.970349
+Mexico;2018;25-64;total;0.964784
+Mexico;2018;65+;female;0.774395
+Mexico;2018;65+;male;0.844867
+Mexico;2018;65+;total;0.806654
+Nicaragua;2015;15+;female;0.827794
+Nicaragua;2015;15+;male;0.824386
+Nicaragua;2015;15+;total;0.826146
+Nicaragua;2015;15-24;female;0.936019
+Nicaragua;2015;15-24;male;0.896428
+Nicaragua;2015;15-24;total;0.915718
+Nicaragua;2015;25-64;female;0.81671
+Nicaragua;2015;25-64;male;0.813715
+Nicaragua;2015;25-64;total;0.815283
+Nicaragua;2015;65+;female;0.543458
+Nicaragua;2015;65+;male;0.584881
+Nicaragua;2015;65+;total;0.561369
+Panama;2010;15+;female;0.934853
+Panama;2010;15+;male;0.947074
+Panama;2010;15+;total;0.940941
+Panama;2010;15-24;female;0.973369
+Panama;2010;15-24;male;0.979345
+Panama;2010;15-24;total;0.976385
+Panama;2010;25-64;female;0.941586
+Panama;2010;25-64;male;0.956246
+Panama;2010;25-64;total;0.948893
+Panama;2010;65+;female;0.808544
+Panama;2010;65+;male;0.808843
+Panama;2010;65+;total;0.808688
+Panama;2018;15+;female;0.948817
+Panama;2018;15+;male;0.959689
+Panama;2018;15+;total;0.954118
+Panama;2018;15-24;female;0.988743
+Panama;2018;15-24;male;0.993122
+Panama;2018;15-24;total;0.990991
+Panama;2018;25-64;female;0.957414
+Panama;2018;25-64;male;0.969907
+Panama;2018;25-64;total;0.963436
+Panama;2018;65+;female;0.848855
+Panama;2018;65+;male;0.850231
+Panama;2018;65+;total;0.849501
+Paraguay;2010;15+;female;0.929257
+Paraguay;2010;15+;male;0.948132
+Paraguay;2010;15+;total;0.938709
+Paraguay;2010;15-24;female;0.987288
+Paraguay;2010;15-24;male;0.985003
+Paraguay;2010;15-24;total;0.986105
+Paraguay;2010;25-64;female;0.935883
+Paraguay;2010;25-64;male;0.950025
+Paraguay;2010;25-64;total;0.942949
+Paraguay;2010;65+;female;0.740848
+Paraguay;2010;65+;male;0.813556
+Paraguay;2010;65+;total;0.774109
+Paraguay;2012;15+;female;0.935879
+Paraguay;2012;15+;male;0.948173
+Paraguay;2012;15+;total;0.941975
+Paraguay;2012;15-24;female;0.981038
+Paraguay;2012;15-24;male;0.982512
+Paraguay;2012;15-24;total;0.981779
+Paraguay;2012;25-64;female;0.938543
+Paraguay;2012;25-64;male;0.949824
+Paraguay;2012;25-64;total;0.944113
+Paraguay;2012;65+;female;0.754263
+Paraguay;2012;65+;male;0.803944
+Paraguay;2012;65+;total;0.778415
+Paraguay;2013;15+;female;0.944663
+Paraguay;2013;15+;male;0.956662
+Paraguay;2013;15+;total;0.95059
+Paraguay;2013;15-24;female;0.992046
+Paraguay;2013;15-24;male;0.985959
+Paraguay;2013;15-24;total;0.988991
+Paraguay;2013;25-64;female;0.948165
+Paraguay;2013;25-64;male;0.96063
+Paraguay;2013;25-64;total;0.954297
+Paraguay;2013;65+;female;0.757895
+Paraguay;2013;65+;male;0.818457
+Paraguay;2013;65+;total;0.787084
+Paraguay;2014;15+;female;0.942148
+Paraguay;2014;15+;male;0.958741
+Paraguay;2014;15+;total;0.950348
+Paraguay;2014;15-24;female;0.984634
+Paraguay;2014;15-24;male;0.989637
+Paraguay;2014;15-24;total;0.987138
+Paraguay;2014;25-64;female;0.947017
+Paraguay;2014;25-64;male;0.960322
+Paraguay;2014;25-64;total;0.9536
+Paraguay;2014;65+;female;0.768987
+Paraguay;2014;65+;male;0.831219
+Paraguay;2014;65+;total;0.798085
+Paraguay;2015;15+;female;0.948744
+Paraguay;2015;15+;male;0.962543
+Paraguay;2015;15+;total;0.955548
+Paraguay;2015;15-24;female;0.989689
+Paraguay;2015;15-24;male;0.983538
+Paraguay;2015;15-24;total;0.986536
+Paraguay;2015;25-64;female;0.954927
+Paraguay;2015;25-64;male;0.967313
+Paraguay;2015;25-64;total;0.960941
+Paraguay;2015;65+;female;0.770174
+Paraguay;2015;65+;male;0.849091
+Paraguay;2015;65+;total;0.80807
+Paraguay;2016;15+;female;0.938351
+Paraguay;2016;15+;male;0.954761
+Paraguay;2016;15+;total;0.946502
+Paraguay;2016;15-24;female;0.987038
+Paraguay;2016;15-24;male;0.982077
+Paraguay;2016;15-24;total;0.984506
+Paraguay;2016;25-64;female;0.945459
+Paraguay;2016;25-64;male;0.96011
+Paraguay;2016;25-64;total;0.952698
+Paraguay;2016;65+;female;0.742199
+Paraguay;2016;65+;male;0.818269
+Paraguay;2016;65+;total;0.778126
+Paraguay;2018;15+;female;0.935317
+Paraguay;2018;15+;male;0.945115
+Paraguay;2018;15+;total;0.940208
+Paraguay;2018;15-24;female;0.988678
+Paraguay;2018;15-24;male;0.977324
+Paraguay;2018;15-24;total;0.982815
+Paraguay;2018;25-64;female;0.949997
+Paraguay;2018;25-64;male;0.956537
+Paraguay;2018;25-64;total;0.953229
+Paraguay;2018;65+;female;0.684046
+Paraguay;2018;65+;male;0.758869
+Paraguay;2018;65+;total;0.720144
+Peru;2012;15+;female;0.906688
+Peru;2012;15+;male;0.969501
+Peru;2012;15+;total;0.938417
+Peru;2012;15-24;female;0.986758
+Peru;2012;15-24;male;0.987193
+Peru;2012;15-24;total;0.986982
+Peru;2012;25-64;female;0.913586
+Peru;2012;25-64;male;0.971578
+Peru;2012;25-64;total;0.942919
+Peru;2012;65+;female;0.63257
+Peru;2012;65+;male;0.893929
+Peru;2012;65+;total;0.756027
+Peru;2014;15+;female;0.904492
+Peru;2014;15+;male;0.96949
+Peru;2014;15+;total;0.93708
+Peru;2014;15-24;female;0.987897
+Peru;2014;15-24;male;0.991571
+Peru;2014;15-24;total;0.989775
+Peru;2014;25-64;female;0.912509
+Peru;2014;25-64;male;0.971557
+Peru;2014;25-64;total;0.942209
+Peru;2014;65+;female;0.629406
+Peru;2014;65+;male;0.881143
+Peru;2014;65+;total;0.745273
+Peru;2015;15+;female;0.912465
+Peru;2015;15+;male;0.971064
+Peru;2015;15+;total;0.941623
+Peru;2015;15-24;female;0.987729
+Peru;2015;15-24;male;0.992397
+Peru;2015;15-24;total;0.990095
+Peru;2015;25-64;female;0.921639
+Peru;2015;25-64;male;0.972078
+Peru;2015;25-64;total;0.946831
+Peru;2015;65+;female;0.66006
+Peru;2015;65+;male;0.897046
+Peru;2015;65+;total;0.768583
+Peru;2016;15+;female;0.911885
+Peru;2016;15+;male;0.971885
+Peru;2016;15+;total;0.941737
+Peru;2016;15-24;female;0.986722
+Peru;2016;15-24;male;0.990889
+Peru;2016;15-24;total;0.988835
+Peru;2016;25-64;female;0.920199
+Peru;2016;25-64;male;0.973915
+Peru;2016;25-64;total;0.94703
+Peru;2016;65+;female;0.673781
+Peru;2016;65+;male;0.899316
+Peru;2016;65+;total;0.777014
+Peru;2017;15+;female;0.912701
+Peru;2017;15+;male;0.970397
+Peru;2017;15+;total;0.941496
+Peru;2017;15-24;female;0.988531
+Peru;2017;15-24;male;0.99256
+Peru;2017;15-24;total;0.990575
+Peru;2017;25-64;female;0.921289
+Peru;2017;25-64;male;0.97182
+Peru;2017;25-64;total;0.94665
+Peru;2017;65+;female;0.677245
+Peru;2017;65+;male;0.895263
+Peru;2017;65+;total;0.777089
+Peru;2018;15+;female;0.917031
+Peru;2018;15+;male;0.971214
+Peru;2018;15+;total;0.944083
+Peru;2018;15-24;female;0.98967
+Peru;2018;15-24;male;0.990792
+Peru;2018;15-24;total;0.990238
+Peru;2018;25-64;female;0.926188
+Peru;2018;25-64;male;0.972635
+Peru;2018;25-64;total;0.949533
+Peru;2018;65+;female;0.691633
+Peru;2018;65+;male;0.906067
+Peru;2018;65+;total;0.790122
+Puerto Rico;2010;15+;female;0.925302
+Puerto Rico;2010;15+;male;0.913308
+Puerto Rico;2010;15+;total;0.919652
+Puerto Rico;2010;15-24;female;0.988542
+Puerto Rico;2010;15-24;male;0.988146
+Puerto Rico;2010;15-24;total;0.988342
+Puerto Rico;2010;25-64;female;0.935162
+Puerto Rico;2010;25-64;male;0.905418
+Puerto Rico;2010;25-64;total;0.921149
+Puerto Rico;2010;65+;female;0.836974
+Puerto Rico;2010;65+;male;0.856079
+Puerto Rico;2010;65+;total;0.845308
+Puerto Rico;2017;15+;female;0.9239
+Puerto Rico;2017;15+;male;0.9239
+Puerto Rico;2017;15+;total;0.9239
+Puerto Rico;2017;15-24;female;0.923897
+Puerto Rico;2017;15-24;male;0.9239
+Puerto Rico;2017;15-24;total;0.923898
+Puerto Rico;2017;25-64;female;0.923901
+Puerto Rico;2017;25-64;male;0.923901
+Puerto Rico;2017;25-64;total;0.923901
+Puerto Rico;2017;65+;female;0.9239
+Puerto Rico;2017;65+;male;0.923897
+Puerto Rico;2017;65+;total;0.923899
+Suriname;2010;15+;female;0.940035
+Suriname;2010;15+;male;0.953648
+Suriname;2010;15+;total;0.946758
+Suriname;2010;15-24;female;0.988022
+Suriname;2010;15-24;male;0.979727
+Suriname;2010;15-24;total;0.983766
+Suriname;2010;25-64;female;0.950253
+Suriname;2010;25-64;male;0.963798
+Suriname;2010;25-64;total;0.956887
+Suriname;2010;65+;female;0.743573
+Suriname;2010;65+;male;0.794797
+Suriname;2010;65+;total;0.767477
+Suriname;2012;15+;female;0.909979
+Suriname;2012;15+;male;0.948699
+Suriname;2012;15+;total;0.928687
+Suriname;2012;15-24;female;0.972597
+Suriname;2012;15-24;male;0.980857
+Suriname;2012;15-24;total;0.976679
+Suriname;2012;25-64;female;0.917686
+Suriname;2012;25-64;male;0.954329
+Suriname;2012;25-64;total;0.935445
+Suriname;2012;65+;female;0.715308
+Suriname;2012;65+;male;0.814901
+Suriname;2012;65+;total;0.759585
+Suriname;2018;15+;female;0.927121
+Suriname;2018;15+;male;0.96074
+Suriname;2018;15+;total;0.943833
+Suriname;2018;15-24;female;0.984
+Suriname;2018;15-24;male;0.988754
+Suriname;2018;15-24;total;0.986456
+Suriname;2018;25-64;female;0.933103
+Suriname;2018;25-64;male;0.962337
+Suriname;2018;25-64;total;0.947749
+Suriname;2018;65+;female;0.772529
+Suriname;2018;65+;male;0.861813
+Suriname;2018;65+;total;0.810133
+Trinidad and Tobago;2010;15+;female;0.983
+Trinidad and Tobago;2010;15+;male;0.9914
+Trinidad and Tobago;2010;15+;total;0.987
+Trinidad and Tobago;2010;15-24;female;0.996
+Trinidad and Tobago;2010;15-24;male;0.9955
+Trinidad and Tobago;2010;15-24;total;0.996
+Trinidad and Tobago;2010;25-64;female;0.992
+Trinidad and Tobago;2010;25-64;male;0.9924
+Trinidad and Tobago;2010;25-64;total;0.992
+Trinidad and Tobago;2010;65+;female;0.911
+Trinidad and Tobago;2010;65+;male;0.9738
+Trinidad and Tobago;2010;65+;total;0.938
+Uruguay;2010;15+;female;0.98491
+Uruguay;2010;15+;male;0.976102
+Uruguay;2010;15+;total;0.980727
+Uruguay;2010;15-24;female;0.992254
+Uruguay;2010;15-24;male;0.983594
+Uruguay;2010;15-24;total;0.987842
+Uruguay;2010;25-64;female;0.989763
+Uruguay;2010;25-64;male;0.981043
+Uruguay;2010;25-64;total;0.985523
+Uruguay;2010;65+;female;0.963485
+Uruguay;2010;65+;male;0.943396
+Uruguay;2010;65+;total;0.95556
+Uruguay;2011;15+;female;0.986191
+Uruguay;2011;15+;male;0.980231
+Uruguay;2011;15+;total;0.983359
+Uruguay;2011;15-24;female;0.99121
+Uruguay;2011;15-24;male;0.986134
+Uruguay;2011;15-24;total;0.988622
+Uruguay;2011;25-64;female;0.990091
+Uruguay;2011;25-64;male;0.983731
+Uruguay;2011;25-64;total;0.986996
+Uruguay;2011;65+;female;0.969778
+Uruguay;2011;65+;male;0.956062
+Uruguay;2011;65+;total;0.964374
+Uruguay;2012;15+;female;0.986606
+Uruguay;2012;15+;male;0.98104
+Uruguay;2012;15+;total;0.983959
+Uruguay;2012;15-24;female;0.992978
+Uruguay;2012;15-24;male;0.986261
+Uruguay;2012;15-24;total;0.989553
+Uruguay;2012;25-64;female;0.989947
+Uruguay;2012;25-64;male;0.983066
+Uruguay;2012;25-64;total;0.986594
+Uruguay;2012;65+;female;0.970616
+Uruguay;2012;65+;male;0.964312
+Uruguay;2012;65+;total;0.968136
+Uruguay;2013;15+;female;0.986364
+Uruguay;2013;15+;male;0.980634
+Uruguay;2013;15+;total;0.983639
+Uruguay;2013;15-24;female;0.993102
+Uruguay;2013;15-24;male;0.985644
+Uruguay;2013;15-24;total;0.989298
+Uruguay;2013;25-64;female;0.990018
+Uruguay;2013;25-64;male;0.984474
+Uruguay;2013;25-64;total;0.987314
+Uruguay;2013;65+;female;0.969124
+Uruguay;2013;65+;male;0.956197
+Uruguay;2013;65+;total;0.964041
+Uruguay;2014;15+;female;0.988091
+Uruguay;2014;15+;male;0.980251
+Uruguay;2014;15+;total;0.984359
+Uruguay;2014;15-24;female;0.993906
+Uruguay;2014;15-24;male;0.983091
+Uruguay;2014;15-24;total;0.988389
+Uruguay;2014;25-64;female;0.99169
+Uruguay;2014;25-64;male;0.984125
+Uruguay;2014;25-64;total;0.987996
+Uruguay;2014;65+;female;0.971931
+Uruguay;2014;65+;male;0.95891
+Uruguay;2014;65+;total;0.966812
+Uruguay;2015;15+;female;0.988675
+Uruguay;2015;15+;male;0.981459
+Uruguay;2015;15+;total;0.985239
+Uruguay;2015;15-24;female;0.992287
+Uruguay;2015;15-24;male;0.986385
+Uruguay;2015;15-24;total;0.989276
+Uruguay;2015;25-64;female;0.991604
+Uruguay;2015;25-64;male;0.984599
+Uruguay;2015;25-64;total;0.98818
+Uruguay;2015;65+;female;0.976632
+Uruguay;2015;65+;male;0.960432
+Uruguay;2015;65+;total;0.97026
+Uruguay;2016;15+;female;0.988503
+Uruguay;2016;15+;male;0.982445
+Uruguay;2016;15+;total;0.985615
+Uruguay;2016;15-24;female;0.994413
+Uruguay;2016;15-24;male;0.988731
+Uruguay;2016;15-24;total;0.991525
+Uruguay;2016;25-64;female;0.990987
+Uruguay;2016;25-64;male;0.98459
+Uruguay;2016;25-64;total;0.987862
+Uruguay;2016;65+;female;0.975664
+Uruguay;2016;65+;male;0.964455
+Uruguay;2016;65+;total;0.97117
+Uruguay;2017;15+;female;0.989639
+Uruguay;2017;15+;male;0.982342
+Uruguay;2017;15+;total;0.986157
+Uruguay;2017;15-24;female;0.99317
+Uruguay;2017;15-24;male;0.985614
+Uruguay;2017;15-24;total;0.989326
+Uruguay;2017;25-64;female;0.991328
+Uruguay;2017;25-64;male;0.985376
+Uruguay;2017;25-64;total;0.988419
+Uruguay;2017;65+;female;0.981391
+Uruguay;2017;65+;male;0.964756
+Uruguay;2017;65+;total;0.97471
+Uruguay;2018;15+;female;0.990077
+Uruguay;2018;15+;male;0.983714
+Uruguay;2018;15+;total;0.987039
+Uruguay;2018;15-24;female;0.99166
+Uruguay;2018;15-24;male;0.986048
+Uruguay;2018;15-24;total;0.988803
+Uruguay;2018;25-64;female;0.992407
+Uruguay;2018;25-64;male;0.985504
+Uruguay;2018;25-64;total;0.98903
+Uruguay;2018;65+;female;0.981655
+Uruguay;2018;65+;male;0.972876
+Uruguay;2018;65+;total;0.978122
+Venezuela (Bolivarian Republic of);2011;15+;female;0.950289
+Venezuela (Bolivarian Republic of);2011;15+;male;0.945023
+Venezuela (Bolivarian Republic of);2011;15+;total;0.947702
+Venezuela (Bolivarian Republic of);2011;15-24;female;0.982364
+Venezuela (Bolivarian Republic of);2011;15-24;male;0.968899
+Venezuela (Bolivarian Republic of);2011;15-24;total;0.975592
+Venezuela (Bolivarian Republic of);2011;25-64;female;0.96078
+Venezuela (Bolivarian Republic of);2011;25-64;male;0.949051
+Venezuela (Bolivarian Republic of);2011;25-64;total;0.955011
+Venezuela (Bolivarian Republic of);2011;65+;female;0.779718
+Venezuela (Bolivarian Republic of);2011;65+;male;0.823449
+Venezuela (Bolivarian Republic of);2011;65+;total;0.799322
+Venezuela (Bolivarian Republic of);2015;15+;female;0.965601
+Venezuela (Bolivarian Republic of);2015;15+;male;0.966511
+Venezuela (Bolivarian Republic of);2015;15+;total;0.966052
+Venezuela (Bolivarian Republic of);2015;15-24;female;0.993174
+Venezuela (Bolivarian Republic of);2015;15-24;male;0.98712
+Venezuela (Bolivarian Republic of);2015;15-24;total;0.990076
+Venezuela (Bolivarian Republic of);2015;25-64;female;0.976399
+Venezuela (Bolivarian Republic of);2015;25-64;male;0.96926
+Venezuela (Bolivarian Republic of);2015;25-64;total;0.972851
+Venezuela (Bolivarian Republic of);2015;65+;female;0.827237
+Venezuela (Bolivarian Republic of);2015;65+;male;0.881195
+Venezuela (Bolivarian Republic of);2015;65+;total;0.851417
+Venezuela (Bolivarian Republic of);2016;15+;female;0.972137
+Venezuela (Bolivarian Republic of);2016;15+;male;0.970391
+Venezuela (Bolivarian Republic of);2016;15+;total;0.971271
+Venezuela (Bolivarian Republic of);2016;15-24;female;0.990926
+Venezuela (Bolivarian Republic of);2016;15-24;male;0.984419
+Venezuela (Bolivarian Republic of);2016;15-24;total;0.987595
+Venezuela (Bolivarian Republic of);2016;25-64;female;0.981464
+Venezuela (Bolivarian Republic of);2016;25-64;male;0.974192
+Venezuela (Bolivarian Republic of);2016;25-64;total;0.977848
+Venezuela (Bolivarian Republic of);2016;65+;female;0.867139
+Venezuela (Bolivarian Republic of);2016;65+;male;0.898115
+Venezuela (Bolivarian Republic of);2016;65+;total;0.881003
+Algeria;2018;15+;female;0.75323
+Algeria;2018;15+;male;0.87423
+Algeria;2018;15+;total;0.814078
+Algeria;2018;15-24;female;0.972522
+Algeria;2018;15-24;male;0.975941
+Algeria;2018;15-24;total;0.974265
+Algeria;2018;25-64;female;0.76398
+Algeria;2018;25-64;male;0.893841
+Algeria;2018;25-64;total;0.829251
+Algeria;2018;65+;female;0.197453
+Algeria;2018;65+;male;0.478892
+Algeria;2018;65+;total;0.335048
+Armenia;2011;15+;female;0.996904
+Armenia;2011;15+;male;0.998061
+Armenia;2011;15+;total;0.997444
+Armenia;2011;15-24;female;0.998762
+Armenia;2011;15-24;male;0.998184
+Armenia;2011;15-24;total;0.998474
+Armenia;2011;25-64;female;0.9988
+Armenia;2011;25-64;male;0.998544
+Armenia;2011;25-64;total;0.99868
+Armenia;2011;65+;female;0.985737
+Armenia;2011;65+;male;0.994929
+Armenia;2011;65+;total;0.989434
+Armenia;2017;15+;female;0.996772
+Armenia;2017;15+;male;0.998055
+Armenia;2017;15+;total;0.997361
+Armenia;2017;15-24;female;0.998742
+Armenia;2017;15-24;male;0.998213
+Armenia;2017;15-24;total;0.99847
+Armenia;2017;25-64;female;0.998729
+Armenia;2017;25-64;male;0.998517
+Armenia;2017;25-64;total;0.998632
+Armenia;2017;65+;female;0.986634
+Armenia;2017;65+;male;0.995222
+Armenia;2017;65+;total;0.990024
+Azerbaijan;2010;15+;female;0.996926
+Azerbaijan;2010;15+;male;0.998544
+Azerbaijan;2010;15+;total;0.997711
+Azerbaijan;2010;15-24;female;0.999333
+Azerbaijan;2010;15-24;male;0.999675
+Azerbaijan;2010;15-24;total;0.999506
+Azerbaijan;2010;25-64;female;0.998646
+Azerbaijan;2010;25-64;male;0.999171
+Azerbaijan;2010;25-64;total;0.998901
+Azerbaijan;2010;65+;female;0.976198
+Azerbaijan;2010;65+;male;0.987319
+Azerbaijan;2010;65+;total;0.980853
+Azerbaijan;2011;15+;female;0.99705
+Azerbaijan;2011;15+;male;0.998567
+Azerbaijan;2011;15+;total;0.997786
+Azerbaijan;2011;15-24;female;0.999318
+Azerbaijan;2011;15-24;male;0.99956
+Azerbaijan;2011;15-24;total;0.999441
+Azerbaijan;2011;25-64;female;0.998603
+Azerbaijan;2011;25-64;male;0.999406
+Azerbaijan;2011;25-64;total;0.998992
+Azerbaijan;2011;65+;female;0.978008
+Azerbaijan;2011;65+;male;0.985592
+Azerbaijan;2011;65+;total;0.981178
+Azerbaijan;2012;15+;female;0.997029
+Azerbaijan;2012;15+;male;0.998529
+Azerbaijan;2012;15+;total;0.997758
+Azerbaijan;2012;15-24;female;0.999177
+Azerbaijan;2012;15-24;male;0.99955
+Azerbaijan;2012;15-24;total;0.999368
+Azerbaijan;2012;25-64;female;0.998445
+Azerbaijan;2012;25-64;male;0.999422
+Azerbaijan;2012;25-64;total;0.998918
+Azerbaijan;2012;65+;female;0.979592
+Azerbaijan;2012;65+;male;0.984862
+Azerbaijan;2012;65+;total;0.981791
+Azerbaijan;2013;15+;female;0.997168
+Azerbaijan;2013;15+;male;0.998659
+Azerbaijan;2013;15+;total;0.997894
+Azerbaijan;2013;15-24;female;0.999267
+Azerbaijan;2013;15-24;male;0.999769
+Azerbaijan;2013;15-24;total;0.999525
+Azerbaijan;2013;25-64;female;0.998521
+Azerbaijan;2013;25-64;male;0.999477
+Azerbaijan;2013;25-64;total;0.998985
+Azerbaijan;2013;65+;female;0.980769
+Azerbaijan;2013;65+;male;0.985733
+Azerbaijan;2013;65+;total;0.982843
+Azerbaijan;2014;15+;female;0.997197
+Azerbaijan;2014;15+;male;0.99862
+Azerbaijan;2014;15+;total;0.99789
+Azerbaijan;2014;15-24;female;0.999364
+Azerbaijan;2014;15-24;male;0.999762
+Azerbaijan;2014;15-24;total;0.99957
+Azerbaijan;2014;25-64;female;0.998481
+Azerbaijan;2014;25-64;male;0.999489
+Azerbaijan;2014;25-64;total;0.99897
+Azerbaijan;2014;65+;female;0.981604
+Azerbaijan;2014;65+;male;0.985362
+Azerbaijan;2014;65+;total;0.983179
+Azerbaijan;2015;15+;female;0.997171
+Azerbaijan;2015;15+;male;0.998626
+Azerbaijan;2015;15+;total;0.997881
+Azerbaijan;2015;15-24;female;0.999201
+Azerbaijan;2015;15-24;male;0.999637
+Azerbaijan;2015;15-24;total;0.999428
+Azerbaijan;2015;25-64;female;0.998513
+Azerbaijan;2015;25-64;male;0.999573
+Azerbaijan;2015;25-64;total;0.999027
+Azerbaijan;2015;65+;female;0.982076
+Azerbaijan;2015;65+;male;0.985573
+Azerbaijan;2015;65+;total;0.983549
+Azerbaijan;2016;15+;female;0.997196
+Azerbaijan;2016;15+;male;0.998641
+Azerbaijan;2016;15+;total;0.997901
+Azerbaijan;2016;15-24;female;0.999165
+Azerbaijan;2016;15-24;male;0.999624
+Azerbaijan;2016;15-24;total;0.999405
+Azerbaijan;2016;25-64;female;0.998541
+Azerbaijan;2016;25-64;male;0.999582
+Azerbaijan;2016;25-64;total;0.999047
+Azerbaijan;2016;65+;female;0.982691
+Azerbaijan;2016;65+;male;0.986151
+Azerbaijan;2016;65+;total;0.984153
+Azerbaijan;2017;15+;female;0.99722
+Azerbaijan;2017;15+;male;0.998638
+Azerbaijan;2017;15+;total;0.997912
+Azerbaijan;2017;15-24;female;0.999131
+Azerbaijan;2017;15-24;male;0.999607
+Azerbaijan;2017;15-24;total;0.999381
+Azerbaijan;2017;25-64;female;0.998565
+Azerbaijan;2017;25-64;male;0.999557
+Azerbaijan;2017;25-64;total;0.999047
+Azerbaijan;2017;65+;female;0.983405
+Azerbaijan;2017;65+;male;0.98689
+Azerbaijan;2017;65+;total;0.984881
+Bahrain;2010;15+;female;0.890104
+Bahrain;2010;15+;male;0.921454
+Bahrain;2010;15+;total;0.909774
+Bahrain;2010;15-24;female;0.951242
+Bahrain;2010;15-24;male;0.956843
+Bahrain;2010;15-24;total;0.954545
+Bahrain;2010;25-64;female;0.900407
+Bahrain;2010;25-64;male;0.921768
+Bahrain;2010;25-64;total;0.914173
+Bahrain;2010;65+;female;0.505076
+Bahrain;2010;65+;male;0.624332
+Bahrain;2010;65+;total;0.552999
+Bahrain;2016;15+;female;0.942815
+Bahrain;2016;15+;male;0.985519
+Bahrain;2016;15+;total;0.970667
+Bahrain;2016;15-24;female;0.988503
+Bahrain;2016;15-24;male;0.999557
+Bahrain;2016;15-24;total;0.994803
+Bahrain;2016;25-64;female;0.956743
+Bahrain;2016;25-64;male;0.988488
+Bahrain;2016;25-64;total;0.97814
+Bahrain;2016;65+;female;0.494238
+Bahrain;2016;65+;male;0.812119
+Bahrain;2016;65+;total;0.660713
+Bahrain;2017;15+;female;0.947074
+Bahrain;2017;15+;male;0.987673
+Bahrain;2017;15+;total;0.974039
+Bahrain;2017;15-24;female;0.990839
+Bahrain;2017;15-24;male;0.999896
+Bahrain;2017;15-24;total;0.995982
+Bahrain;2017;25-64;female;0.959616
+Bahrain;2017;25-64;male;0.990013
+Bahrain;2017;25-64;total;0.980519
+Bahrain;2017;65+;female;0.535918
+Bahrain;2017;65+;male;0.845998
+Bahrain;2017;65+;total;0.700511
+Bahrain;2018;15+;female;0.949489
+Bahrain;2018;15+;male;0.987632
+Bahrain;2018;15+;total;0.974642
+Bahrain;2018;15-24;female;0.993013
+Bahrain;2018;15-24;male;0.999761
+Bahrain;2018;15-24;total;0.996872
+Bahrain;2018;25-64;female;0.962475
+Bahrain;2018;25-64;male;0.99026
+Bahrain;2018;25-64;total;0.981418
+Bahrain;2018;65+;female;0.556903
+Bahrain;2018;65+;male;0.851347
+Bahrain;2018;65+;total;0.715417
+Cyprus;2011;15+;female;0.981162
+Cyprus;2011;15+;male;0.992862
+Cyprus;2011;15+;total;0.986784
+Cyprus;2011;15-24;female;0.998383
+Cyprus;2011;15-24;male;0.998045
+Cyprus;2011;15-24;total;0.99821
+Cyprus;2011;25-64;female;0.995618
+Cyprus;2011;25-64;male;0.995411
+Cyprus;2011;25-64;total;0.995519
+Cyprus;2011;65+;female;0.905467
+Cyprus;2011;65+;male;0.975644
+Cyprus;2011;65+;total;0.937919
+Egypt;2010;15+;female;0.635158
+Egypt;2010;15+;male;0.802687
+Egypt;2010;15+;total;0.720479
+Egypt;2010;15-24;female;0.843069
+Egypt;2010;15-24;male;0.905576
+Egypt;2010;15-24;total;0.875096
+Egypt;2010;25-64;female;0.557717
+Egypt;2010;25-64;male;0.772425
+Egypt;2010;25-64;total;0.666474
+Egypt;2010;65+;female;0.254037
+Egypt;2010;65+;male;0.523137
+Egypt;2010;65+;total;0.394407
+Egypt;2012;15+;female;0.657567
+Egypt;2012;15+;male;0.816792
+Egypt;2012;15+;total;0.738656
+Egypt;2012;15-24;female;0.860516
+Egypt;2012;15-24;male;0.923558
+Egypt;2012;15-24;total;0.892819
+Egypt;2012;25-64;female;0.582031
+Egypt;2012;25-64;male;0.795962
+Egypt;2012;25-64;total;0.690385
+Egypt;2012;65+;female;0.284957
+Egypt;2012;65+;male;0.411292
+Egypt;2012;65+;total;0.35085
+Egypt;2013;15+;female;0.671799
+Egypt;2013;15+;male;0.826333
+Egypt;2013;15+;total;0.750607
+Egypt;2013;15-24;female;0.903254
+Egypt;2013;15-24;male;0.936493
+Egypt;2013;15-24;total;0.920234
+Egypt;2013;25-64;female;0.610916
+Egypt;2013;25-64;male;0.804079
+Egypt;2013;25-64;total;0.709393
+Egypt;2013;65+;female;0.288017
+Egypt;2013;65+;male;0.571875
+Egypt;2013;65+;total;0.432161
+Egypt;2017;15+;female;0.655057
+Egypt;2017;15+;male;0.764952
+Egypt;2017;15+;total;0.711683
+Egypt;2017;15-24;female;0.868106
+Egypt;2017;15-24;male;0.894834
+Egypt;2017;15-24;total;0.881926
+Egypt;2017;25-64;female;0.604795
+Egypt;2017;25-64;male;0.741049
+Egypt;2017;25-64;total;0.674693
+Egypt;2017;65+;female;0.211777
+Egypt;2017;65+;male;0.432055
+Egypt;2017;65+;total;0.329085
+Georgia;2014;15+;female;0.995146
+Georgia;2014;15+;male;0.996682
+Georgia;2014;15+;total;0.995862
+Georgia;2014;15-24;female;0.997291
+Georgia;2014;15-24;male;0.996777
+Georgia;2014;15-24;total;0.997026
+Georgia;2014;25-64;female;0.996841
+Georgia;2014;25-64;male;0.997034
+Georgia;2014;25-64;total;0.996933
+Georgia;2014;65+;female;0.988211
+Georgia;2014;65+;male;0.994887
+Georgia;2014;65+;total;0.990735
+Georgia;2017;15+;female;0.992948
+Georgia;2017;15+;male;0.994375
+Georgia;2017;15+;total;0.993643
+Georgia;2017;15-24;female;0.994937
+Georgia;2017;15-24;male;0.997683
+Georgia;2017;15-24;total;0.996408
+Georgia;2017;25-64;female;0.995682
+Georgia;2017;25-64;male;0.994181
+Georgia;2017;25-64;total;0.994924
+Georgia;2017;65+;female;0.985236
+Georgia;2017;65+;male;0.992475
+Georgia;2017;65+;total;0.988148
+Iraq;2013;15+;female;0.379553
+Iraq;2013;15+;male;0.530073
+Iraq;2013;15+;total;0.436833
+Iraq;2013;15-24;female;0.486387
+Iraq;2013;15-24;male;0.570065
+Iraq;2013;15-24;total;0.523189
+Iraq;2013;25-64;female;0.382295
+Iraq;2013;25-64;male;0.550239
+Iraq;2013;25-64;total;0.442324
+Iraq;2013;65+;female;0.142468
+Iraq;2013;65+;male;0.310472
+Iraq;2013;65+;total;0.203843
+Iraq;2018;15+;female;0.44014
+Iraq;2018;15+;male;0.56244
+Iraq;2018;15+;total;0.501405
+Iraq;2018;15-24;female;0.527081
+Iraq;2018;15-24;male;0.598042
+Iraq;2018;15-24;total;0.563391
+Iraq;2018;25-64;female;0.422311
+Iraq;2018;25-64;male;0.559439
+Iraq;2018;25-64;total;0.490846
+Iraq;2018;65+;female;0.163189
+Iraq;2018;65+;male;0.357333
+Iraq;2018;65+;total;0.250487
+Jordan;2010;15+;female;0.892077
+Jordan;2010;15+;male;0.957672
+Jordan;2010;15+;total;0.92551
+Jordan;2010;15-24;female;0.987664
+Jordan;2010;15-24;male;0.987587
+Jordan;2010;15-24;total;0.987624
+Jordan;2010;25-64;female;0.90077
+Jordan;2010;25-64;male;0.962683
+Jordan;2010;25-64;total;0.931726
+Jordan;2010;65+;female;0.295473
+Jordan;2010;65+;male;0.752209
+Jordan;2010;65+;total;0.535175
+Jordan;2011;15+;female;0.939335
+Jordan;2011;15+;male;0.977484
+Jordan;2011;15+;total;0.959045
+Jordan;2011;15-24;female;0.992532
+Jordan;2011;15-24;male;0.990508
+Jordan;2011;15-24;total;0.991487
+Jordan;2011;25-64;female;0.978088
+Jordan;2011;25-64;male;0.983896
+Jordan;2011;25-64;total;0.980889
+Jordan;2011;65+;female;0.335
+Jordan;2011;65+;male;0.760004
+Jordan;2011;65+;total;0.550124
+Jordan;2012;15+;female;0.97372
+Jordan;2012;15+;male;0.984446
+Jordan;2012;15+;total;0.978903
+Jordan;2012;15-24;female;0.992027
+Jordan;2012;15-24;male;0.99002
+Jordan;2012;15-24;total;0.991057
+Jordan;2012;25-64;female;0.978088
+Jordan;2012;25-64;male;0.983896
+Jordan;2012;25-64;total;0.980889
+Jordan;2012;65+;female;0.801
+Jordan;2012;65+;male;0.955004
+Jordan;2012;65+;total;0.876985
+Jordan;2018;15+;female;0.978321
+Jordan;2018;15+;male;0.986142
+Jordan;2018;15+;total;0.982271
+Jordan;2018;15-24;female;0.994939
+Jordan;2018;15-24;male;0.991961
+Jordan;2018;15-24;total;0.993437
+Jordan;2018;25-64;female;0.982628
+Jordan;2018;25-64;male;0.98532
+Jordan;2018;25-64;total;0.983997
+Jordan;2018;65+;female;0.856099
+Jordan;2018;65+;male;0.964601
+Jordan;2018;65+;total;0.907055
+Kuwait;2010;15+;female;0.926809
+Kuwait;2010;15+;male;0.955453
+Kuwait;2010;15+;total;0.94469
+Kuwait;2010;15-24;female;0.987182
+Kuwait;2010;15-24;male;0.990628
+Kuwait;2010;15-24;total;0.988991
+Kuwait;2010;25-64;female;0.929284
+Kuwait;2010;25-64;male;0.953178
+Kuwait;2010;25-64;total;0.944779
+Kuwait;2010;65+;female;0.402918
+Kuwait;2010;65+;male;0.788833
+Kuwait;2010;65+;total;0.606862
+Kuwait;2012;15+;female;0.949653
+Kuwait;2012;15+;male;0.958397
+Kuwait;2012;15+;total;0.955132
+Kuwait;2012;15-24;female;0.988353
+Kuwait;2012;15-24;male;0.987364
+Kuwait;2012;15-24;total;0.987823
+Kuwait;2012;25-64;female;0.958182
+Kuwait;2012;25-64;male;0.957521
+Kuwait;2012;25-64;total;0.957753
+Kuwait;2012;65+;female;0.485664
+Kuwait;2012;65+;male;0.792236
+Kuwait;2012;65+;total;0.645823
+Kuwait;2013;15+;female;0.943012
+Kuwait;2013;15+;male;0.963542
+Kuwait;2013;15+;total;0.955858
+Kuwait;2013;15-24;female;0.990407
+Kuwait;2013;15-24;male;0.992523
+Kuwait;2013;15-24;total;0.991538
+Kuwait;2013;25-64;female;0.949239
+Kuwait;2013;25-64;male;0.961423
+Kuwait;2013;25-64;total;0.95712
+Kuwait;2013;65+;female;0.491525
+Kuwait;2013;65+;male;0.857197
+Kuwait;2013;65+;total;0.681771
+Kuwait;2015;15+;female;0.944701
+Kuwait;2015;15+;male;0.963923
+Kuwait;2015;15+;total;0.956855
+Kuwait;2015;15-24;female;0.994009
+Kuwait;2015;15-24;male;0.991507
+Kuwait;2015;15-24;total;0.992591
+Kuwait;2015;25-64;female;0.952961
+Kuwait;2015;25-64;male;0.961904
+Kuwait;2015;25-64;total;0.958758
+Kuwait;2015;65+;female;0.506427
+Kuwait;2015;65+;male;0.869393
+Kuwait;2015;65+;total;0.695472
+Kuwait;2017;15+;female;0.948258
+Kuwait;2017;15+;male;0.966971
+Kuwait;2017;15+;total;0.96036
+Kuwait;2017;15-24;female;0.994992
+Kuwait;2017;15-24;male;0.990568
+Kuwait;2017;15-24;total;0.992436
+Kuwait;2017;25-64;female;0.957214
+Kuwait;2017;25-64;male;0.96547
+Kuwait;2017;25-64;total;0.96269
+Kuwait;2017;65+;female;0.542091
+Kuwait;2017;65+;male;0.884416
+Kuwait;2017;65+;total;0.720145
+Kuwait;2018;15+;female;0.949052
+Kuwait;2018;15+;male;0.966665
+Kuwait;2018;15+;total;0.960565
+Kuwait;2018;15-24;female;0.995036
+Kuwait;2018;15-24;male;0.987768
+Kuwait;2018;15-24;total;0.990801
+Kuwait;2018;25-64;female;0.958265
+Kuwait;2018;25-64;male;0.96545
+Kuwait;2018;25-64;total;0.963086
+Kuwait;2018;65+;female;0.550508
+Kuwait;2018;65+;male;0.888042
+Kuwait;2018;65+;total;0.726537
+Lebanon;2018;15+;female;0.93305
+Lebanon;2018;15+;male;0.968547
+Lebanon;2018;15+;total;0.950694
+Lebanon;2018;15-24;female;0.99839
+Lebanon;2018;15-24;male;0.996627
+Lebanon;2018;15-24;total;0.997518
+Lebanon;2018;25-64;female;0.960063
+Lebanon;2018;25-64;male;0.974197
+Lebanon;2018;25-64;total;0.967174
+Lebanon;2018;65+;female;0.60434
+Lebanon;2018;65+;male;0.848765
+Lebanon;2018;65+;total;0.716658
+Morocco;2011;15+;female;0.5764
+Morocco;2011;15+;male;0.760736
+Morocco;2011;15+;total;0.670842
+Morocco;2011;15-24;female;0.740343
+Morocco;2011;15-24;male;0.888294
+Morocco;2011;15-24;total;0.815101
+Morocco;2011;25-64;female;0.49294
+Morocco;2011;25-64;male;0.706283
+Morocco;2011;25-64;total;0.604746
+Morocco;2011;65+;female;0.168617
+Morocco;2011;65+;male;0.389003
+Morocco;2011;65+;total;0.300278
+Morocco;2012;15+;female;0.591306
+Morocco;2012;15+;male;0.803834
+Morocco;2012;15+;total;0.694254
+Morocco;2012;15-24;female;0.877834
+Morocco;2012;15-24;male;0.946272
+Morocco;2012;15-24;total;0.91221
+Morocco;2012;25-64;female;0.547449
+Morocco;2012;25-64;male;0.791052
+Morocco;2012;25-64;total;0.664228
+Morocco;2012;65+;female;0.17661
+Morocco;2012;65+;male;0.497303
+Morocco;2012;65+;total;0.327538
+Morocco;2018;15+;female;0.645914
+Morocco;2018;15+;male;0.833014
+Morocco;2018;15+;total;0.7375
+Morocco;2018;15-24;female;0.974
+Morocco;2018;15-24;male;0.9804
+Morocco;2018;15-24;total;0.9773
+Morocco;2018;25-64;female;0.609694
+Morocco;2018;25-64;male;0.825087
+Morocco;2018;25-64;total;0.714351
+Morocco;2018;65+;female;0.190247
+Morocco;2018;65+;male;0.514165
+Morocco;2018;65+;total;0.34111
+Oman;2010;15+;female;0.818032
+Oman;2010;15+;male;0.90243
+Oman;2010;15+;total;0.86939
+Oman;2010;15-24;female;0.981651
+Oman;2010;15-24;male;0.974057
+Oman;2010;15-24;total;0.977437
+Oman;2010;25-64;female;0.783472
+Oman;2010;25-64;male;0.899996
+Oman;2010;25-64;total;0.857659
+Oman;2010;65+;female;0.104373
+Oman;2010;65+;male;0.352753
+Oman;2010;65+;total;0.232946
+Oman;2014;15+;female;0.889267
+Oman;2014;15+;male;0.949907
+Oman;2014;15+;total;0.919812
+Oman;2014;15-24;female;0.990566
+Oman;2014;15-24;male;0.991306
+Oman;2014;15-24;total;0.990943
+Oman;2014;25-64;female;0.851711
+Oman;2014;25-64;male;0.943767
+Oman;2014;25-64;total;0.89775
+Oman;2014;65+;female;0.170335
+Oman;2014;65+;male;0.457181
+Oman;2014;65+;total;0.316458
+Oman;2015;15+;female;0.860372
+Oman;2015;15+;male;0.966329
+Oman;2015;15+;total;0.930386
+Oman;2015;15-24;female;0.987533
+Oman;2015;15-24;male;0.994341
+Oman;2015;15-24;total;0.991537
+Oman;2015;25-64;female;0.851143
+Oman;2015;25-64;male;0.973175
+Oman;2015;25-64;total;0.935134
+Oman;2015;65+;female;0.17517
+Oman;2015;65+;male;0.507967
+Oman;2015;65+;total;0.350473
+Oman;2016;15+;female;0.909442
+Oman;2016;15+;male;0.966308
+Oman;2016;15+;total;0.949
+Oman;2016;15-24;female;0.989804
+Oman;2016;15-24;male;0.985148
+Oman;2016;15-24;total;0.987036
+Oman;2016;25-64;female;0.910828
+Oman;2016;25-64;male;0.974612
+Oman;2016;25-64;total;0.957089
+Oman;2016;65+;female;0.401993
+Oman;2016;65+;male;0.434718
+Oman;2016;65+;total;0.418608
+Oman;2017;15+;female;0.922256
+Oman;2017;15+;male;0.970239
+Oman;2017;15+;total;0.95576
+Oman;2017;15-24;female;0.989564
+Oman;2017;15-24;male;0.984644
+Oman;2017;15-24;total;0.986624
+Oman;2017;25-64;female;0.916596
+Oman;2017;25-64;male;0.973963
+Oman;2017;25-64;total;0.958235
+Oman;2017;65+;female;0.533877
+Oman;2017;65+;male;0.585493
+Oman;2017;65+;total;0.559933
+Oman;2018;15+;female;0.92694
+Oman;2018;15+;male;0.969894
+Oman;2018;15+;total;0.956515
+Oman;2018;15-24;female;0.989794
+Oman;2018;15-24;male;0.983566
+Oman;2018;15-24;total;0.986178
+Oman;2018;25-64;female;0.923007
+Oman;2018;25-64;male;0.973958
+Oman;2018;25-64;total;0.959521
+Oman;2018;65+;female;0.548726
+Oman;2018;65+;male;0.589664
+Oman;2018;65+;total;0.569177
+Palestine;2010;15+;female;0.921728
+Palestine;2010;15+;male;0.97629
+Palestine;2010;15+;total;0.94932
+Palestine;2010;15-24;female;0.99274
+Palestine;2010;15-24;male;0.992114
+Palestine;2010;15-24;total;0.99242
+Palestine;2010;25-64;female;0.910724
+Palestine;2010;25-64;male;0.976608
+Palestine;2010;25-64;total;0.94413
+Palestine;2010;65+;female;0.335859
+Palestine;2010;65+;male;0.709984
+Palestine;2010;65+;total;0.490722
+Palestine;2011;15+;female;0.926162
+Palestine;2011;15+;male;0.97857
+Palestine;2011;15+;total;0.952672
+Palestine;2011;15-24;female;0.99367
+Palestine;2011;15-24;male;0.992599
+Palestine;2011;15-24;total;0.993123
+Palestine;2011;25-64;female;0.91835
+Palestine;2011;25-64;male;0.980406
+Palestine;2011;25-64;total;0.94987
+Palestine;2011;65+;female;0.340612
+Palestine;2011;65+;male;0.698372
+Palestine;2011;65+;total;0.484961
+Palestine;2012;15+;female;0.935654
+Palestine;2012;15+;male;0.981918
+Palestine;2012;15+;total;0.959062
+Palestine;2012;15-24;female;0.992271
+Palestine;2012;15-24;male;0.993452
+Palestine;2012;15-24;total;0.992873
+Palestine;2012;25-64;female;0.930519
+Palestine;2012;25-64;male;0.984122
+Palestine;2012;25-64;total;0.957721
+Palestine;2012;65+;female;0.38683
+Palestine;2012;65+;male;0.72767
+Palestine;2012;65+;total;0.528067
+Palestine;2013;15+;female;0.941261
+Palestine;2013;15+;male;0.983911
+Palestine;2013;15+;total;0.962849
+Palestine;2013;15-24;female;0.992749
+Palestine;2013;15-24;male;0.994188
+Palestine;2013;15-24;total;0.993483
+Palestine;2013;25-64;female;0.936376
+Palestine;2013;25-64;male;0.98559
+Palestine;2013;25-64;total;0.961346
+Palestine;2013;65+;female;0.425673
+Palestine;2013;65+;male;0.761431
+Palestine;2013;65+;total;0.567219
+Palestine;2014;15+;female;0.944073
+Palestine;2014;15+;male;0.984023
+Palestine;2014;15+;total;0.964284
+Palestine;2014;15-24;female;0.993194
+Palestine;2014;15-24;male;0.994058
+Palestine;2014;15-24;total;0.993635
+Palestine;2014;25-64;female;0.939723
+Palestine;2014;25-64;male;0.985868
+Palestine;2014;25-64;total;0.963095
+Palestine;2014;65+;female;0.445631
+Palestine;2014;65+;male;0.766134
+Palestine;2014;65+;total;0.583268
+Palestine;2015;15+;female;0.948538
+Palestine;2015;15+;male;0.984809
+Palestine;2015;15+;total;0.966907
+Palestine;2015;15-24;female;0.992679
+Palestine;2015;15-24;male;0.994105
+Palestine;2015;15-24;total;0.993406
+Palestine;2015;25-64;female;0.945914
+Palestine;2015;25-64;male;0.985875
+Palestine;2015;25-64;total;0.966192
+Palestine;2015;65+;female;0.467764
+Palestine;2015;65+;male;0.798058
+Palestine;2015;65+;total;0.609897
+Palestine;2016;15+;female;0.952079
+Palestine;2016;15+;male;0.986078
+Palestine;2016;15+;total;0.969302
+Palestine;2016;15-24;female;0.993131
+Palestine;2016;15-24;male;0.994515
+Palestine;2016;15-24;total;0.993837
+Palestine;2016;25-64;female;0.949693
+Palestine;2016;25-64;male;0.986762
+Palestine;2016;25-64;total;0.968503
+Palestine;2016;65+;female;0.498402
+Palestine;2016;65+;male;0.823749
+Palestine;2016;65+;total;0.639336
+Palestine;2018;15+;female;0.95742
+Palestine;2018;15+;male;0.986578
+Palestine;2018;15+;total;0.972186
+Palestine;2018;15-24;female;0.993824
+Palestine;2018;15-24;male;0.992922
+Palestine;2018;15-24;total;0.993363
+Palestine;2018;25-64;female;0.96045
+Palestine;2018;25-64;male;0.98903
+Palestine;2018;25-64;total;0.974675
+Palestine;2018;65+;female;0.572063
+Palestine;2018;65+;male;0.914912
+Palestine;2018;65+;total;0.774881
+Qatar;2013;15+;female;0.917296
+Qatar;2013;15+;male;0.903434
+Qatar;2013;15+;total;0.90633
+Qatar;2013;15-24;female;0.957988
+Qatar;2013;15-24;male;0.903066
+Qatar;2013;15-24;total;0.917936
+Qatar;2013;25-64;female;0.915634
+Qatar;2013;25-64;male;0.90445
+Qatar;2013;25-64;total;0.906644
+Qatar;2013;65+;female;0.438702
+Qatar;2013;65+;male;0.80058
+Qatar;2013;65+;total;0.683115
+Qatar;2014;15+;female;0.924524
+Qatar;2014;15+;male;0.910465
+Qatar;2014;15+;total;0.913272
+Qatar;2014;15-24;female;0.963485
+Qatar;2014;15-24;male;0.926837
+Qatar;2014;15-24;total;0.936445
+Qatar;2014;25-64;female;0.923264
+Qatar;2014;25-64;male;0.909458
+Qatar;2014;25-64;total;0.912035
+Qatar;2014;65+;female;0.461512
+Qatar;2014;65+;male;0.714432
+Qatar;2014;65+;total;0.630772
+Qatar;2016;15+;female;0.94207
+Qatar;2016;15+;male;0.928816
+Qatar;2016;15+;total;0.931453
+Qatar;2016;15-24;female;0.972648
+Qatar;2016;15-24;male;0.948064
+Qatar;2016;15-24;total;0.954637
+Qatar;2016;25-64;female;0.944361
+Qatar;2016;25-64;male;0.927265
+Qatar;2016;25-64;total;0.930435
+Qatar;2016;65+;female;0.521265
+Qatar;2016;65+;male;0.802654
+Qatar;2016;65+;total;0.713453
+Qatar;2017;15+;female;0.947115
+Qatar;2017;15+;male;0.931445
+Qatar;2017;15+;total;0.93464
+Qatar;2017;15-24;female;0.961147
+Qatar;2017;15-24;male;0.940699
+Qatar;2017;15-24;total;0.946441
+Qatar;2017;25-64;female;0.952209
+Qatar;2017;25-64;male;0.931232
+Qatar;2017;25-64;total;0.935187
+Qatar;2017;65+;female;0.54311
+Qatar;2017;65+;male;0.794722
+Qatar;2017;65+;total;0.704516
+Saudi Arabia;2013;15+;female;0.913693
+Saudi Arabia;2013;15+;male;0.965314
+Saudi Arabia;2013;15+;total;0.944263
+Saudi Arabia;2013;15-24;female;0.99137
+Saudi Arabia;2013;15-24;male;0.993007
+Saudi Arabia;2013;15-24;total;0.992218
+Saudi Arabia;2013;25-64;female;0.919343
+Saudi Arabia;2013;25-64;male;0.972309
+Saudi Arabia;2013;25-64;total;0.952199
+Saudi Arabia;2013;65+;female;0.365981
+Saudi Arabia;2013;65+;male;0.649589
+Saudi Arabia;2013;65+;total;0.513863
+Saudi Arabia;2017;15+;female;0.927072
+Saudi Arabia;2017;15+;male;0.971037
+Saudi Arabia;2017;15+;total;0.953286
+Saudi Arabia;2017;15-24;female;0.992804
+Saudi Arabia;2017;15-24;male;0.993215
+Saudi Arabia;2017;15-24;total;0.993019
+Saudi Arabia;2017;25-64;female;0.938335
+Saudi Arabia;2017;25-64;male;0.975909
+Saudi Arabia;2017;25-64;total;0.9616
+Saudi Arabia;2017;65+;female;0.463119
+Saudi Arabia;2017;65+;male;0.769261
+Saudi Arabia;2017;65+;total;0.624488
+Sudan;2018;15+;female;0.560632
+Sudan;2018;15+;male;0.654352
+Sudan;2018;15+;total;0.606972
+Sudan;2018;15-24;female;0.7349
+Sudan;2018;15-24;male;0.7251
+Sudan;2018;15-24;total;0.73
+Sudan;2018;25-64;female;0.505958
+Sudan;2018;25-64;male;0.63395
+Sudan;2018;25-64;total;0.56881
+Sudan;2018;65+;female;0.162498
+Sudan;2018;65+;male;0.431598
+Sudan;2018;65+;total;0.287618
+Tunisia;2010;15+;female;0.710882
+Tunisia;2010;15+;male;0.873757
+Tunisia;2010;15+;total;0.791306
+Tunisia;2010;15-24;female;0.960936
+Tunisia;2010;15-24;male;0.982109
+Tunisia;2010;15-24;total;0.971717
+Tunisia;2010;25-64;female;0.705216
+Tunisia;2010;25-64;male;0.901522
+Tunisia;2010;25-64;total;0.800932
+Tunisia;2010;65+;female;0.092194
+Tunisia;2010;65+;male;0.376403
+Tunisia;2010;65+;total;0.233306
+Tunisia;2011;15+;female;0.717296
+Tunisia;2011;15+;male;0.877608
+Tunisia;2011;15+;total;0.796539
+Tunisia;2011;15-24;female;0.963176
+Tunisia;2011;15-24;male;0.982363
+Tunisia;2011;15-24;total;0.973044
+Tunisia;2011;25-64;female;0.717072
+Tunisia;2011;25-64;male;0.901197
+Tunisia;2011;25-64;total;0.807025
+Tunisia;2011;65+;female;0.096519
+Tunisia;2011;65+;male;0.399962
+Tunisia;2011;65+;total;0.243152
+Tunisia;2012;15+;female;0.721607
+Tunisia;2012;15+;male;0.884758
+Tunisia;2012;15+;total;0.802188
+Tunisia;2012;15-24;female;0.957176
+Tunisia;2012;15-24;male;0.979706
+Tunisia;2012;15-24;total;0.96865
+Tunisia;2012;25-64;female;0.720251
+Tunisia;2012;25-64;male;0.914239
+Tunisia;2012;25-64;total;0.814877
+Tunisia;2012;65+;female;0.109847
+Tunisia;2012;65+;male;0.411654
+Tunisia;2012;65+;total;0.259664
+Tunisia;2014;15+;female;0.722238
+Tunisia;2014;15+;male;0.860601
+Tunisia;2014;15+;total;0.790364
+Tunisia;2014;15-24;female;0.958012
+Tunisia;2014;15-24;male;0.966118
+Tunisia;2014;15-24;total;0.962091
+Tunisia;2014;25-64;female;0.738128
+Tunisia;2014;25-64;male;0.882748
+Tunisia;2014;25-64;total;0.808891
+Tunisia;2014;65+;female;0.243812
+Tunisia;2014;65+;male;0.557937
+Tunisia;2014;65+;total;0.397715
+Turkey;2010;15+;female;0.880732
+Turkey;2010;15+;male;0.972998
+Turkey;2010;15+;total;0.926606
+Turkey;2010;15-24;female;0.971973
+Turkey;2010;15-24;male;0.992142
+Turkey;2010;15-24;total;0.982246
+Turkey;2010;25-64;female;0.909529
+Turkey;2010;25-64;male;0.983625
+Turkey;2010;25-64;total;0.946639
+Turkey;2010;65+;female;0.504067
+Turkey;2010;65+;male;0.83426
+Turkey;2010;65+;total;0.65001
+Turkey;2011;15+;female;0.903101
+Turkey;2011;15+;male;0.97935
+Turkey;2011;15+;total;0.941061
+Turkey;2011;15-24;female;0.979363
+Turkey;2011;15-24;male;0.994467
+Turkey;2011;15-24;total;0.987094
+Turkey;2011;25-64;female;0.929878
+Turkey;2011;25-64;male;0.987687
+Turkey;2011;25-64;total;0.958866
+Turkey;2011;65+;female;0.579852
+Turkey;2011;65+;male;0.871319
+Turkey;2011;65+;total;0.708008
+Turkey;2012;15+;female;0.916045
+Turkey;2012;15+;male;0.982629
+Turkey;2012;15+;total;0.949198
+Turkey;2012;15-24;female;0.984127
+Turkey;2012;15-24;male;0.995905
+Turkey;2012;15-24;total;0.99016
+Turkey;2012;25-64;female;0.940321
+Turkey;2012;25-64;male;0.989487
+Turkey;2012;25-64;total;0.964989
+Turkey;2012;65+;female;0.631807
+Turkey;2012;65+;male;0.892931
+Turkey;2012;65+;total;0.746323
+Turkey;2013;15+;female;0.921381
+Turkey;2013;15+;male;0.984014
+Turkey;2013;15+;total;0.952567
+Turkey;2013;15-24;female;0.987421
+Turkey;2013;15-24;male;0.996891
+Turkey;2013;15-24;total;0.992274
+Turkey;2013;25-64;female;0.945124
+Turkey;2013;25-64;male;0.99019
+Turkey;2013;25-64;total;0.967749
+Turkey;2013;65+;female;0.650869
+Turkey;2013;65+;male;0.902155
+Turkey;2013;65+;total;0.760762
+Turkey;2014;15+;female;0.924018
+Turkey;2014;15+;male;0.984968
+Turkey;2014;15+;total;0.954396
+Turkey;2014;15-24;female;0.989509
+Turkey;2014;15-24;male;0.99747
+Turkey;2014;15-24;total;0.993585
+Turkey;2014;25-64;female;0.948809
+Turkey;2014;25-64;male;0.990867
+Turkey;2014;25-64;total;0.96998
+Turkey;2014;65+;female;0.662326
+Turkey;2014;65+;male;0.91016
+Turkey;2014;65+;total;0.770801
+Turkey;2015;15+;female;0.926458
+Turkey;2015;15+;male;0.985756
+Turkey;2015;15+;total;0.956014
+Turkey;2015;15-24;female;0.991671
+Turkey;2015;15-24;male;0.998061
+Turkey;2015;15-24;total;0.994944
+Turkey;2015;25-64;female;0.951759
+Turkey;2015;25-64;male;0.991257
+Turkey;2015;25-64;total;0.971654
+Turkey;2015;65+;female;0.67426
+Turkey;2015;65+;male;0.917624
+Turkey;2015;65+;total;0.780859
+Turkey;2016;15+;female;0.93563
+Turkey;2016;15+;male;0.987758
+Turkey;2016;15+;total;0.961673
+Turkey;2016;15-24;female;0.993716
+Turkey;2016;15-24;male;0.998598
+Turkey;2016;15-24;total;0.996214
+Turkey;2016;25-64;female;0.955172
+Turkey;2016;25-64;male;0.992138
+Turkey;2016;25-64;total;0.973799
+Turkey;2016;65+;female;0.812477
+Turkey;2016;65+;male;0.958442
+Turkey;2016;65+;total;0.881269
+Turkey;2017;15+;female;0.934983
+Turkey;2017;15+;male;0.9882
+Turkey;2017;15+;total;0.961505
+Turkey;2017;15-24;female;0.995864
+Turkey;2017;15-24;male;0.999079
+Turkey;2017;15-24;total;0.997509
+Turkey;2017;25-64;female;0.959265
+Turkey;2017;25-64;male;0.99286
+Turkey;2017;25-64;total;0.976196
+Turkey;2017;65+;female;0.704264
+Turkey;2017;65+;male;0.931912
+Turkey;2017;65+;total;0.804397
+Fiji;2017;15+;female;0.990858
+Fiji;2017;15+;male;0.990784
+Fiji;2017;15+;total;0.990821
+Fiji;2017;15-24;female;0.998108
+Fiji;2017;15-24;male;0.996799
+Fiji;2017;15-24;total;0.997443
+Fiji;2017;25-64;female;0.993834
+Fiji;2017;25-64;male;0.991963
+Fiji;2017;25-64;total;0.992889
+Fiji;2017;65+;female;0.944232
+Fiji;2017;65+;male;0.959142
+Fiji;2017;65+;total;0.951262
+Marshall Islands;2011;15+;female;0.98203
+Marshall Islands;2011;15+;male;0.983251
+Marshall Islands;2011;15+;total;0.982651
+Marshall Islands;2011;15-24;female;0.987567
+Marshall Islands;2011;15-24;male;0.981697
+Marshall Islands;2011;15-24;total;0.984588
+Marshall Islands;2011;25-64;female;0.988081
+Marshall Islands;2011;25-64;male;0.988811
+Marshall Islands;2011;25-64;total;0.988449
+Marshall Islands;2011;65+;female;0.846626
+Marshall Islands;2011;65+;male;0.927869
+Marshall Islands;2011;65+;total;0.894065
+New Caledonia ;2014;15+;female;0.975
+New Caledonia ;2014;15+;male;0.9814
+New Caledonia ;2014;15+;total;0.978
+New Caledonia ;2014;15-24;female;0.993
+New Caledonia ;2014;15-24;male;0.9918
+New Caledonia ;2014;15-24;total;0.992
+New Caledonia ;2014;25-64;female;0.987
+New Caledonia ;2014;25-64;male;0.9878
+New Caledonia ;2014;25-64;total;0.988
+New Caledonia ;2014;65+;female;0.884
+New Caledonia ;2014;65+;male;0.9293
+New Caledonia ;2014;65+;total;0.906
+Palau;2013;15+;female;0.995279
+Palau;2013;15+;male;0.994672
+Palau;2013;15+;total;0.995031
+Palau;2013;15-24;female;0.998295
+Palau;2013;15-24;male;0.997696
+Palau;2013;15-24;total;0.998384
+Palau;2013;25-64;female;0.997111
+Palau;2013;25-64;male;0.995086
+Palau;2013;25-64;total;0.996016
+Palau;2013;65+;female;0.982123
+Palau;2013;65+;male;0.98489
+Palau;2013;65+;total;0.983364
+Palau;2015;15+;female;0.963402
+Palau;2015;15+;male;0.968128
+Palau;2015;15+;total;0.965937
+Palau;2015;15-24;female;0.991705
+Palau;2015;15-24;male;0.982456
+Palau;2015;15-24;total;0.986644
+Palau;2015;25-64;female;0.981124
+Palau;2015;25-64;male;0.971539
+Palau;2015;25-64;total;0.975855
+Palau;2015;65+;female;0.813492
+Palau;2015;65+;male;0.895636
+Palau;2015;65+;total;0.847233
+Papua New Guinea;2010;15+;female;0.579
+Papua New Guinea;2010;15+;male;0.6529
+Papua New Guinea;2010;15+;total;0.616
+Papua New Guinea;2010;15-24;female;0.714
+Papua New Guinea;2010;15-24;male;0.6457
+Papua New Guinea;2010;15-24;total;0.679
+Papua New Guinea;2010;25-64;female;0.54
+Papua New Guinea;2010;25-64;male;0.6709
+Papua New Guinea;2010;25-64;total;0.606
+Papua New Guinea;2010;65+;female;0.268
+Papua New Guinea;2010;65+;male;0.4126
+Papua New Guinea;2010;65+;total;0.33
+Samoa;2011;15+;female;0.990695
+Samoa;2011;15+;male;0.988819
+Samoa;2011;15+;total;0.989733
+Samoa;2011;15-24;female;0.99458
+Samoa;2011;15-24;male;0.990296
+Samoa;2011;15-24;total;0.992357
+Samoa;2011;25-64;female;0.992615
+Samoa;2011;25-64;male;0.990766
+Samoa;2011;25-64;total;0.991657
+Samoa;2011;65+;female;0.963168
+Samoa;2011;65+;male;0.963031
+Samoa;2011;65+;total;0.963107
+Samoa;2018;15+;female;0.99245
+Samoa;2018;15+;male;0.989561
+Samoa;2018;15+;total;0.990958
+Samoa;2018;15-24;female;0.994358
+Samoa;2018;15-24;male;0.988415
+Samoa;2018;15-24;total;0.991235
+Samoa;2018;25-64;female;0.99335
+Samoa;2018;25-64;male;0.991389
+Samoa;2018;25-64;total;0.992327
+Samoa;2018;65+;female;0.980163
+Samoa;2018;65+;male;0.977051
+Samoa;2018;65+;total;0.97879
+Tonga;2011;15+;female;0.994342
+Tonga;2011;15+;male;0.993351
+Tonga;2011;15+;total;0.993855
+Tonga;2011;15-24;female;0.995104
+Tonga;2011;15-24;male;0.993666
+Tonga;2011;15-24;total;0.99437
+Tonga;2011;25-64;female;0.994951
+Tonga;2011;25-64;male;0.993841
+Tonga;2011;25-64;total;0.994411
+Tonga;2011;65+;female;0.988404
+Tonga;2011;65+;male;0.988873
+Tonga;2011;65+;total;0.98862
+Tonga;2018;15+;female;0.99475
+Tonga;2018;15+;male;0.99351
+Tonga;2018;15+;total;0.994144
+Tonga;2018;15-24;female;0.995398
+Tonga;2018;15-24;male;0.993487
+Tonga;2018;15-24;total;0.994411
+Tonga;2018;25-64;female;0.994793
+Tonga;2018;25-64;male;0.993878
+Tonga;2018;25-64;total;0.994354
+Tonga;2018;65+;female;0.992579
+Tonga;2018;65+;male;0.991066
+Tonga;2018;65+;total;0.991887
+Vanuatu;2014;15+;female;0.832
+Vanuatu;2014;15+;male;0.8618
+Vanuatu;2014;15+;total;0.847
+Vanuatu;2014;15-24;female;0.956
+Vanuatu;2014;15-24;male;0.9509
+Vanuatu;2014;15-24;total;0.953
+Vanuatu;2014;25-64;female;0.824
+Vanuatu;2014;25-64;male;0.8551
+Vanuatu;2014;25-64;total;0.839
+Vanuatu;2014;65+;female;0.358
+Vanuatu;2014;65+;male;0.5269
+Vanuatu;2014;65+;total;0.442
+Vanuatu;2018;15+;female;0.867061
+Vanuatu;2018;15+;male;0.883064
+Vanuatu;2018;15+;total;0.875063
+Vanuatu;2018;15-24;female;0.965966
+Vanuatu;2018;15-24;male;0.959766
+Vanuatu;2018;15-24;total;0.962821
+Vanuatu;2018;25-64;female;0.860673
+Vanuatu;2018;25-64;male;0.876419
+Vanuatu;2018;25-64;total;0.868469
+Vanuatu;2018;65+;female;0.432187
+Vanuatu;2018;65+;male;0.579364
+Vanuatu;2018;65+;total;0.508928
+Angola;2014;15+;female;0.534072
+Angola;2014;15+;male;0.799742
+Angola;2014;15+;total;0.660301
+Angola;2014;15-24;female;0.705851
+Angola;2014;15-24;male;0.848624
+Angola;2014;15-24;total;0.774311
+Angola;2014;25-64;female;0.471273
+Angola;2014;25-64;male;0.793724
+Angola;2014;25-64;total;0.624702
+Angola;2014;65+;female;0.114379
+Angola;2014;65+;male;0.474831
+Angola;2014;65+;total;0.270253
+Benin;2012;15+;female;0.220939
+Benin;2012;15+;male;0.449603
+Benin;2012;15+;total;0.329488
+Benin;2012;15-24;female;0.409384
+Benin;2012;15-24;male;0.639409
+Benin;2012;15-24;total;0.524925
+Benin;2012;25-64;female;0.162703
+Benin;2012;25-64;male;0.399053
+Benin;2012;25-64;total;0.27022
+Benin;2012;65+;female;0.013565
+Benin;2012;65+;male;0.119477
+Benin;2012;65+;total;0.070254
+Benin;2018;15+;female;0.310717
+Benin;2018;15+;male;0.53977
+Benin;2018;15+;total;0.423624
+Benin;2018;15-24;female;0.519436
+Benin;2018;15-24;male;0.697612
+Benin;2018;15-24;total;0.609481
+Benin;2018;25-64;female;0.224469
+Benin;2018;25-64;male;0.477055
+Benin;2018;25-64;total;0.34882
+Benin;2018;65+;female;0.022746
+Benin;2018;65+;male;0.163115
+Benin;2018;65+;total;0.082208
+Botswana;2013;15+;female;0.874512
+Botswana;2013;15+;male;0.861221
+Botswana;2013;15+;total;0.868232
+Botswana;2013;15-24;female;0.991395
+Botswana;2013;15-24;male;0.957548
+Botswana;2013;15-24;total;0.974563
+Botswana;2013;25-64;female;0.871734
+Botswana;2013;25-64;male;0.845795
+Botswana;2013;25-64;total;0.85962
+Botswana;2013;65+;female;0.369078
+Botswana;2013;65+;male;0.435342
+Botswana;2013;65+;total;0.396163
+Botswana;2014;15+;female;0.887
+Botswana;2014;15+;male;0.8674
+Botswana;2014;15+;total;0.877
+Botswana;2014;15-24;female;0.994
+Botswana;2014;15-24;male;0.9594
+Botswana;2014;15-24;total;0.977
+Botswana;2014;25-64;female;0.885
+Botswana;2014;25-64;male;0.8548
+Botswana;2014;25-64;total;0.87
+Botswana;2014;65+;female;0.379
+Botswana;2014;65+;male;0.4445
+Botswana;2014;65+;total;0.407
+Burkina Faso;2014;15+;female;0.262203
+Burkina Faso;2014;15+;male;0.443795
+Burkina Faso;2014;15+;total;0.345994
+Burkina Faso;2014;15-24;female;0.439858
+Burkina Faso;2014;15-24;male;0.569949
+Burkina Faso;2014;15-24;total;0.500963
+Burkina Faso;2014;25-64;female;0.1898
+Burkina Faso;2014;25-64;male;0.407974
+Burkina Faso;2014;25-64;total;0.288317
+Burkina Faso;2014;65+;female;0.020844
+Burkina Faso;2014;65+;male;0.145536
+Burkina Faso;2014;65+;total;0.083942
+Burkina Faso;2018;15+;female;0.326876
+Burkina Faso;2018;15+;male;0.500746
+Burkina Faso;2018;15+;total;0.412245
+Burkina Faso;2018;15-24;female;0.5467
+Burkina Faso;2018;15-24;male;0.6179
+Burkina Faso;2018;15-24;total;0.5829
+Burkina Faso;2018;25-64;female;0.222138
+Burkina Faso;2018;25-64;male;0.443878
+Burkina Faso;2018;25-64;total;0.330232
+Burkina Faso;2018;65+;female;0.041414
+Burkina Faso;2018;65+;male;0.193752
+Burkina Faso;2018;65+;total;0.101267
+Burundi;2014;15+;female;0.54663
+Burundi;2014;15+;male;0.696925
+Burundi;2014;15+;total;0.615697
+Burundi;2014;15-24;female;0.749589
+Burundi;2014;15-24;male;0.852901
+Burundi;2014;15-24;total;0.795596
+Burundi;2014;25-64;female;0.464454
+Burundi;2014;25-64;male;0.6419
+Burundi;2014;25-64;total;0.54737
+Burundi;2014;65+;female;0.140897
+Burundi;2014;65+;male;0.375231
+Burundi;2014;65+;total;0.249336
+Burundi;2017;15+;female;0.612237
+Burundi;2017;15+;male;0.762961
+Burundi;2017;15+;total;0.683753
+Burundi;2017;15-24;female;0.856186
+Burundi;2017;15-24;male;0.910342
+Burundi;2017;15-24;total;0.882218
+Burundi;2017;25-64;female;0.519862
+Burundi;2017;25-64;male;0.706743
+Burundi;2017;25-64;total;0.607998
+Burundi;2017;65+;female;0.169855
+Burundi;2017;65+;male;0.464959
+Burundi;2017;65+;total;0.307867
+Cabo Verde;2012;15+;female;0.804962
+Cabo Verde;2012;15+;male;0.904745
+Cabo Verde;2012;15+;total;0.853278
+Cabo Verde;2012;15-24;female;0.983982
+Cabo Verde;2012;15-24;male;0.978719
+Cabo Verde;2012;15-24;total;0.98129
+Cabo Verde;2012;25-64;female;0.816403
+Cabo Verde;2012;25-64;male;0.908818
+Cabo Verde;2012;25-64;total;0.860985
+Cabo Verde;2012;65+;female;0.206225
+Cabo Verde;2012;65+;male;0.522649
+Cabo Verde;2012;65+;total;0.331985
+Cabo Verde;2015;15+;female;0.820422
+Cabo Verde;2015;15+;male;0.916914
+Cabo Verde;2015;15+;total;0.867903
+Cabo Verde;2015;15-24;female;0.987302
+Cabo Verde;2015;15-24;male;0.97585
+Cabo Verde;2015;15-24;total;0.981113
+Cabo Verde;2015;25-64;female;0.841807
+Cabo Verde;2015;25-64;male;0.923831
+Cabo Verde;2015;25-64;total;0.881375
+Cabo Verde;2015;65+;female;0.226893
+Cabo Verde;2015;65+;male;0.577332
+Cabo Verde;2015;65+;total;0.368194
+Cameroon;2010;15+;female;0.647995
+Cameroon;2010;15+;male;0.783277
+Cameroon;2010;15+;total;0.712905
+Cameroon;2010;15-24;female;0.764209
+Cameroon;2010;15-24;male;0.853975
+Cameroon;2010;15-24;total;0.805744
+Cameroon;2010;25-64;female;0.630522
+Cameroon;2010;25-64;male;0.777442
+Cameroon;2010;25-64;total;0.70269
+Cameroon;2010;65+;female;0.119624
+Cameroon;2010;65+;male;0.424427
+Cameroon;2010;65+;total;0.261244
+Cameroon;2018;15+;female;0.715863
+Cameroon;2018;15+;male;0.82628
+Cameroon;2018;15+;total;0.77071
+Cameroon;2018;15-24;female;0.8241
+Cameroon;2018;15-24;male;0.8772
+Cameroon;2018;15-24;total;0.8508
+Cameroon;2018;25-64;female;0.694974
+Cameroon;2018;25-64;male;0.813125
+Cameroon;2018;25-64;total;0.753785
+Cameroon;2018;65+;female;0.252816
+Cameroon;2018;65+;male;0.597106
+Cameroon;2018;65+;total;0.405961
+Central African Republic;2010;15+;female;0.243555
+Central African Republic;2010;15+;male;0.507127
+Central African Republic;2010;15+;total;0.367526
+Central African Republic;2010;15-24;female;0.269713
+Central African Republic;2010;15-24;male;0.488571
+Central African Republic;2010;15-24;total;0.363563
+Central African Republic;2010;25-64;female;0.231835
+Central African Republic;2010;25-64;male;0.513129
+Central African Republic;2010;25-64;total;0.370267
+Central African Republic;2010;65+;female;0.172606
+Central African Republic;2010;65+;male;0.555488
+Central African Republic;2010;65+;total;0.357196
+Central African Republic;2018;15+;female;0.257564
+Central African Republic;2018;15+;male;0.495146
+Central African Republic;2018;15+;total;0.373958
+Central African Republic;2018;15-24;female;0.287067
+Central African Republic;2018;15-24;male;0.478049
+Central African Republic;2018;15-24;total;0.382687
+Central African Republic;2018;25-64;female;0.2453
+Central African Republic;2018;25-64;male;0.503567
+Central African Republic;2018;25-64;total;0.372067
+Central African Republic;2018;65+;female;0.184887
+Central African Republic;2018;65+;male;0.545152
+Central African Republic;2018;65+;total;0.32801
+Chad;2015;15+;female;0.139334
+Chad;2015;15+;male;0.389182
+Chad;2015;15+;total;0.26003
+Chad;2015;15-24;female;0.259936
+Chad;2015;15-24;male;0.518363
+Chad;2015;15-24;total;0.387724
+Chad;2015;25-64;female;0.086382
+Chad;2015;25-64;male;0.342751
+Chad;2015;25-64;total;0.206466
+Chad;2015;65+;female;0.005456
+Chad;2015;65+;male;0.141485
+Chad;2015;65+;total;0.083141
+Chad;2016;15+;female;0.139552
+Chad;2016;15+;male;0.313288
+Chad;2016;15+;total;0.223116
+Chad;2016;15-24;female;0.223872
+Chad;2016;15-24;male;0.406929
+Chad;2016;15-24;total;0.307916
+Chad;2016;25-64;female;0.095492
+Chad;2016;25-64;male;0.284492
+Chad;2016;25-64;total;0.187392
+Chad;2016;65+;female;0.031892
+Chad;2016;65+;male;0.10037
+Chad;2016;65+;total;0.070281
+Comoros;2012;15+;female;0.426373
+Comoros;2012;15+;male;0.564798
+Comoros;2012;15+;total;0.491961
+Comoros;2012;15-24;female;0.695952
+Comoros;2012;15-24;male;0.738108
+Comoros;2012;15-24;total;0.715813
+Comoros;2012;25-64;female;0.333423
+Comoros;2012;25-64;male;0.52713
+Comoros;2012;25-64;total;0.424272
+Comoros;2012;65+;female;0.031365
+Comoros;2012;65+;male;0.218552
+Comoros;2012;65+;total;0.127677
+Comoros;2018;15+;female;0.529564
+Comoros;2018;15+;male;0.646442
+Comoros;2018;15+;total;0.58817
+Comoros;2018;15-24;female;0.783024
+Comoros;2018;15-24;male;0.782394
+Comoros;2018;15-24;total;0.782704
+Comoros;2018;25-64;female;0.441357
+Comoros;2018;25-64;male;0.6019
+Comoros;2018;25-64;total;0.521901
+Comoros;2018;65+;female;0.056846
+Comoros;2018;65+;male;0.278733
+Comoros;2018;65+;total;0.157932
+Congo;2011;15+;female;0.728771
+Congo;2011;15+;male;0.864343
+Congo;2011;15+;total;0.793112
+Congo;2011;15-24;female;0.769461
+Congo;2011;15-24;male;0.856836
+Congo;2011;15-24;total;0.80914
+Congo;2011;25-64;female;0.717576
+Congo;2011;25-64;male;0.86655
+Congo;2011;25-64;total;0.790228
+Congo;2011;65+;female;0.613843
+Congo;2011;65+;male;0.881496
+Congo;2011;65+;total;0.730835
+Congo;2018;15+;female;0.746188
+Congo;2018;15+;male;0.860765
+Congo;2018;15+;total;0.802988
+Congo;2018;15-24;female;0.787423
+Congo;2018;15-24;male;0.853417
+Congo;2018;15-24;total;0.820548
+Congo;2018;25-64;female;0.734252
+Congo;2018;25-64;male;0.863437
+Congo;2018;25-64;total;0.79854
+Congo;2018;65+;female;0.640737
+Congo;2018;65+;male;0.878093
+Congo;2018;65+;total;0.741928
+C?te d'Ivoire;2012;15+;female;0.304617
+C?te d'Ivoire;2012;15+;male;0.515927
+C?te d'Ivoire;2012;15+;total;0.409816
+C?te d'Ivoire;2012;15-24;female;0.387501
+C?te d'Ivoire;2012;15-24;male;0.583326
+C?te d'Ivoire;2012;15-24;total;0.4831
+C?te d'Ivoire;2012;25-64;female;0.278679
+C?te d'Ivoire;2012;25-64;male;0.498794
+C?te d'Ivoire;2012;25-64;total;0.388932
+C?te d'Ivoire;2012;65+;female;0.135658
+C?te d'Ivoire;2012;65+;male;0.362439
+C?te d'Ivoire;2012;65+;total;0.252545
+C?te d'Ivoire;2014;15+;female;0.367843
+C?te d'Ivoire;2014;15+;male;0.507019
+C?te d'Ivoire;2014;15+;total;0.439084
+C?te d'Ivoire;2014;15-24;female;0.470398
+C?te d'Ivoire;2014;15-24;male;0.591244
+C?te d'Ivoire;2014;15-24;total;0.530207
+C?te d'Ivoire;2014;25-64;female;0.332431
+C?te d'Ivoire;2014;25-64;male;0.48373
+C?te d'Ivoire;2014;25-64;total;0.411245
+C?te d'Ivoire;2014;65+;female;0.104002
+C?te d'Ivoire;2014;65+;male;0.254574
+C?te d'Ivoire;2014;65+;total;0.179927
+C?te d'Ivoire;2018;15+;female;0.404994
+C?te d'Ivoire;2018;15+;male;0.536569
+C?te d'Ivoire;2018;15+;total;0.471654
+C?te d'Ivoire;2018;15-24;female;0.530251
+C?te d'Ivoire;2018;15-24;male;0.638449
+C?te d'Ivoire;2018;15-24;total;0.584202
+C?te d'Ivoire;2018;25-64;female;0.350314
+C?te d'Ivoire;2018;25-64;male;0.496516
+C?te d'Ivoire;2018;25-64;total;0.424825
+C?te d'Ivoire;2018;65+;female;0.129788
+C?te d'Ivoire;2018;65+;male;0.308358
+C?te d'Ivoire;2018;65+;total;0.224071
+Democratic Republic of the Congo;2012;15+;female;0.629186
+Democratic Republic of the Congo;2012;15+;male;0.879084
+Democratic Republic of the Congo;2012;15+;total;0.750172
+Democratic Republic of the Congo;2012;15-24;female;0.766585
+Democratic Republic of the Congo;2012;15-24;male;0.910476
+Democratic Republic of the Congo;2012;15-24;total;0.835976
+Democratic Republic of the Congo;2012;25-64;female;0.590818
+Democratic Republic of the Congo;2012;25-64;male;0.872706
+Democratic Republic of the Congo;2012;25-64;total;0.727374
+Democratic Republic of the Congo;2012;65+;female;0.208186
+Democratic Republic of the Congo;2012;65+;male;0.756168
+Democratic Republic of the Congo;2012;65+;total;0.478354
+Democratic Republic of the Congo;2016;15+;female;0.665
+Democratic Republic of the Congo;2016;15+;male;0.885247
+Democratic Republic of the Congo;2016;15+;total;0.770427
+Democratic Republic of the Congo;2016;15-24;female;0.797148
+Democratic Republic of the Congo;2016;15-24;male;0.90961
+Democratic Republic of the Congo;2016;15-24;total;0.849895
+Democratic Republic of the Congo;2016;25-64;female;0.627187
+Democratic Republic of the Congo;2016;25-64;male;0.882081
+Democratic Republic of the Congo;2016;25-64;total;0.750702
+Democratic Republic of the Congo;2016;65+;female;0.233201
+Democratic Republic of the Congo;2016;65+;male;0.759622
+Democratic Republic of the Congo;2016;65+;total;0.479704
+Equatorial Guinea;2010;15+;female;0.906761
+Equatorial Guinea;2010;15+;male;0.97184
+Equatorial Guinea;2010;15+;total;0.943705
+Equatorial Guinea;2010;15-24;female;0.982982
+Equatorial Guinea;2010;15-24;male;0.976908
+Equatorial Guinea;2010;15-24;total;0.97967
+Equatorial Guinea;2010;25-64;female;0.915544
+Equatorial Guinea;2010;25-64;male;0.975828
+Equatorial Guinea;2010;25-64;total;0.950737
+Equatorial Guinea;2010;65+;female;0.377221
+Equatorial Guinea;2010;65+;male;0.869015
+Equatorial Guinea;2010;65+;total;0.616564
+Equatorial Guinea;2014;15+;female;0.924
+Equatorial Guinea;2014;15+;male;0.9729
+Equatorial Guinea;2014;15+;total;0.95
+Equatorial Guinea;2014;15-24;female;0.987
+Equatorial Guinea;2014;15-24;male;0.9772
+Equatorial Guinea;2014;15-24;total;0.982
+Equatorial Guinea;2014;25-64;female;0.93
+Equatorial Guinea;2014;25-64;male;0.9758
+Equatorial Guinea;2014;25-64;total;0.954
+Equatorial Guinea;2014;65+;female;0.423
+Equatorial Guinea;2014;65+;male;0.9049
+Equatorial Guinea;2014;65+;total;0.672
+Eritrea;2018;15+;female;0.689462
+Eritrea;2018;15+;male;0.843732
+Eritrea;2018;15+;total;0.765705
+Eritrea;2018;15-24;female;0.92714
+Eritrea;2018;15-24;male;0.938187
+Eritrea;2018;15-24;total;0.932724
+Eritrea;2018;25-64;female;0.643059
+Eritrea;2018;25-64;male;0.840397
+Eritrea;2018;25-64;total;0.740751
+Eritrea;2018;65+;female;0.173918
+Eritrea;2018;65+;male;0.438902
+Eritrea;2018;65+;total;0.291121
+Ethiopia;2017;15+;female;0.444234
+Ethiopia;2017;15+;male;0.592415
+Ethiopia;2017;15+;total;0.517712
+Ethiopia;2017;15-24;female;0.719725
+Ethiopia;2017;15-24;male;0.735207
+Ethiopia;2017;15-24;total;0.727548
+Ethiopia;2017;25-64;female;0.311474
+Ethiopia;2017;25-64;male;0.532727
+Ethiopia;2017;25-64;total;0.420592
+Ethiopia;2017;65+;female;0.077434
+Ethiopia;2017;65+;male;0.238735
+Ethiopia;2017;65+;total;0.152164
+Gabon;2012;15+;female;0.79879
+Gabon;2012;15+;male;0.848733
+Gabon;2012;15+;total;0.822838
+Gabon;2012;15-24;female;0.894293
+Gabon;2012;15-24;male;0.873896
+Gabon;2012;15-24;total;0.885041
+Gabon;2012;25-64;female;0.787303
+Gabon;2012;25-64;male;0.84316
+Gabon;2012;25-64;total;0.815503
+Gabon;2012;65+;female;0.495779
+Gabon;2012;65+;male;0.782051
+Gabon;2012;65+;total;0.605584
+Gabon;2018;15+;female;0.83424
+Gabon;2018;15+;male;0.858524
+Gabon;2018;15+;total;0.846672
+Gabon;2018;15-24;female;0.914494
+Gabon;2018;15-24;male;0.88142
+Gabon;2018;15-24;total;0.897837
+Gabon;2018;25-64;female;0.82639
+Gabon;2018;25-64;male;0.853836
+Gabon;2018;25-64;total;0.840701
+Gabon;2018;65+;female;0.567442
+Gabon;2018;65+;male;0.796875
+Gabon;2018;65+;total;0.668549
+Gambia;2013;15+;female;0.335754
+Gambia;2013;15+;male;0.51418
+Gambia;2013;15+;total;0.419501
+Gambia;2013;15-24;female;0.56121
+Gambia;2013;15-24;male;0.659758
+Gambia;2013;15-24;total;0.607779
+Gambia;2013;25-64;female;0.238116
+Gambia;2013;25-64;male;0.468318
+Gambia;2013;25-64;total;0.344554
+Gambia;2013;65+;female;0.015954
+Gambia;2013;65+;male;0.187486
+Gambia;2013;65+;total;0.103813
+Gambia;2015;15+;female;0.41577
+Gambia;2015;15+;male;0.617673
+Gambia;2015;15+;total;0.50778
+Gambia;2015;15-24;female;0.644468
+Gambia;2015;15-24;male;0.707435
+Gambia;2015;15-24;total;0.671614
+Gambia;2015;25-64;female;0.299484
+Gambia;2015;25-64;male;0.590253
+Gambia;2015;25-64;total;0.434679
+Gambia;2015;65+;female;0.086399
+Gambia;2015;65+;male;0.394
+Gambia;2015;65+;total;0.245
+Ghana;2010;15+;female;0.652947
+Ghana;2010;15+;male;0.783489
+Ghana;2010;15+;total;0.714971
+Ghana;2010;15-24;female;0.832345
+Ghana;2010;15-24;male;0.883108
+Ghana;2010;15-24;total;0.857162
+Ghana;2010;25-64;female;0.617044
+Ghana;2010;25-64;male;0.760173
+Ghana;2010;25-64;total;0.684874
+Ghana;2010;65+;female;0.234244
+Ghana;2010;65+;male;0.503088
+Ghana;2010;65+;total;0.348906
+Ghana;2018;15+;female;0.744744
+Ghana;2018;15+;male;0.835246
+Ghana;2018;15+;total;0.790396
+Ghana;2018;15-24;female;0.922086
+Ghana;2018;15-24;male;0.92761
+Ghana;2018;15-24;total;0.92491
+Ghana;2018;25-64;female;0.689147
+Ghana;2018;25-64;male;0.802583
+Ghana;2018;25-64;total;0.746388
+Ghana;2018;65+;female;0.39015
+Ghana;2018;65+;male;0.649667
+Ghana;2018;65+;total;0.50933
+Guinea;2010;15+;female;0.12192
+Guinea;2010;15+;male;0.367898
+Guinea;2010;15+;total;0.253077
+Guinea;2010;15-24;female;0.217967
+Guinea;2010;15-24;male;0.375672
+Guinea;2010;15-24;total;0.314064
+Guinea;2010;25-64;female;0.095039
+Guinea;2010;25-64;male;0.390474
+Guinea;2010;25-64;total;0.242631
+Guinea;2010;65+;female;0.023245
+Guinea;2010;65+;male;0.154608
+Guinea;2010;65+;total;0.085524
+Guinea;2014;15+;female;0.219623
+Guinea;2014;15+;male;0.436401
+Guinea;2014;15+;total;0.320038
+Guinea;2014;15-24;female;0.372102
+Guinea;2014;15-24;male;0.569705
+Guinea;2014;15-24;total;0.462951
+Guinea;2014;25-64;female;0.147931
+Guinea;2014;25-64;male;0.386105
+Guinea;2014;25-64;total;0.257451
+Guinea;2014;65+;female;0.043283
+Guinea;2014;65+;male;0.215781
+Guinea;2014;65+;total;0.131115
+Guinea-Bissau;2014;15+;female;0.307685
+Guinea-Bissau;2014;15+;male;0.62158
+Guinea-Bissau;2014;15+;total;0.455812
+Guinea-Bissau;2014;15-24;female;0.497563
+Guinea-Bissau;2014;15-24;male;0.712503
+Guinea-Bissau;2014;15-24;total;0.604024
+Guinea-Bissau;2014;25-64;female;0.230058
+Guinea-Bissau;2014;25-64;male;0.588932
+Guinea-Bissau;2014;25-64;total;0.394258
+Guinea-Bissau;2014;65+;female;0.028711
+Guinea-Bissau;2014;65+;male;0.376826
+Guinea-Bissau;2014;65+;total;0.194603
+Kenya;2014;15+;female;0.740063
+Kenya;2014;15+;male;0.83778
+Kenya;2014;15+;total;0.78733
+Kenya;2014;15-24;female;0.861365
+Kenya;2014;15-24;male;0.869387
+Kenya;2014;15-24;total;0.865256
+Kenya;2014;25-64;female;0.718871
+Kenya;2014;25-64;male;0.830462
+Kenya;2014;25-64;total;0.773129
+Kenya;2014;65+;female;0.369175
+Kenya;2014;65+;male;0.74622
+Kenya;2014;65+;total;0.540417
+Kenya;2018;15+;female;0.781889
+Kenya;2018;15+;male;0.849888
+Kenya;2018;15+;total;0.81535
+Kenya;2018;15-24;female;0.8808
+Kenya;2018;15-24;male;0.8759
+Kenya;2018;15-24;total;0.8783
+Kenya;2018;25-64;female;0.752791
+Kenya;2018;25-64;male;0.83982
+Kenya;2018;25-64;total;0.795589
+Kenya;2018;65+;female;0.436953
+Kenya;2018;65+;male;0.764173
+Kenya;2018;65+;total;0.574236
+Lesotho;2014;15+;female;0.849349
+Lesotho;2014;15+;male;0.677475
+Lesotho;2014;15+;total;0.766352
+Lesotho;2014;15-24;female;0.939699
+Lesotho;2014;15-24;male;0.79608
+Lesotho;2014;15-24;total;0.866322
+Lesotho;2014;25-64;female;0.85462
+Lesotho;2014;25-64;male;0.650649
+Lesotho;2014;25-64;total;0.755332
+Lesotho;2014;65+;female;0.602427
+Lesotho;2014;65+;male;0.365956
+Lesotho;2014;65+;total;0.514431
+Liberia;2017;15+;female;0.340923
+Liberia;2017;15+;male;0.626966
+Liberia;2017;15+;total;0.483014
+Liberia;2017;15-24;female;0.456387
+Liberia;2017;15-24;male;0.649571
+Liberia;2017;15-24;total;0.553987
+Liberia;2017;25-64;female;0.300666
+Liberia;2017;25-64;male;0.61918
+Liberia;2017;25-64;total;0.458852
+Liberia;2017;65+;female;0.12327
+Liberia;2017;65+;male;0.568493
+Liberia;2017;65+;total;0.32217
+Madagascar;2012;15+;female;0.682833
+Madagascar;2012;15+;male;0.750289
+Madagascar;2012;15+;total;0.715726
+Madagascar;2012;15-24;female;0.753039
+Madagascar;2012;15-24;male;0.784125
+Madagascar;2012;15-24;total;0.768292
+Madagascar;2012;25-64;female;0.675802
+Madagascar;2012;25-64;male;0.746806
+Madagascar;2012;25-64;total;0.710268
+Madagascar;2012;65+;female;0.380019
+Madagascar;2012;65+;male;0.608491
+Madagascar;2012;65+;total;0.493665
+Madagascar;2018;15+;female;0.723841
+Madagascar;2018;15+;male;0.772751
+Madagascar;2018;15+;total;0.748043
+Madagascar;2018;15-24;female;0.80678
+Madagascar;2018;15-24;male;0.817198
+Madagascar;2018;15-24;total;0.811984
+Madagascar;2018;25-64;female;0.697222
+Madagascar;2018;25-64;male;0.754349
+Madagascar;2018;25-64;total;0.725514
+Madagascar;2018;65+;female;0.49239
+Madagascar;2018;65+;male;0.67665
+Madagascar;2018;65+;total;0.576762
+Malawi;2010;15+;female;0.51252
+Malawi;2010;15+;male;0.720977
+Malawi;2010;15+;total;0.613097
+Malawi;2010;15-24;female;0.699817
+Malawi;2010;15-24;male;0.742693
+Malawi;2010;15-24;total;0.721396
+Malawi;2010;25-64;female;0.462323
+Malawi;2010;25-64;male;0.714085
+Malawi;2010;25-64;total;0.582991
+Malawi;2010;65+;female;0.127222
+Malawi;2010;65+;male;0.660543
+Malawi;2010;65+;total;0.34629
+Malawi;2014;15+;female;0.55131
+Malawi;2014;15+;male;0.759793
+Malawi;2014;15+;total;0.651454
+Malawi;2014;15-24;female;0.733324
+Malawi;2014;15-24;male;0.787847
+Malawi;2014;15-24;total;0.760819
+Malawi;2014;25-64;female;0.509833
+Malawi;2014;25-64;male;0.751595
+Malawi;2014;25-64;total;0.624722
+Malawi;2014;65+;female;0.158615
+Malawi;2014;65+;male;0.682015
+Malawi;2014;65+;total;0.375366
+Malawi;2015;15+;female;0.552041
+Malawi;2015;15+;male;0.69754
+Malawi;2015;15+;total;0.621435
+Malawi;2015;15-24;female;0.733858
+Malawi;2015;15-24;male;0.724917
+Malawi;2015;15-24;total;0.729356
+Malawi;2015;25-64;female;0.505165
+Malawi;2015;25-64;male;0.68845
+Malawi;2015;25-64;total;0.590976
+Malawi;2015;65+;female;0.156098
+Malawi;2015;65+;male;0.621646
+Malawi;2015;65+;total;0.351424
+Mali;2010;15+;female;0.202879
+Mali;2010;15+;male;0.434006
+Mali;2010;15+;total;0.310998
+Mali;2010;15-24;female;0.339457
+Mali;2010;15-24;male;0.563713
+Mali;2010;15-24;total;0.443017
+Mali;2010;25-64;female;0.145251
+Mali;2010;25-64;male;0.394803
+Mali;2010;25-64;total;0.260903
+Mali;2010;65+;female;0.015607
+Mali;2010;65+;male;0.188556
+Mali;2010;65+;total;0.107825
+Mali;2011;15+;female;0.246368
+Mali;2011;15+;male;0.432739
+Mali;2011;15+;total;0.335609
+Mali;2011;15-24;female;0.390086
+Mali;2011;15-24;male;0.56315
+Mali;2011;15-24;total;0.47137
+Mali;2011;25-64;female;0.174925
+Mali;2011;25-64;male;0.381472
+Mali;2011;25-64;total;0.274178
+Mali;2011;65+;female;0.059418
+Mali;2011;65+;male;0.203239
+Mali;2011;65+;total;0.133286
+Mali;2015;15+;female;0.221958
+Mali;2015;15+;male;0.450659
+Mali;2015;15+;total;0.330689
+Mali;2015;15-24;female;0.392078
+Mali;2015;15-24;male;0.605255
+Mali;2015;15-24;total;0.493665
+Mali;2015;25-64;female;0.152927
+Mali;2015;25-64;male;0.401583
+Mali;2015;25-64;total;0.267948
+Mali;2015;65+;female;0.026551
+Mali;2015;65+;male;0.212326
+Mali;2015;65+;total;0.136014
+Mali;2018;15+;female;0.257352
+Mali;2018;15+;male;0.461841
+Mali;2018;15+;total;0.354738
+Mali;2018;15-24;female;0.433981
+Mali;2018;15-24;male;0.578333
+Mali;2018;15-24;total;0.501347
+Mali;2018;25-64;female;0.178901
+Mali;2018;25-64;male;0.427392
+Mali;2018;25-64;total;0.294947
+Mali;2018;65+;female;0.069451
+Mali;2018;65+;male;0.267446
+Mali;2018;65+;total;0.19082
+Mauritania;2017;15+;female;0.433544
+Mauritania;2017;15+;male;0.637486
+Mauritania;2017;15+;total;0.534976
+Mauritania;2017;15-24;female;0.567607
+Mauritania;2017;15-24;male;0.709363
+Mauritania;2017;15-24;total;0.639478
+Mauritania;2017;25-64;female;0.391839
+Mauritania;2017;25-64;male;0.613781
+Mauritania;2017;25-64;total;0.50255
+Mauritania;2017;65+;female;0.163124
+Mauritania;2017;65+;male;0.440444
+Mauritania;2017;65+;total;0.279715
+Mauritius;2011;15+;female;0.866581
+Mauritius;2011;15+;male;0.919517
+Mauritius;2011;15+;total;0.892498
+Mauritius;2011;15-24;female;0.985759
+Mauritius;2011;15-24;male;0.976892
+Mauritius;2011;15-24;total;0.981304
+Mauritius;2011;25-64;female;0.886971
+Mauritius;2011;25-64;male;0.919432
+Mauritius;2011;25-64;total;0.9031
+Mauritius;2011;65+;female;0.547545
+Mauritius;2011;65+;male;0.784081
+Mauritius;2011;65+;total;0.645521
+Mauritius;2012;15+;female;0.889794
+Mauritius;2012;15+;male;0.946524
+Mauritius;2012;15+;total;0.91766
+Mauritius;2013;15+;female;0.890509
+Mauritius;2013;15+;male;0.940369
+Mauritius;2013;15+;total;0.9149
+Mauritius;2014;15+;female;0.902833
+Mauritius;2014;15+;male;0.947654
+Mauritius;2014;15+;total;0.924748
+Mauritius;2015;15+;female;0.90654
+Mauritius;2015;15+;male;0.948612
+Mauritius;2015;15+;total;0.927076
+Mauritius;2016;15+;female;0.909806
+Mauritius;2016;15+;male;0.954359
+Mauritius;2016;15+;total;0.931578
+Mauritius;2018;15+;female;0.893664
+Mauritius;2018;15+;male;0.933574
+Mauritius;2018;15+;total;0.913254
+Mauritius;2018;15-24;female;0.993534
+Mauritius;2018;15-24;male;0.98738
+Mauritius;2018;15-24;total;0.99042
+Mauritius;2018;25-64;female;0.925218
+Mauritius;2018;25-64;male;0.933985
+Mauritius;2018;25-64;total;0.929593
+Mauritius;2018;65+;female;0.644003
+Mauritius;2018;65+;male;0.933574
+Mauritius;2018;65+;total;0.731726
+Mozambique;2015;15+;female;0.430625
+Mozambique;2015;15+;male;0.707584
+Mozambique;2015;15+;total;0.56039
+Mozambique;2015;15-24;female;0.62667
+Mozambique;2015;15-24;male;0.790671
+Mozambique;2015;15-24;total;0.705251
+Mozambique;2015;25-64;female;0.355485
+Mozambique;2015;25-64;male;0.682538
+Mozambique;2015;25-64;total;0.507029
+Mozambique;2015;65+;female;0.087989
+Mozambique;2015;65+;male;0.46311
+Mozambique;2015;65+;total;0.260082
+Mozambique;2017;15+;female;0.502951
+Mozambique;2017;15+;male;0.725995
+Mozambique;2017;15+;total;0.606554
+Mozambique;2017;15-24;female;0.654898
+Mozambique;2017;15-24;male;0.772602
+Mozambique;2017;15-24;total;0.709125
+Mozambique;2017;25-64;female;0.441794
+Mozambique;2017;25-64;male;0.719629
+Mozambique;2017;25-64;total;0.571988
+Mozambique;2017;65+;female;0.157615
+Mozambique;2017;65+;male;0.49968
+Mozambique;2017;65+;total;0.311198
+Namibia;2011;15+;female;0.879511
+Namibia;2011;15+;male;0.886312
+Namibia;2011;15+;total;0.882746
+Namibia;2011;15-24;female;0.953463
+Namibia;2011;15-24;male;0.934585
+Namibia;2011;15-24;total;0.944194
+Namibia;2011;25-64;female;0.890088
+Namibia;2011;25-64;male;0.897117
+Namibia;2011;25-64;total;0.89342
+Namibia;2011;65+;female;0.553415
+Namibia;2011;65+;male;0.585669
+Namibia;2011;65+;total;0.567199
+Namibia;2018;15+;female;0.914364
+Namibia;2018;15+;male;0.916274
+Namibia;2018;15+;total;0.915273
+Namibia;2018;15-24;female;0.961984
+Namibia;2018;15-24;male;0.941094
+Namibia;2018;15-24;total;0.951649
+Namibia;2018;25-64;female;0.918714
+Namibia;2018;25-64;male;0.915165
+Namibia;2018;25-64;total;0.917028
+Namibia;2018;65+;female;0.914364
+Namibia;2018;65+;male;0.751481
+Namibia;2018;65+;total;0.697038
+Niger;2012;15+;female;0.225513
+Niger;2012;15+;male;0.390587
+Niger;2012;15+;total;0.305604
+Niger;2012;15-24;female;0.316439
+Niger;2012;15-24;male;0.485572
+Niger;2012;15-24;total;0.397877
+Niger;2012;25-64;female;0.182913
+Niger;2012;25-64;male;0.351909
+Niger;2012;25-64;total;0.265294
+Niger;2012;65+;female;0.079687
+Niger;2012;65+;male;0.198303
+Niger;2012;65+;total;0.137314
+Nigeria;2018;15+;female;0.526565
+Nigeria;2018;15+;male;0.712557
+Nigeria;2018;15+;total;0.62016
+Nigeria;2018;15-24;female;0.682626
+Nigeria;2018;15-24;male;0.815806
+Nigeria;2018;15-24;total;0.750288
+Nigeria;2018;25-64;female;0.469942
+Nigeria;2018;25-64;male;0.677789
+Nigeria;2018;25-64;total;0.574461
+Nigeria;2018;65+;female;0.176339
+Nigeria;2018;65+;male;0.40109
+Nigeria;2018;65+;total;0.282878
+Rwanda;2010;15+;female;0.615486
+Rwanda;2010;15+;male;0.711305
+Rwanda;2010;15+;total;0.658523
+Rwanda;2010;15-24;female;0.779725
+Rwanda;2010;15-24;male;0.766586
+Rwanda;2010;15-24;total;0.773446
+Rwanda;2010;25-64;female;0.568509
+Rwanda;2010;25-64;male;0.690126
+Rwanda;2010;25-64;total;0.621971
+Rwanda;2010;65+;female;0.203538
+Rwanda;2010;65+;male;0.529719
+Rwanda;2010;65+;total;0.324279
+Rwanda;2012;15+;female;0.646645
+Rwanda;2012;15+;male;0.724452
+Rwanda;2012;15+;total;0.68331
+Rwanda;2012;15-24;female;0.834874
+Rwanda;2012;15-24;male;0.811201
+Rwanda;2012;15-24;total;0.823308
+Rwanda;2012;25-64;female;0.595517
+Rwanda;2012;25-64;male;0.695399
+Rwanda;2012;25-64;total;0.64232
+Rwanda;2012;65+;female;0.132008
+Rwanda;2012;65+;male;0.416665
+Rwanda;2012;65+;total;0.242981
+Rwanda;2014;15+;female;0.661374
+Rwanda;2014;15+;male;0.761497
+Rwanda;2014;15+;total;0.708041
+Rwanda;2014;15-24;female;0.862623
+Rwanda;2014;15-24;male;0.838141
+Rwanda;2014;15-24;total;0.850662
+Rwanda;2014;25-64;female;0.612837
+Rwanda;2014;25-64;male;0.739277
+Rwanda;2014;25-64;total;0.671096
+Rwanda;2014;65+;female;0.105042
+Rwanda;2014;65+;male;0.461423
+Rwanda;2014;65+;total;0.243312
+Rwanda;2018;15+;female;0.693945
+Rwanda;2018;15+;male;0.775588
+Rwanda;2018;15+;total;0.732156
+Rwanda;2018;15-24;female;0.885018
+Rwanda;2018;15-24;male;0.843259
+Rwanda;2018;15-24;total;0.864928
+Rwanda;2018;25-64;female;0.654594
+Rwanda;2018;25-64;male;0.760334
+Rwanda;2018;25-64;total;0.704111
+Rwanda;2018;65+;female;0.149262
+Rwanda;2018;65+;male;0.506762
+Rwanda;2018;65+;total;0.289849
+Sao Tome and Principe;2012;15+;female;0.854417
+Sao Tome and Principe;2012;15+;male;0.949562
+Sao Tome and Principe;2012;15+;total;0.901431
+Sao Tome and Principe;2012;15-24;female;0.963509
+Sao Tome and Principe;2012;15-24;male;0.971208
+Sao Tome and Principe;2012;15-24;total;0.967384
+Sao Tome and Principe;2012;25-64;female;0.859643
+Sao Tome and Principe;2012;25-64;male;0.957009
+Sao Tome and Principe;2012;25-64;total;0.907812
+Sao Tome and Principe;2012;65+;female;0.303417
+Sao Tome and Principe;2012;65+;male;0.740179
+Sao Tome and Principe;2012;65+;total;0.495751
+Sao Tome and Principe;2018;15+;female;0.895157
+Sao Tome and Principe;2018;15+;male;0.961627
+Sao Tome and Principe;2018;15+;total;0.928166
+Sao Tome and Principe;2018;15-24;female;0.978542
+Sao Tome and Principe;2018;15-24;male;0.977125
+Sao Tome and Principe;2018;15-24;total;0.977826
+Sao Tome and Principe;2018;25-64;female;0.896629
+Sao Tome and Principe;2018;25-64;male;0.963129
+Sao Tome and Principe;2018;25-64;total;0.929703
+Sao Tome and Principe;2018;65+;female;0.403362
+Sao Tome and Principe;2018;65+;male;0.821678
+Sao Tome and Principe;2018;65+;total;0.583896
+Senegal;2011;15+;female;0.404249
+Senegal;2011;15+;male;0.663415
+Senegal;2011;15+;total;0.52052
+Senegal;2011;15-24;female;0.58999
+Senegal;2011;15-24;male;0.739665
+Senegal;2011;15-24;total;0.660327
+Senegal;2011;25-64;female;0.340999
+Senegal;2011;25-64;male;0.64741
+Senegal;2011;25-64;total;0.473505
+Senegal;2011;65+;female;0.082259
+Senegal;2011;65+;male;0.436655
+Senegal;2011;65+;total;0.250885
+Senegal;2013;15+;female;0.335966
+Senegal;2013;15+;male;0.528045
+Senegal;2013;15+;total;0.428175
+Senegal;2013;15-24;female;0.509689
+Senegal;2013;15-24;male;0.611138
+Senegal;2013;15-24;total;0.558959
+Senegal;2013;25-64;female;0.267945
+Senegal;2013;25-64;male;0.497375
+Senegal;2013;25-64;total;0.377315
+Senegal;2013;65+;female;0.070209
+Senegal;2013;65+;male;0.369584
+Senegal;2013;65+;total;0.214649
+Senegal;2017;15+;female;0.397986
+Senegal;2017;15+;male;0.648123
+Senegal;2017;15+;total;0.519004
+Senegal;2017;15-24;female;0.635027
+Senegal;2017;15-24;male;0.755764
+Senegal;2017;15-24;total;0.694784
+Senegal;2017;25-64;female;0.293311
+Senegal;2017;25-64;male;0.602954
+Senegal;2017;25-64;total;0.439633
+Senegal;2017;65+;female;0.072947
+Senegal;2017;65+;male;0.462121
+Senegal;2017;65+;total;0.276668
+Seychelles;2010;15+;female;0.94449
+Seychelles;2010;15+;male;0.934639
+Seychelles;2010;15+;total;0.939542
+Seychelles;2010;15-24;female;0.993831
+Seychelles;2010;15-24;male;0.985867
+Seychelles;2010;15-24;total;0.989713
+Seychelles;2010;25-64;female;0.966933
+Seychelles;2010;25-64;male;0.947274
+Seychelles;2010;25-64;total;0.956829
+Seychelles;2010;65+;female;0.739419
+Seychelles;2010;65+;male;0.677914
+Seychelles;2010;65+;total;0.715378
+Seychelles;2018;15+;female;0.963502
+Seychelles;2018;15+;male;0.954118
+Seychelles;2018;15+;total;0.958677
+Seychelles;2018;15-24;female;0.996
+Seychelles;2018;15-24;male;0.9856
+Seychelles;2018;15-24;total;0.9907
+Seychelles;2018;25-64;female;0.980903
+Seychelles;2018;25-64;male;0.967878
+Seychelles;2018;25-64;total;0.974058
+Seychelles;2018;65+;female;0.80962
+Seychelles;2018;65+;male;0.763658
+Seychelles;2018;65+;total;0.789968
+Sierra Leone;2013;15+;female;0.248567
+Sierra Leone;2013;15+;male;0.413322
+Sierra Leone;2013;15+;total;0.324262
+Sierra Leone;2013;15-24;female;0.508571
+Sierra Leone;2013;15-24;male;0.645305
+Sierra Leone;2013;15-24;total;0.570221
+Sierra Leone;2013;25-64;female;0.147512
+Sierra Leone;2013;25-64;male;0.347852
+Sierra Leone;2013;25-64;total;0.239532
+Sierra Leone;2013;65+;female;0.004025
+Sierra Leone;2013;65+;male;0.071348
+Sierra Leone;2013;65+;total;0.037247
+Sierra Leone;2018;15+;female;0.34852
+Sierra Leone;2018;15+;male;0.516469
+Sierra Leone;2018;15+;total;0.432063
+Sierra Leone;2018;15-24;female;0.626992
+Sierra Leone;2018;15-24;male;0.705761
+Sierra Leone;2018;15-24;total;0.666486
+Sierra Leone;2018;25-64;female;0.222742
+Sierra Leone;2018;25-64;male;0.438535
+Sierra Leone;2018;25-64;total;0.330827
+Sierra Leone;2018;65+;female;0.007178
+Sierra Leone;2018;65+;male;0.097142
+Sierra Leone;2018;65+;total;0.045768
+South Africa;2010;15+;female;0.91714
+South Africa;2010;15+;male;0.941439
+South Africa;2010;15+;total;0.928773
+South Africa;2010;15-24;female;0.989014
+South Africa;2010;15-24;male;0.983887
+South Africa;2010;15-24;total;0.986441
+South Africa;2010;25-64;female;0.923439
+South Africa;2010;25-64;male;0.937969
+South Africa;2010;25-64;total;0.930428
+South Africa;2010;65+;female;0.633291
+South Africa;2010;65+;male;0.739186
+South Africa;2010;65+;total;0.67152
+South Africa;2011;15+;female;0.920479
+South Africa;2011;15+;male;0.942451
+South Africa;2011;15+;total;0.931021
+South Africa;2011;15-24;female;0.991521
+South Africa;2011;15-24;male;0.984306
+South Africa;2011;15-24;total;0.987897
+South Africa;2011;25-64;female;0.928344
+South Africa;2011;25-64;male;0.940188
+South Africa;2011;25-64;total;0.934067
+South Africa;2011;65+;female;0.642556
+South Africa;2011;65+;male;0.738124
+South Africa;2011;65+;total;0.676804
+South Africa;2012;15+;female;0.925863
+South Africa;2012;15+;male;0.949637
+South Africa;2012;15+;total;0.937295
+South Africa;2012;15-24;female;0.992707
+South Africa;2012;15-24;male;0.984966
+South Africa;2012;15-24;total;0.98882
+South Africa;2012;25-64;female;0.935141
+South Africa;2012;25-64;male;0.949769
+South Africa;2012;25-64;total;0.942239
+South Africa;2012;65+;female;0.655626
+South Africa;2012;65+;male;0.755727
+South Africa;2012;65+;total;0.691463
+South Africa;2014;15+;female;0.930731
+South Africa;2014;15+;male;0.952869
+South Africa;2014;15+;total;0.941399
+South Africa;2014;15-24;female;0.990844
+South Africa;2014;15-24;male;0.986817
+South Africa;2014;15-24;total;0.988823
+South Africa;2014;25-64;female;0.943427
+South Africa;2014;25-64;male;0.953376
+South Africa;2014;25-64;total;0.948281
+South Africa;2014;65+;female;0.672885
+South Africa;2014;65+;male;0.77376
+South Africa;2014;65+;total;0.708835
+South Africa;2015;15+;female;0.93408
+South Africa;2015;15+;male;0.953965
+South Africa;2015;15+;total;0.943679
+South Africa;2015;15-24;female;0.99229
+South Africa;2015;15-24;male;0.986846
+South Africa;2015;15-24;total;0.989558
+South Africa;2015;25-64;female;0.946896
+South Africa;2015;25-64;male;0.954795
+South Africa;2015;25-64;total;0.950761
+South Africa;2015;65+;female;0.686676
+South Africa;2015;65+;male;0.782656
+South Africa;2015;65+;total;0.72104
+South Africa;2017;15+;female;0.864586
+South Africa;2017;15+;male;0.876778
+South Africa;2017;15+;total;0.870467
+South Africa;2017;15-24;female;0.968759
+South Africa;2017;15-24;male;0.937561
+South Africa;2017;15-24;total;0.953238
+South Africa;2017;25-64;female;0.875135
+South Africa;2017;25-64;male;0.878558
+South Africa;2017;25-64;total;0.876806
+South Africa;2017;65+;female;0.511884
+South Africa;2017;65+;male;0.599496
+South Africa;2017;65+;total;0.54524
+South Sudan;2018;15+;female;0.288643
+South Sudan;2018;15+;male;0.402648
+South Sudan;2018;15+;total;0.345228
+South Sudan;2018;15-24;female;0.473692
+South Sudan;2018;15-24;male;0.484251
+South Sudan;2018;15-24;total;0.47901
+South Sudan;2018;25-64;female;0.205647
+South Sudan;2018;25-64;male;0.375091
+South Sudan;2018;25-64;total;0.289612
+South Sudan;2018;65+;female;0.063884
+South Sudan;2018;65+;male;0.173388
+South Sudan;2018;65+;total;0.1144
+Swaziland;2010;15+;female;0.824476
+Swaziland;2010;15+;male;0.839002
+Swaziland;2010;15+;total;0.830983
+Swaziland;2010;15-24;female;0.947485
+Swaziland;2010;15-24;male;0.921874
+Swaziland;2010;15-24;total;0.935023
+Swaziland;2010;25-64;female;0.817224
+Swaziland;2010;25-64;male;0.819968
+Swaziland;2010;25-64;total;0.818403
+Swaziland;2010;65+;female;0.40074
+Swaziland;2010;65+;male;0.528679
+Swaziland;2010;65+;total;0.451789
+Swaziland;2018;15+;female;0.885427
+Swaziland;2018;15+;male;0.882876
+Swaziland;2018;15+;total;0.884194
+Swaziland;2018;15-24;female;0.966953
+Swaziland;2018;15-24;male;0.942977
+Swaziland;2018;15-24;total;0.954694
+Swaziland;2018;25-64;female;0.889983
+Swaziland;2018;25-64;male;0.866949
+Swaziland;2018;25-64;total;0.879074
+Swaziland;2018;65+;female;0.522859
+Swaziland;2018;65+;male;0.623842
+Swaziland;2018;65+;total;0.559156
+Togo;2011;15+;female;0.479774
+Togo;2011;15+;male;0.740568
+Togo;2011;15+;total;0.604099
+Togo;2011;15-24;female;0.727081
+Togo;2011;15-24;male;0.869167
+Togo;2011;15-24;total;0.798859
+Togo;2011;25-64;female;0.397588
+Togo;2011;25-64;male;0.710438
+Togo;2011;25-64;total;0.542719
+Togo;2011;65+;female;0.091709
+Togo;2011;65+;male;0.29488
+Togo;2011;65+;total;0.183398
+Togo;2015;15+;female;0.512418
+Togo;2015;15+;male;0.772594
+Togo;2015;15+;total;0.637456
+Togo;2015;15-24;female;0.783709
+Togo;2015;15-24;male;0.896725
+Togo;2015;15-24;total;0.842901
+Togo;2015;25-64;female;0.452872
+Togo;2015;25-64;male;0.747181
+Togo;2015;25-64;total;0.589953
+Togo;2015;65+;female;0.062931
+Togo;2015;65+;male;0.393427
+Togo;2015;65+;total;0.204072
+Uganda;2010;15+;female;0.645915
+Uganda;2010;15+;male;0.826314
+Uganda;2010;15+;total;0.732119
+Uganda;2010;15-24;female;0.854715
+Uganda;2010;15-24;male;0.896352
+Uganda;2010;15-24;total;0.874088
+Uganda;2010;25-64;female;0.54428
+Uganda;2010;25-64;male;0.806108
+Uganda;2010;25-64;total;0.672136
+Uganda;2010;65+;female;0.160826
+Uganda;2010;65+;male;0.556668
+Uganda;2010;65+;total;0.344575
+Uganda;2012;15+;female;0.619704
+Uganda;2012;15+;male;0.79123
+Uganda;2012;15+;total;0.701982
+Uganda;2012;15-24;female;0.816542
+Uganda;2012;15-24;male;0.857598
+Uganda;2012;15-24;total;0.836589
+Uganda;2012;25-64;female;0.528342
+Uganda;2012;25-64;male;0.763406
+Uganda;2012;25-64;total;0.640271
+Uganda;2012;65+;female;0.178808
+Uganda;2012;65+;male;0.579569
+Uganda;2012;65+;total;0.360822
+Uganda;2018;15+;female;0.708381
+Uganda;2018;15+;male;0.82656
+Uganda;2018;15+;total;0.765275
+Uganda;2018;15-24;female;0.899506
+Uganda;2018;15-24;male;0.888269
+Uganda;2018;15-24;total;0.893963
+Uganda;2018;25-64;female;0.614481
+Uganda;2018;25-64;male;0.792038
+Uganda;2018;25-64;total;0.699476
+Uganda;2018;65+;female;0.263088
+Uganda;2018;65+;male;0.659069
+Uganda;2018;65+;total;0.420398
+United Republic of Tanzania;2010;15+;female;0.607526
+United Republic of Tanzania;2010;15+;male;0.754678
+United Republic of Tanzania;2010;15+;total;0.678007
+United Republic of Tanzania;2010;15-24;female;0.72771
+United Republic of Tanzania;2010;15-24;male;0.764911
+United Republic of Tanzania;2010;15-24;total;0.745605
+United Republic of Tanzania;2010;25-64;female;0.580346
+United Republic of Tanzania;2010;25-64;male;0.752335
+United Republic of Tanzania;2010;25-64;total;0.662214
+United Republic of Tanzania;2010;65+;female;0.322334
+United Republic of Tanzania;2010;65+;male;0.731342
+United Republic of Tanzania;2010;65+;total;0.523722
+United Republic of Tanzania;2012;15+;female;0.733472
+United Republic of Tanzania;2012;15+;male;0.833777
+United Republic of Tanzania;2012;15+;total;0.781006
+United Republic of Tanzania;2012;15-24;female;0.84848
+United Republic of Tanzania;2012;15-24;male;0.871745
+United Republic of Tanzania;2012;15-24;total;0.8594
+United Republic of Tanzania;2012;25-64;female;0.718649
+United Republic of Tanzania;2012;25-64;male;0.840831
+United Republic of Tanzania;2012;25-64;total;0.776898
+United Republic of Tanzania;2012;65+;female;0.298144
+United Republic of Tanzania;2012;65+;male;0.589982
+United Republic of Tanzania;2012;65+;total;0.435795
+United Republic of Tanzania;2015;15+;female;0.730938
+United Republic of Tanzania;2015;15+;male;0.832049
+United Republic of Tanzania;2015;15+;total;0.778872
+United Republic of Tanzania;2015;15-24;female;0.846408
+United Republic of Tanzania;2015;15-24;male;0.870131
+United Republic of Tanzania;2015;15-24;total;0.857551
+United Republic of Tanzania;2015;25-64;female;0.716108
+United Republic of Tanzania;2015;25-64;male;0.83919
+United Republic of Tanzania;2015;25-64;total;0.774798
+United Republic of Tanzania;2015;65+;female;0.297144
+United Republic of Tanzania;2015;65+;male;0.588607
+United Republic of Tanzania;2015;65+;total;0.434622
+Zambia;2010;15+;female;0.777466
+Zambia;2010;15+;male;0.88684
+Zambia;2010;15+;total;0.830077
+Zambia;2010;15-24;female;0.865095
+Zambia;2010;15-24;male;0.911956
+Zambia;2010;15-24;total;0.887146
+Zambia;2010;25-64;female;0.757094
+Zambia;2010;25-64;male;0.884117
+Zambia;2010;25-64;total;0.819203
+Zambia;2010;65+;female;0.342365
+Zambia;2010;65+;male;0.728727
+Zambia;2010;65+;total;0.523444
+Zambia;2018;15+;female;0.830834
+Zambia;2018;15+;male;0.906012
+Zambia;2018;15+;total;0.86748
+Zambia;2018;15-24;female;0.916282
+Zambia;2018;15-24;male;0.925596
+Zambia;2018;15-24;total;0.920916
+Zambia;2018;25-64;female;0.80483
+Zambia;2018;25-64;male;0.898173
+Zambia;2018;25-64;total;0.850311
+Zambia;2018;65+;female;0.468645
+Zambia;2018;65+;male;0.809339
+Zambia;2018;65+;total;0.602001
+Zimbabwe;2011;15+;female;0.800657
+Zimbabwe;2011;15+;male;0.877648
+Zimbabwe;2011;15+;total;0.835827
+Zimbabwe;2011;15-24;female;0.921246
+Zimbabwe;2011;15-24;male;0.895906
+Zimbabwe;2011;15-24;total;0.909307
+Zimbabwe;2011;25-64;female;0.790037
+Zimbabwe;2011;25-64;male;0.873897
+Zimbabwe;2011;25-64;total;0.827775
+Zimbabwe;2011;65+;female;0.398665
+Zimbabwe;2011;65+;male;0.825945
+Zimbabwe;2011;65+;total;0.590066
+Zimbabwe;2014;15+;female;0.882838
+Zimbabwe;2014;15+;male;0.891854
+Zimbabwe;2014;15+;total;0.886934
+Zimbabwe;2014;15-24;female;0.931884
+Zimbabwe;2014;15-24;male;0.875919
+Zimbabwe;2014;15-24;total;0.904281
+Zimbabwe;2014;25-64;female;0.880485
+Zimbabwe;2014;25-64;male;0.897255
+Zimbabwe;2014;25-64;total;0.887874
+Zimbabwe;2014;65+;female;0.734258
+Zimbabwe;2014;65+;male;0.927231
+Zimbabwe;2014;65+;total;0.811269
