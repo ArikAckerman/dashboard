@@ -1,4 +1,4 @@
-Country;Year;Age;Gender;Literacy rate
+Country;Year;Age;Sex;Rate
 Afghanistan;2011;15+;female;0.176121
 Afghanistan;2011;15+;male;0.454171
 Afghanistan;2011;15+;total;0.317411
